@@ -1,2 +1,4 @@
 *.csv
 get_flow_data.ipynb
+
+__pycache__/
