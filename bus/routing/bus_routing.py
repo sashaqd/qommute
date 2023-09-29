@@ -114,7 +114,7 @@ def visualize_solution(xc, yc, x, C, n, K, title_str):
     plt.figure()
     plt.scatter(xc, yc, s=200)
     for i in range(len(xc)):
-        plt.annotate(i, (xc[i] + 0.15, yc[i]), size=16, color="r")
+        plt.annotate(i, (xc[i] + 0.015, yc[i]), size=16, color="r")
     plt.plot(xc[0], yc[0], "r*", ms=20)
 
     plt.grid()
@@ -130,7 +130,7 @@ def visualize_solution(xc, yc, x, C, n, K, title_str):
                 xc[iy] - xc[ix],
                 yc[iy] - yc[ix],
                 length_includes_head=True,
-                head_width=0.25,
+                head_width=0.03,
             )
 
     plt.title(title_str + " cost = " + str(int(C * 100) / 100.0))
@@ -152,8 +152,8 @@ class BusRoutingInstance:
         yc = np.zeros(n)
 
         for ii in range(0, n):
-            xc[ii] = depot_locations[ii]["lat"]
-            yc[ii] = depot_locations[ii]["lng"]
+            xc[ii] = depot_locations[ii]["lat"] * 10 # multiply by 10 to get a better visualization
+            yc[ii] = depot_locations[ii]["lng"] * 10 # multiply by 10 to get a better visualization
 
         instance = np.zeros([n, n])
         for ii in range(0, n):

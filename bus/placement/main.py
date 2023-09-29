@@ -56,3 +56,24 @@ print("Printing QAOA result:")
 print(qaoa_result.pretty_print())
 print("Printing exact result:")
 print(exact_result.pretty_print())
+
+# Step 9: Save the results for the routing problem
+# extract the node information from the best sample
+selected_nodes = []
+index = 0
+for key, value in best_sample.sample.items():
+  if value == 1:
+    selected_nodes.append(index)
+  index += 1
+
+# extracting the name and coordinates of the selected nodes into a dictionary then to a json file
+selected_nodes_dic = {"depots": []}
+for i in selected_nodes:
+   for key, value in index_dic.items():
+      if value == i:
+        selected_nodes_dic["depots"].append({"lat": coordinates[key][0], "lon": coordinates[key][1]})
+
+
+import json
+with open('../routing/bus_depot_locations.json', 'w') as fp:
+    json.dump(selected_nodes_dic, fp)
