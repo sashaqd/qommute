@@ -1,4 +1,9 @@
-*.csv
+# large csv file
+mta_1706_clean.csv
+metro.csv
+Real_Time_Passenger_Information_Sign_Locations.csv
+
+# python files for data cleaning and manipulation
 get_flow_data.ipynb
 
 __pycache__/

@@ -1,0 +1,21 @@
+,nearest_station,busiest_line,predicted_delay
+0,36 St,N,5
+1,Old Town,S,5
+2,Bay Pkwy,D,4
+3,Woodhaven Blvd,Z,5
+4,Port Richmond,R,5
+5,Arlington,S,5
+6,Annadale,S,5
+7,Coney Island Stillwell Av,F,4
+8,Rosedale,L,4
+9,Grasmere,S,5
+10,Howard Beach JFK,A,4
+11,Tompkinsille,S,4
+12,Avenue X,F,4
+13,Flushing Main,7,4
+14,Bay Pkwy,B,4
+15,Jamaica Center Parsons,4,4
+16,Prospect Park,6,5
+17,Broadway Junction,A,4
+18,Eltingville Transit Center,6,4
+19,Rutland Rd-3,3,4
