@@ -10,7 +10,7 @@ Astor Pl,Gun Hill Rd,94.22166666666666
 Astor Pl,Simpson St,68.17
 Astor Pl,Bronx Park East,79.18166666666666
 Astor Pl,Winthrop St,54.47666666666667
-Astor Pl,Kingsbridge Rd,84.54333333333334
+Astor Pl,Kingsbridge Rd,84.54166666666667
 Astor Pl,Prospect Park,54.47166666666667
 Astor Pl,Broadway,43.80166666666666
 Astor Pl,Lorimer St,27.59333333333333
@@ -43,11 +43,11 @@ Astor Pl,Cypress Hills,58.625
 Astor Pl,Northern Blvd,49.730000000000004
 Astor Pl,Sutphin Blvd,81.49833333333332
 Astor Pl,Astoria Blvd,44.38
-Astor Pl,Fordham Rd,81.635
-Astor Pl,Bedford Park Blvd,87.53
-Astor Pl,Mosholu Pkwy,90.88833333333334
+Astor Pl,Fordham Rd,81.63333333333334
+Astor Pl,Bedford Park Blvd,87.52833333333334
+Astor Pl,Mosholu Pkwy,90.88666666666667
 Astor Pl,Botanic Garden,46.745
-Astor Pl,Dyckman St,77.24833333333332
+Astor Pl,Dyckman St,77.265
 Astor Pl,Steinway St,46.93
 Astor Pl,Kosciuszko St,39.138333333333335
 Astor Pl,Jefferson St,36.24666666666667
@@ -75,7 +75,7 @@ Astor Pl,Clark St,31.90666666666667
 Astor Pl,York St,33.44833333333334
 Astor Pl,High St,37.29666666666667
 Astor Pl,President St,45.961666666666666
-Astor Pl,Woodlawn,94.55
+Astor Pl,Woodlawn,94.54833333333333
 Astor Pl,Bleecker St,4.2716666666666665
 Astor Pl,Cortelyou Rd,59.64333333333333
 Astor Pl,Parkchester,70.44666666666667
@@ -91,7 +91,7 @@ Canal St,Gun Hill Rd,104.78500000000001
 Canal St,Simpson St,78.73333333333333
 Canal St,Bronx Park East,89.74499999999999
 Canal St,Winthrop St,53.458333333333336
-Canal St,Kingsbridge Rd,95.10666666666665
+Canal St,Kingsbridge Rd,95.105
 Canal St,Prospect Park,53.45333333333333
 Canal St,Broadway,53.184999999999995
 Canal St,Lorimer St,26.575
@@ -124,9 +124,9 @@ Canal St,Cypress Hills,57.60666666666667
 Canal St,Northern Blvd,51.85666666666667
 Canal St,Sutphin Blvd,80.48
 Canal St,Astoria Blvd,54.943333333333335
-Canal St,Fordham Rd,92.19833333333332
-Canal St,Bedford Park Blvd,98.09333333333333
-Canal St,Mosholu Pkwy,101.45166666666667
+Canal St,Fordham Rd,92.19666666666667
+Canal St,Bedford Park Blvd,98.09166666666667
+Canal St,Mosholu Pkwy,101.45
 Canal St,Botanic Garden,45.72666666666667
 Canal St,Dyckman St,79.93833333333333
 Canal St,Steinway St,51.336666666666666
@@ -156,7 +156,7 @@ Canal St,Clark St,34.09
 Canal St,York St,35.63166666666667
 Canal St,High St,39.480000000000004
 Canal St,President St,44.943333333333335
-Canal St,Woodlawn,105.11333333333333
+Canal St,Woodlawn,105.11166666666666
 Canal St,Bleecker St,6.738333333333333
 Canal St,Cortelyou Rd,58.625
 Canal St,Parkchester,81.01
@@ -172,7 +172,7 @@ Bergen St,Gun Hill Rd,106.66333333333334
 Bergen St,Simpson St,80.61166666666666
 Bergen St,Bronx Park East,91.62333333333332
 Bergen St,Winthrop St,27.728333333333335
-Bergen St,Kingsbridge Rd,99.61333333333333
+Bergen St,Kingsbridge Rd,99.61166666666666
 Bergen St,Prospect Park,25.84333333333333
 Bergen St,Broadway,54.74666666666667
 Bergen St,Lorimer St,24.634999999999998
@@ -201,15 +201,15 @@ Bergen St,Cleveland St,42.31666666666667
 Bergen St,Junius St,37.325
 Bergen St,Broadway Junction,34.00333333333334
 Bergen St,Crescent St,46.401666666666664
-Bergen St,Cypress Hills,49.48166666666667
+Bergen St,Cypress Hills,49.480000000000004
 Bergen St,Northern Blvd,54.141666666666666
 Bergen St,Sutphin Blvd,80.015
 Bergen St,Astoria Blvd,56.82166666666667
-Bergen St,Fordham Rd,96.705
-Bergen St,Bedford Park Blvd,102.6
-Bergen St,Mosholu Pkwy,105.95833333333333
+Bergen St,Fordham Rd,96.70333333333333
+Bergen St,Bedford Park Blvd,102.59833333333333
+Bergen St,Mosholu Pkwy,105.95666666666666
 Bergen St,Botanic Garden,17.246666666666666
-Bergen St,Dyckman St,96.18666666666667
+Bergen St,Dyckman St,96.20333333333333
 Bergen St,Steinway St,52.89833333333333
 Bergen St,Kosciuszko St,25.756666666666668
 Bergen St,Jefferson St,32.34166666666667
@@ -237,7 +237,7 @@ Bergen St,Clark St,9.21
 Bergen St,York St,7.233333333333333
 Bergen St,High St,12.321666666666665
 Bergen St,President St,19.301666666666666
-Bergen St,Woodlawn,109.61999999999999
+Bergen St,Woodlawn,109.61833333333334
 Bergen St,Bleecker St,39.083333333333336
 Bergen St,Cortelyou Rd,29.025
 Bergen St,Parkchester,82.88833333333334
@@ -334,7 +334,7 @@ Junction Blvd,Gun Hill Rd,99.40333333333334
 Junction Blvd,Simpson St,73.30833333333334
 Junction Blvd,Bronx Park East,84.36333333333333
 Junction Blvd,Winthrop St,67.72
-Junction Blvd,Kingsbridge Rd,92.31
+Junction Blvd,Kingsbridge Rd,92.30833333333334
 Junction Blvd,Prospect Park,72.70333333333333
 Junction Blvd,Broadway,25.55
 Junction Blvd,Lorimer St,43.92166666666667
@@ -367,11 +367,11 @@ Junction Blvd,Cypress Hills,40.068333333333335
 Junction Blvd,Northern Blvd,15.996666666666666
 Junction Blvd,Sutphin Blvd,40.68333333333333
 Junction Blvd,Astoria Blvd,27.709999999999997
-Junction Blvd,Fordham Rd,89.40166666666667
-Junction Blvd,Bedford Park Blvd,95.29666666666667
-Junction Blvd,Mosholu Pkwy,98.655
+Junction Blvd,Fordham Rd,89.4
+Junction Blvd,Bedford Park Blvd,95.295
+Junction Blvd,Mosholu Pkwy,98.65333333333334
 Junction Blvd,Botanic Garden,64.97666666666666
-Junction Blvd,Dyckman St,88.88333333333334
+Junction Blvd,Dyckman St,88.9
 Junction Blvd,Steinway St,23.3
 Junction Blvd,Kosciuszko St,41.248333333333335
 Junction Blvd,Jefferson St,36.88
@@ -399,7 +399,7 @@ Junction Blvd,Clark St,64.945
 Junction Blvd,York St,58.66166666666666
 Junction Blvd,High St,66.435
 Junction Blvd,President St,60.891666666666666
-Junction Blvd,Woodlawn,102.31666666666666
+Junction Blvd,Woodlawn,102.315
 Junction Blvd,Bleecker St,60.794999999999995
 Junction Blvd,Cortelyou Rd,77.60666666666665
 Junction Blvd,Parkchester,75.62833333333333
@@ -415,7 +415,7 @@ Chauncey St,Gun Hill Rd,123.31333333333333
 Chauncey St,Simpson St,97.26166666666667
 Chauncey St,Bronx Park East,108.27333333333333
 Chauncey St,Winthrop St,27.006666666666668
-Chauncey St,Kingsbridge Rd,116.26333333333334
+Chauncey St,Kingsbridge Rd,116.26166666666667
 Chauncey St,Prospect Park,34.63333333333333
 Chauncey St,Broadway,49.68
 Chauncey St,Lorimer St,20.836666666666666
@@ -437,22 +437,22 @@ Chauncey St,Nevins St,31.07
 Chauncey St,Sterling St,23.291666666666668
 Chauncey St,Hewes St,24.761666666666667
 Chauncey St,Grand St,41.894999999999996
-Chauncey St,Parsons Blvd,49.38
+Chauncey St,Parsons Blvd,49.37833333333333
 Chauncey St,Pelham Bay Park,114.345
-Chauncey St,Woodhaven Blvd,27.015
+Chauncey St,Woodhaven Blvd,27.013333333333332
 Chauncey St,Cleveland St,11.635
 Chauncey St,Junius St,13.706666666666667
 Chauncey St,Broadway Junction,4.473333333333333
 Chauncey St,Crescent St,15.72
-Chauncey St,Cypress Hills,19.238333333333333
+Chauncey St,Cypress Hills,19.236666666666668
 Chauncey St,Northern Blvd,43.193333333333335
-Chauncey St,Sutphin Blvd,45.36
+Chauncey St,Sutphin Blvd,45.358333333333334
 Chauncey St,Astoria Blvd,54.49166666666667
-Chauncey St,Fordham Rd,113.355
-Chauncey St,Bedford Park Blvd,119.25
-Chauncey St,Mosholu Pkwy,122.60833333333333
+Chauncey St,Fordham Rd,113.35333333333332
+Chauncey St,Bedford Park Blvd,119.24833333333332
+Chauncey St,Mosholu Pkwy,122.60666666666665
 Chauncey St,Botanic Garden,26.90666666666667
-Chauncey St,Dyckman St,112.83666666666666
+Chauncey St,Dyckman St,112.85333333333332
 Chauncey St,Steinway St,47.43
 Chauncey St,Kosciuszko St,11.031666666666666
 Chauncey St,Jefferson St,17.103333333333335
@@ -480,7 +480,7 @@ Chauncey St,Clark St,39.37833333333333
 Chauncey St,York St,37.81166666666666
 Chauncey St,High St,42.95166666666667
 Chauncey St,President St,21.28666666666667
-Chauncey St,Woodlawn,126.27
+Chauncey St,Woodlawn,126.26833333333335
 Chauncey St,Bleecker St,45.29833333333333
 Chauncey St,Cortelyou Rd,36.80833333333333
 Chauncey St,Parkchester,99.53833333333334
@@ -496,7 +496,7 @@ Union St,Gun Hill Rd,108.22166666666666
 Union St,Simpson St,82.17
 Union St,Bronx Park East,93.18166666666666
 Union St,Winthrop St,21.51833333333333
-Union St,Kingsbridge Rd,101.17166666666667
+Union St,Kingsbridge Rd,101.17
 Union St,Prospect Park,19.966666666666665
 Union St,Broadway,55.638333333333335
 Union St,Lorimer St,23.73166666666667
@@ -529,11 +529,11 @@ Union St,Cypress Hills,47.711666666666666
 Union St,Northern Blvd,55.03333333333333
 Union St,Sutphin Blvd,76.685
 Union St,Astoria Blvd,58.38
-Union St,Fordham Rd,98.26333333333334
-Union St,Bedford Park Blvd,104.15833333333333
-Union St,Mosholu Pkwy,107.51666666666667
+Union St,Fordham Rd,98.26166666666667
+Union St,Bedford Park Blvd,104.15666666666667
+Union St,Mosholu Pkwy,107.515
 Union St,Botanic Garden,14.018333333333334
-Union St,Dyckman St,97.74499999999999
+Union St,Dyckman St,97.76166666666667
 Union St,Steinway St,53.79
 Union St,Kosciuszko St,23.821666666666665
 Union St,Jefferson St,31.53166666666667
@@ -561,7 +561,7 @@ Union St,Clark St,16.016666666666666
 Union St,York St,14.178333333333335
 Union St,High St,19.221666666666668
 Union St,President St,16.073333333333334
-Union St,Woodlawn,111.17833333333333
+Union St,Woodlawn,111.17666666666668
 Union St,Bleecker St,39.975
 Union St,Cortelyou Rd,23.148333333333333
 Union St,Parkchester,84.44666666666667
@@ -901,7 +901,7 @@ Winthrop St,Pelham Pkwy,115.43
 Winthrop St,Gun Hill Rd,123.37333333333332
 Winthrop St,Simpson St,97.32166666666667
 Winthrop St,Bronx Park East,108.33333333333333
-Winthrop St,Kingsbridge Rd,116.32333333333332
+Winthrop St,Kingsbridge Rd,116.32166666666667
 Winthrop St,Prospect Park,19.01833333333333
 Winthrop St,Broadway,61.90333333333333
 Winthrop St,Lorimer St,26.896666666666665
@@ -934,11 +934,11 @@ Winthrop St,Cypress Hills,41.425
 Winthrop St,Northern Blvd,59.64666666666667
 Winthrop St,Sutphin Blvd,68.33333333333333
 Winthrop St,Astoria Blvd,66.33166666666666
-Winthrop St,Fordham Rd,113.41499999999999
-Winthrop St,Bedford Park Blvd,119.31
-Winthrop St,Mosholu Pkwy,122.66833333333334
+Winthrop St,Fordham Rd,113.41333333333334
+Winthrop St,Bedford Park Blvd,119.30833333333334
+Winthrop St,Mosholu Pkwy,122.66666666666667
 Winthrop St,Botanic Garden,15.91
-Winthrop St,Dyckman St,112.89666666666668
+Winthrop St,Dyckman St,112.91333333333334
 Winthrop St,Steinway St,59.269999999999996
 Winthrop St,Kosciuszko St,26.990000000000002
 Winthrop St,Jefferson St,34.81166666666666
@@ -966,92 +966,92 @@ Winthrop St,Clark St,36.885
 Winthrop St,York St,34.90833333333333
 Winthrop St,High St,39.99666666666667
 Winthrop St,President St,9.575
-Winthrop St,Woodlawn,126.33
+Winthrop St,Woodlawn,126.32833333333333
 Winthrop St,Bleecker St,49.75
 Winthrop St,Cortelyou Rd,15.31
 Winthrop St,Parkchester,99.59833333333333
 Winthrop St,Franklin St,54.73166666666667
-Kingsbridge Rd,Astor Pl,85.955
-Kingsbridge Rd,Canal St,93.30166666666668
-Kingsbridge Rd,Bergen St,104.13833333333334
+Kingsbridge Rd,Astor Pl,85.95333333333333
+Kingsbridge Rd,Canal St,93.3
+Kingsbridge Rd,Bergen St,104.13666666666667
 Kingsbridge Rd,Freeman St,23.745
-Kingsbridge Rd,Junction Blvd,94.27
-Kingsbridge Rd,Chauncey St,119.50166666666668
-Kingsbridge Rd,Union St,104.55333333333333
+Kingsbridge Rd,Junction Blvd,94.26833333333335
+Kingsbridge Rd,Chauncey St,119.5
+Kingsbridge Rd,Union St,104.55166666666668
 Kingsbridge Rd,Pelham Pkwy,23.868333333333332
 Kingsbridge Rd,Gun Hill Rd,25.095000000000002
 Kingsbridge Rd,Simpson St,27.386666666666667
 Kingsbridge Rd,Bronx Park East,24.065
-Kingsbridge Rd,Winthrop St,118.58833333333334
-Kingsbridge Rd,Prospect Park,116.75166666666668
-Kingsbridge Rd,Broadway,71.84166666666667
-Kingsbridge Rd,Lorimer St,99.36
-Kingsbridge Rd,Halsey St,110.11666666666666
-Kingsbridge Rd,Park Pl,100.16833333333334
+Kingsbridge Rd,Winthrop St,118.58666666666666
+Kingsbridge Rd,Prospect Park,116.75
+Kingsbridge Rd,Broadway,71.83999999999999
+Kingsbridge Rd,Lorimer St,99.35833333333333
+Kingsbridge Rd,Halsey St,110.115
+Kingsbridge Rd,Park Pl,100.17666666666668
 Kingsbridge Rd,Middletown Rd,37.638333333333335
-Kingsbridge Rd,Court Sq,78.49
-Kingsbridge Rd,Houston St,89.65333333333334
-Kingsbridge Rd,Broad Channel,164.36166666666668
-Kingsbridge Rd,Ocean Pkwy,147.67833333333334
-Kingsbridge Rd,Rockaway Blvd,130.00166666666667
-Kingsbridge Rd,Beverly Rd,121.93666666666667
-Kingsbridge Rd,Grand Army Plaza,102.00833333333334
-Kingsbridge Rd,Fulton St,102.72333333333333
-Kingsbridge Rd,Borough Hall,102.725
-Kingsbridge Rd,Aqueduct Racetrack,140.13666666666668
+Kingsbridge Rd,Court Sq,78.48833333333333
+Kingsbridge Rd,Houston St,89.66166666666666
+Kingsbridge Rd,Broad Channel,164.36
+Kingsbridge Rd,Ocean Pkwy,147.67666666666668
+Kingsbridge Rd,Rockaway Blvd,130.0
+Kingsbridge Rd,Beverly Rd,121.935
+Kingsbridge Rd,Grand Army Plaza,102.00666666666666
+Kingsbridge Rd,Fulton St,102.73166666666665
+Kingsbridge Rd,Borough Hall,102.72333333333333
+Kingsbridge Rd,Aqueduct Racetrack,140.13500000000002
 Kingsbridge Rd,Morris Park,24.10666666666667
-Kingsbridge Rd,Nevins St,100.86666666666666
-Kingsbridge Rd,Sterling St,113.46833333333333
-Kingsbridge Rd,Hewes St,99.29833333333333
-Kingsbridge Rd,Grand St,89.08999999999999
-Kingsbridge Rd,Parsons Blvd,133.715
+Kingsbridge Rd,Nevins St,100.865
+Kingsbridge Rd,Sterling St,113.46666666666667
+Kingsbridge Rd,Hewes St,99.29666666666667
+Kingsbridge Rd,Grand St,89.08833333333334
+Kingsbridge Rd,Parsons Blvd,133.71333333333334
 Kingsbridge Rd,Pelham Bay Park,43.385
-Kingsbridge Rd,Woodhaven Blvd,122.82833333333333
-Kingsbridge Rd,Cleveland St,125.99
-Kingsbridge Rd,Junius St,128.25333333333333
-Kingsbridge Rd,Broadway Junction,122.20666666666666
-Kingsbridge Rd,Crescent St,121.11833333333334
-Kingsbridge Rd,Cypress Hills,119.48
-Kingsbridge Rd,Northern Blvd,79.695
-Kingsbridge Rd,Sutphin Blvd,131.38166666666666
-Kingsbridge Rd,Astoria Blvd,71.82166666666667
+Kingsbridge Rd,Woodhaven Blvd,122.82666666666667
+Kingsbridge Rd,Cleveland St,125.98833333333333
+Kingsbridge Rd,Junius St,128.25166666666667
+Kingsbridge Rd,Broadway Junction,122.205
+Kingsbridge Rd,Crescent St,121.11666666666666
+Kingsbridge Rd,Cypress Hills,119.47833333333332
+Kingsbridge Rd,Northern Blvd,79.69333333333334
+Kingsbridge Rd,Sutphin Blvd,131.38
+Kingsbridge Rd,Astoria Blvd,71.82
 Kingsbridge Rd,Fordham Rd,2.6633333333333336
 Kingsbridge Rd,Bedford Park Blvd,5.791666666666667
 Kingsbridge Rd,Mosholu Pkwy,9.15
-Kingsbridge Rd,Botanic Garden,108.10666666666665
+Kingsbridge Rd,Botanic Garden,108.105
 Kingsbridge Rd,Dyckman St,16.185
-Kingsbridge Rd,Steinway St,77.85
-Kingsbridge Rd,Kosciuszko St,108.64166666666667
-Kingsbridge Rd,Jefferson St,106.74833333333332
-Kingsbridge Rd,Kings Hwy,133.59
-Kingsbridge Rd,Brighton Beach,149.86333333333332
-Kingsbridge Rd,Sheepshead Bay,149.355
-Kingsbridge Rd,Neck Rd,143.77333333333334
-Kingsbridge Rd,Chambers St,98.92166666666667
-Kingsbridge Rd,East Broadway,93.25833333333334
-Kingsbridge Rd,Court St,101.98666666666666
-Kingsbridge Rd,Carroll St,107.28999999999999
-Kingsbridge Rd,Spring St,90.12166666666667
-Kingsbridge Rd,Prince St,88.78333333333333
-Kingsbridge Rd,Hoyt St,99.31166666666667
-Kingsbridge Rd,City Hall,100.29666666666667
+Kingsbridge Rd,Steinway St,77.84833333333333
+Kingsbridge Rd,Kosciuszko St,108.64
+Kingsbridge Rd,Jefferson St,106.74666666666667
+Kingsbridge Rd,Kings Hwy,133.58833333333334
+Kingsbridge Rd,Brighton Beach,149.86166666666668
+Kingsbridge Rd,Sheepshead Bay,149.35333333333335
+Kingsbridge Rd,Neck Rd,143.77166666666665
+Kingsbridge Rd,Chambers St,98.92
+Kingsbridge Rd,East Broadway,93.25666666666666
+Kingsbridge Rd,Court St,101.985
+Kingsbridge Rd,Carroll St,107.28833333333334
+Kingsbridge Rd,Spring St,90.11999999999999
+Kingsbridge Rd,Prince St,88.78166666666667
+Kingsbridge Rd,Hoyt St,99.31
+Kingsbridge Rd,City Hall,100.305
 Kingsbridge Rd,South Ferry,131.0
-Kingsbridge Rd,Bowling Green,104.57666666666667
-Kingsbridge Rd,Wall St,101.53166666666667
-Kingsbridge Rd,Whitehall St,105.975
-Kingsbridge Rd,Rector St,102.175
-Kingsbridge Rd,Fresh Pond Rd,108.98666666666666
-Kingsbridge Rd,Broad St,104.96333333333334
-Kingsbridge Rd,Bowery,89.31
-Kingsbridge Rd,Clark St,98.58166666666666
-Kingsbridge Rd,York St,95.875
-Kingsbridge Rd,High St,103.97166666666666
-Kingsbridge Rd,President St,110.16166666666666
+Kingsbridge Rd,Bowling Green,104.58500000000001
+Kingsbridge Rd,Wall St,101.53
+Kingsbridge Rd,Whitehall St,105.98333333333333
+Kingsbridge Rd,Rector St,102.18333333333334
+Kingsbridge Rd,Fresh Pond Rd,108.985
+Kingsbridge Rd,Broad St,104.97166666666666
+Kingsbridge Rd,Bowery,89.30833333333334
+Kingsbridge Rd,Clark St,98.58
+Kingsbridge Rd,York St,95.87333333333332
+Kingsbridge Rd,High St,103.97
+Kingsbridge Rd,President St,110.16000000000001
 Kingsbridge Rd,Woodlawn,12.811666666666667
-Kingsbridge Rd,Bleecker St,88.27666666666667
-Kingsbridge Rd,Cortelyou Rd,119.93333333333334
+Kingsbridge Rd,Bleecker St,88.275
+Kingsbridge Rd,Cortelyou Rd,119.93166666666666
 Kingsbridge Rd,Parkchester,31.178333333333335
-Kingsbridge Rd,Franklin St,97.21499999999999
+Kingsbridge Rd,Franklin St,97.22333333333333
 Prospect Park,Astor Pl,53.80166666666666
 Prospect Park,Canal St,53.818333333333335
 Prospect Park,Bergen St,27.009999999999998
@@ -1064,7 +1064,7 @@ Prospect Park,Gun Hill Rd,120.76833333333335
 Prospect Park,Simpson St,94.71666666666667
 Prospect Park,Bronx Park East,105.72833333333332
 Prospect Park,Winthrop St,17.86
-Prospect Park,Kingsbridge Rd,113.71833333333333
+Prospect Park,Kingsbridge Rd,113.71666666666667
 Prospect Park,Broadway,66.58333333333333
 Prospect Park,Lorimer St,32.95333333333333
 Prospect Park,Halsey St,39.431666666666665
@@ -1096,11 +1096,11 @@ Prospect Park,Cypress Hills,49.669999999999995
 Prospect Park,Northern Blvd,64.32666666666667
 Prospect Park,Sutphin Blvd,76.57833333333333
 Prospect Park,Astoria Blvd,70.92666666666668
-Prospect Park,Fordham Rd,110.81
-Prospect Park,Bedford Park Blvd,116.705
-Prospect Park,Mosholu Pkwy,120.06333333333333
+Prospect Park,Fordham Rd,110.80833333333334
+Prospect Park,Bedford Park Blvd,116.70333333333333
+Prospect Park,Mosholu Pkwy,120.06166666666667
 Prospect Park,Botanic Garden,14.185
-Prospect Park,Dyckman St,110.29166666666667
+Prospect Park,Dyckman St,110.30833333333334
 Prospect Park,Steinway St,63.95
 Prospect Park,Kosciuszko St,32.92166666666667
 Prospect Park,Jefferson St,40.66
@@ -1128,7 +1128,7 @@ Prospect Park,Clark St,34.41166666666666
 Prospect Park,York St,32.434999999999995
 Prospect Park,High St,37.52333333333333
 Prospect Park,President St,15.378333333333334
-Prospect Park,Woodlawn,123.725
+Prospect Park,Woodlawn,123.72333333333333
 Prospect Park,Bleecker St,52.38166666666667
 Prospect Park,Cortelyou Rd,19.10666666666667
 Prospect Park,Parkchester,96.99333333333334
@@ -1145,7 +1145,7 @@ Broadway,Gun Hill Rd,76.445
 Broadway,Simpson St,50.35
 Broadway,Bronx Park East,61.405
 Broadway,Winthrop St,63.291666666666664
-Broadway,Kingsbridge Rd,69.35166666666667
+Broadway,Kingsbridge Rd,69.35
 Broadway,Prospect Park,66.00166666666667
 Broadway,Lorimer St,35.76166666666666
 Broadway,Halsey St,39.42833333333333
@@ -1177,11 +1177,11 @@ Broadway,Cypress Hills,49.18
 Broadway,Northern Blvd,10.773333333333333
 Broadway,Sutphin Blvd,62.55
 Broadway,Astoria Blvd,4.944999999999999
-Broadway,Fordham Rd,66.44333333333333
-Broadway,Bedford Park Blvd,72.33833333333334
-Broadway,Mosholu Pkwy,75.69666666666667
+Broadway,Fordham Rd,66.44166666666666
+Broadway,Bedford Park Blvd,72.33666666666666
+Broadway,Mosholu Pkwy,75.695
 Broadway,Botanic Garden,58.275
-Broadway,Dyckman St,65.925
+Broadway,Dyckman St,65.94166666666666
 Broadway,Steinway St,6.385000000000001
 Broadway,Kosciuszko St,42.205000000000005
 Broadway,Jefferson St,34.75833333333333
@@ -1209,7 +1209,7 @@ Broadway,Clark St,51.82333333333334
 Broadway,York St,48.24
 Broadway,High St,56.013333333333335
 Broadway,President St,56.36833333333333
-Broadway,Woodlawn,79.35833333333333
+Broadway,Woodlawn,79.35666666666665
 Broadway,Bleecker St,46.72
 Broadway,Cortelyou Rd,71.17333333333333
 Broadway,Parkchester,52.669999999999995
@@ -1226,7 +1226,7 @@ Lorimer St,Gun Hill Rd,104.18166666666666
 Lorimer St,Simpson St,78.13000000000001
 Lorimer St,Bronx Park East,89.14166666666667
 Lorimer St,Winthrop St,28.321666666666665
-Lorimer St,Kingsbridge Rd,97.13166666666666
+Lorimer St,Kingsbridge Rd,97.13000000000001
 Lorimer St,Prospect Park,32.24166666666667
 Lorimer St,Broadway,35.431666666666665
 Lorimer St,Halsey St,20.296666666666667
@@ -1236,12 +1236,12 @@ Lorimer St,Court Sq,25.516666666666666
 Lorimer St,Houston St,28.791666666666668
 Lorimer St,Broad Channel,86.50666666666666
 Lorimer St,Ocean Pkwy,70.14166666666667
-Lorimer St,Rockaway Blvd,49.294999999999995
+Lorimer St,Rockaway Blvd,49.29333333333333
 Lorimer St,Beverly Rd,31.945
 Lorimer St,Grand Army Plaza,21.855
 Lorimer St,Fulton St,30.76833333333333
 Lorimer St,Borough Hall,25.388333333333332
-Lorimer St,Aqueduct Racetrack,57.45333333333333
+Lorimer St,Aqueduct Racetrack,57.45166666666667
 Lorimer St,Morris Park,93.99
 Lorimer St,Nevins St,21.278333333333332
 Lorimer St,Sterling St,23.563333333333333
@@ -1249,20 +1249,20 @@ Lorimer St,Hewes St,3.8883333333333336
 Lorimer St,Grand St,21.341666666666665
 Lorimer St,Parsons Blvd,66.87333333333333
 Lorimer St,Pelham Bay Park,95.21333333333334
-Lorimer St,Woodhaven Blvd,40.64333333333333
+Lorimer St,Woodhaven Blvd,40.641666666666666
 Lorimer St,Cleveland St,32.235
 Lorimer St,Junius St,35.781666666666666
 Lorimer St,Broadway Junction,26.348333333333336
-Lorimer St,Crescent St,34.505
-Lorimer St,Cypress Hills,32.86666666666667
+Lorimer St,Crescent St,34.50333333333333
+Lorimer St,Cypress Hills,32.865
 Lorimer St,Northern Blvd,33.175
 Lorimer St,Sutphin Blvd,61.28333333333333
 Lorimer St,Astoria Blvd,39.86
-Lorimer St,Fordham Rd,94.22333333333333
-Lorimer St,Bedford Park Blvd,100.11833333333334
-Lorimer St,Mosholu Pkwy,103.47666666666667
+Lorimer St,Fordham Rd,94.22166666666666
+Lorimer St,Bedford Park Blvd,100.11666666666666
+Lorimer St,Mosholu Pkwy,103.475
 Lorimer St,Botanic Garden,24.515
-Lorimer St,Dyckman St,93.705
+Lorimer St,Dyckman St,93.72166666666666
 Lorimer St,Steinway St,32.79833333333333
 Lorimer St,Kosciuszko St,11.063333333333333
 Lorimer St,Jefferson St,11.908333333333333
@@ -1290,7 +1290,7 @@ Lorimer St,Clark St,24.118333333333332
 Lorimer St,York St,17.834999999999997
 Lorimer St,High St,25.608333333333334
 Lorimer St,President St,21.398333333333333
-Lorimer St,Woodlawn,107.13833333333334
+Lorimer St,Woodlawn,107.13666666666667
 Lorimer St,Bleecker St,24.745
 Lorimer St,Cortelyou Rd,37.413333333333334
 Lorimer St,Parkchester,80.40666666666667
@@ -1307,7 +1307,7 @@ Halsey St,Gun Hill Rd,119.43333333333334
 Halsey St,Simpson St,93.38166666666666
 Halsey St,Bronx Park East,104.39333333333335
 Halsey St,Winthrop St,33.06333333333333
-Halsey St,Kingsbridge Rd,112.38333333333334
+Halsey St,Kingsbridge Rd,112.38166666666666
 Halsey St,Prospect Park,39.04333333333333
 Halsey St,Broadway,42.02833333333333
 Halsey St,Lorimer St,19.266666666666666
@@ -1315,35 +1315,35 @@ Halsey St,Park Pl,47.79
 Halsey St,Middletown Rd,104.49333333333334
 Halsey St,Court Sq,41.25833333333333
 Halsey St,Houston St,46.505
-Halsey St,Broad Channel,63.96666666666667
+Halsey St,Broad Channel,63.965
 Halsey St,Ocean Pkwy,71.44166666666666
-Halsey St,Rockaway Blvd,29.1
+Halsey St,Rockaway Blvd,29.098333333333336
 Halsey St,Beverly Rd,36.68666666666666
 Halsey St,Grand Army Plaza,30.795
 Halsey St,Fulton St,48.48166666666667
 Halsey St,Borough Hall,38.18833333333334
-Halsey St,Aqueduct Racetrack,37.25833333333333
+Halsey St,Aqueduct Racetrack,37.25666666666667
 Halsey St,Morris Park,109.24166666666666
 Halsey St,Nevins St,34.07833333333333
 Halsey St,Sterling St,28.733333333333334
 Halsey St,Hewes St,22.416666666666668
 Halsey St,Grand St,39.055
-Halsey St,Parsons Blvd,42.81333333333334
+Halsey St,Parsons Blvd,42.81166666666666
 Halsey St,Pelham Bay Park,110.46499999999999
-Halsey St,Woodhaven Blvd,20.448333333333334
+Halsey St,Woodhaven Blvd,20.446666666666665
 Halsey St,Cleveland St,16.453333333333333
 Halsey St,Junius St,21.84
 Halsey St,Broadway Junction,12.058333333333334
-Halsey St,Crescent St,14.31
-Halsey St,Cypress Hills,12.671666666666665
+Halsey St,Crescent St,14.308333333333334
+Halsey St,Cypress Hills,12.67
 Halsey St,Northern Blvd,35.85
-Halsey St,Sutphin Blvd,38.79333333333333
+Halsey St,Sutphin Blvd,38.791666666666664
 Halsey St,Astoria Blvd,46.968333333333334
-Halsey St,Fordham Rd,109.475
-Halsey St,Bedford Park Blvd,115.36999999999999
-Halsey St,Mosholu Pkwy,118.72833333333332
+Halsey St,Fordham Rd,109.47333333333333
+Halsey St,Bedford Park Blvd,115.36833333333334
+Halsey St,Mosholu Pkwy,118.72666666666667
 Halsey St,Botanic Garden,31.316666666666666
-Halsey St,Dyckman St,108.95666666666666
+Halsey St,Dyckman St,108.97333333333333
 Halsey St,Steinway St,39.77833333333333
 Halsey St,Kosciuszko St,12.729999999999999
 Halsey St,Jefferson St,10.638333333333332
@@ -1371,7 +1371,7 @@ Halsey St,Clark St,39.87166666666667
 Halsey St,York St,38.305
 Halsey St,High St,43.445
 Halsey St,President St,26.56833333333333
-Halsey St,Woodlawn,122.39
+Halsey St,Woodlawn,122.38833333333334
 Halsey St,Bleecker St,42.458333333333336
 Halsey St,Cortelyou Rd,42.865
 Halsey St,Parkchester,95.65833333333333
@@ -1421,8 +1421,8 @@ Park Pl,Northern Blvd,55.638333333333335
 Park Pl,Sutphin Blvd,84.26166666666667
 Park Pl,Astoria Blvd,57.245
 Park Pl,Fordham Rd,97.27833333333334
-Park Pl,Bedford Park Blvd,100.395
-Park Pl,Mosholu Pkwy,103.75333333333333
+Park Pl,Bedford Park Blvd,100.39333333333335
+Park Pl,Mosholu Pkwy,103.75166666666668
 Park Pl,Botanic Garden,49.50833333333333
 Park Pl,Dyckman St,74.52333333333333
 Park Pl,Steinway St,55.11833333333333
@@ -1550,7 +1550,7 @@ Court Sq,Gun Hill Rd,82.185
 Court Sq,Simpson St,56.09
 Court Sq,Bronx Park East,67.145
 Court Sq,Winthrop St,53.22166666666667
-Court Sq,Kingsbridge Rd,75.09166666666667
+Court Sq,Kingsbridge Rd,75.08999999999999
 Court Sq,Prospect Park,55.931666666666665
 Court Sq,Broadway,11.746666666666666
 Court Sq,Lorimer St,25.490000000000002
@@ -1582,11 +1582,11 @@ Court Sq,Cypress Hills,48.718333333333334
 Court Sq,Northern Blvd,17.675
 Court Sq,Sutphin Blvd,64.15666666666667
 Court Sq,Astoria Blvd,16.928333333333335
-Court Sq,Fordham Rd,72.18333333333334
-Court Sq,Bedford Park Blvd,78.07833333333333
-Court Sq,Mosholu Pkwy,81.43666666666667
+Court Sq,Fordham Rd,72.18166666666666
+Court Sq,Bedford Park Blvd,78.07666666666667
+Court Sq,Mosholu Pkwy,81.435
 Court Sq,Botanic Garden,48.205000000000005
-Court Sq,Dyckman St,71.66499999999999
+Court Sq,Dyckman St,71.68166666666666
 Court Sq,Steinway St,14.875
 Court Sq,Kosciuszko St,36.945
 Court Sq,Jefferson St,32.748333333333335
@@ -1614,7 +1614,7 @@ Court Sq,Clark St,40.13166666666667
 Court Sq,York St,36.58833333333334
 Court Sq,High St,44.361666666666665
 Court Sq,President St,46.29833333333333
-Court Sq,Woodlawn,85.09833333333333
+Court Sq,Woodlawn,85.09666666666666
 Court Sq,Bleecker St,35.751666666666665
 Court Sq,Cortelyou Rd,61.10333333333333
 Court Sq,Parkchester,58.41
@@ -1631,7 +1631,7 @@ Houston St,Gun Hill Rd,103.66333333333334
 Houston St,Simpson St,77.61166666666666
 Houston St,Bronx Park East,88.62333333333332
 Houston St,Winthrop St,56.32166666666667
-Houston St,Kingsbridge Rd,90.93666666666667
+Houston St,Kingsbridge Rd,90.955
 Houston St,Prospect Park,56.31666666666667
 Houston St,Broadway,52.38666666666666
 Houston St,Lorimer St,29.438333333333333
@@ -1663,11 +1663,11 @@ Houston St,Cypress Hills,60.47
 Houston St,Northern Blvd,54.72
 Houston St,Sutphin Blvd,83.34333333333333
 Houston St,Astoria Blvd,53.82166666666667
-Houston St,Fordham Rd,88.16000000000001
-Houston St,Bedford Park Blvd,97.10333333333332
-Houston St,Mosholu Pkwy,99.76
+Houston St,Fordham Rd,88.17833333333333
+Houston St,Bedford Park Blvd,97.12166666666667
+Houston St,Mosholu Pkwy,99.77833333333334
 Houston St,Botanic Garden,48.59
-Houston St,Dyckman St,77.175
+Houston St,Dyckman St,77.19166666666666
 Houston St,Steinway St,54.2
 Houston St,Kosciuszko St,40.983333333333334
 Houston St,Jefferson St,38.09166666666667
@@ -1695,7 +1695,7 @@ Houston St,Clark St,33.428333333333335
 Houston St,York St,34.97
 Houston St,High St,38.818333333333335
 Houston St,President St,47.806666666666665
-Houston St,Woodlawn,103.35
+Houston St,Woodlawn,103.36833333333334
 Houston St,Bleecker St,7.371666666666667
 Houston St,Cortelyou Rd,61.48833333333334
 Houston St,Parkchester,79.88833333333334
@@ -1712,11 +1712,11 @@ Broad Channel,Gun Hill Rd,168.215
 Broad Channel,Simpson St,142.16333333333333
 Broad Channel,Bronx Park East,153.175
 Broad Channel,Winthrop St,75.06833333333334
-Broad Channel,Kingsbridge Rd,161.165
+Broad Channel,Kingsbridge Rd,161.16333333333333
 Broad Channel,Prospect Park,85.05833333333334
 Broad Channel,Broadway,100.01
 Broad Channel,Lorimer St,85.55
-Broad Channel,Halsey St,65.50500000000001
+Broad Channel,Halsey St,65.51166666666667
 Broad Channel,Park Pl,94.22166666666666
 Broad Channel,Middletown Rd,153.275
 Broad Channel,Court Sq,103.15166666666667
@@ -1744,9 +1744,9 @@ Broad Channel,Cypress Hills,53.32166666666667
 Broad Channel,Northern Blvd,90.86666666666666
 Broad Channel,Sutphin Blvd,61.63166666666667
 Broad Channel,Astoria Blvd,102.60333333333332
-Broad Channel,Fordham Rd,158.25666666666666
-Broad Channel,Bedford Park Blvd,164.15166666666667
-Broad Channel,Mosholu Pkwy,167.51000000000002
+Broad Channel,Fordham Rd,158.255
+Broad Channel,Bedford Park Blvd,164.15
+Broad Channel,Mosholu Pkwy,167.50833333333333
 Broad Channel,Botanic Garden,80.10666666666665
 Broad Channel,Dyckman St,152.62
 Broad Channel,Steinway St,97.76
@@ -1776,7 +1776,7 @@ Broad Channel,Clark St,86.435
 Broad Channel,York St,87.97666666666667
 Broad Channel,High St,91.825
 Broad Channel,President St,73.77166666666668
-Broad Channel,Woodlawn,171.17166666666665
+Broad Channel,Woodlawn,171.17000000000002
 Broad Channel,Bleecker St,101.97333333333333
 Broad Channel,Cortelyou Rd,80.16833333333334
 Broad Channel,Parkchester,144.44
@@ -1793,7 +1793,7 @@ Ocean Pkwy,Gun Hill Rd,153.06166666666667
 Ocean Pkwy,Simpson St,127.01
 Ocean Pkwy,Bronx Park East,138.02166666666665
 Ocean Pkwy,Winthrop St,45.54833333333333
-Ocean Pkwy,Kingsbridge Rd,146.01166666666668
+Ocean Pkwy,Kingsbridge Rd,146.01000000000002
 Ocean Pkwy,Prospect Park,51.465
 Ocean Pkwy,Broadway,101.475
 Ocean Pkwy,Lorimer St,67.845
@@ -1825,9 +1825,9 @@ Ocean Pkwy,Cypress Hills,76.515
 Ocean Pkwy,Northern Blvd,99.21833333333333
 Ocean Pkwy,Sutphin Blvd,102.16499999999999
 Ocean Pkwy,Astoria Blvd,103.22
-Ocean Pkwy,Fordham Rd,143.10333333333335
-Ocean Pkwy,Bedford Park Blvd,148.99833333333333
-Ocean Pkwy,Mosholu Pkwy,152.35666666666665
+Ocean Pkwy,Fordham Rd,143.10166666666666
+Ocean Pkwy,Bedford Park Blvd,148.99666666666664
+Ocean Pkwy,Mosholu Pkwy,152.355
 Ocean Pkwy,Botanic Garden,49.86666666666667
 Ocean Pkwy,Dyckman St,137.42666666666668
 Ocean Pkwy,Steinway St,98.84166666666667
@@ -1857,7 +1857,7 @@ Ocean Pkwy,Clark St,66.30833333333334
 Ocean Pkwy,York St,65.24499999999999
 Ocean Pkwy,High St,70.33333333333333
 Ocean Pkwy,President St,50.269999999999996
-Ocean Pkwy,Woodlawn,156.01833333333335
+Ocean Pkwy,Woodlawn,156.01666666666668
 Ocean Pkwy,Bleecker St,87.06833333333334
 Ocean Pkwy,Cortelyou Rd,32.91
 Ocean Pkwy,Parkchester,129.28666666666666
@@ -1874,11 +1874,11 @@ Rockaway Blvd,Gun Hill Rd,135.33333333333334
 Rockaway Blvd,Simpson St,109.23833333333333
 Rockaway Blvd,Bronx Park East,120.29333333333334
 Rockaway Blvd,Winthrop St,47.56166666666666
-Rockaway Blvd,Kingsbridge Rd,128.23999999999998
+Rockaway Blvd,Kingsbridge Rd,128.23833333333334
 Rockaway Blvd,Prospect Park,55.41166666666666
 Rockaway Blvd,Broadway,60.78666666666666
-Rockaway Blvd,Lorimer St,49.59166666666667
-Rockaway Blvd,Halsey St,30.365000000000002
+Rockaway Blvd,Lorimer St,49.598333333333336
+Rockaway Blvd,Halsey St,30.371666666666666
 Rockaway Blvd,Park Pl,77.92333333333333
 Rockaway Blvd,Middletown Rd,120.39333333333335
 Rockaway Blvd,Court Sq,63.92833333333333
@@ -1893,7 +1893,7 @@ Rockaway Blvd,Aqueduct Racetrack,11.063333333333333
 Rockaway Blvd,Morris Park,125.14166666666667
 Rockaway Blvd,Nevins St,57.45666666666667
 Rockaway Blvd,Sterling St,43.84666666666667
-Rockaway Blvd,Hewes St,52.74166666666667
+Rockaway Blvd,Hewes St,52.748333333333335
 Rockaway Blvd,Grand St,69.18833333333333
 Rockaway Blvd,Parsons Blvd,25.688333333333333
 Rockaway Blvd,Pelham Bay Park,126.365
@@ -1906,11 +1906,11 @@ Rockaway Blvd,Cypress Hills,16.331666666666667
 Rockaway Blvd,Northern Blvd,51.64333333333333
 Rockaway Blvd,Sutphin Blvd,24.384999999999998
 Rockaway Blvd,Astoria Blvd,63.38
-Rockaway Blvd,Fordham Rd,125.33166666666666
-Rockaway Blvd,Bedford Park Blvd,131.22666666666666
-Rockaway Blvd,Mosholu Pkwy,134.585
+Rockaway Blvd,Fordham Rd,125.33
+Rockaway Blvd,Bedford Park Blvd,131.225
+Rockaway Blvd,Mosholu Pkwy,134.58333333333334
 Rockaway Blvd,Botanic Garden,49.99333333333333
-Rockaway Blvd,Dyckman St,124.81333333333333
+Rockaway Blvd,Dyckman St,124.83
 Rockaway Blvd,Steinway St,58.53666666666666
 Rockaway Blvd,Kosciuszko St,44.155
 Rockaway Blvd,Jefferson St,42.72
@@ -1938,7 +1938,7 @@ Rockaway Blvd,Clark St,67.14833333333334
 Rockaway Blvd,York St,65.17166666666667
 Rockaway Blvd,High St,70.26
 Rockaway Blvd,President St,43.876666666666665
-Rockaway Blvd,Woodlawn,138.24666666666664
+Rockaway Blvd,Woodlawn,138.245
 Rockaway Blvd,Bleecker St,72.59166666666667
 Rockaway Blvd,Cortelyou Rd,55.93833333333334
 Rockaway Blvd,Parkchester,111.55833333333334
@@ -1955,7 +1955,7 @@ Beverly Rd,Gun Hill Rd,125.77666666666667
 Beverly Rd,Simpson St,99.725
 Beverly Rd,Bronx Park East,110.73666666666666
 Beverly Rd,Winthrop St,10.338333333333333
-Beverly Rd,Kingsbridge Rd,118.72666666666667
+Beverly Rd,Kingsbridge Rd,118.725
 Beverly Rd,Prospect Park,21.625
 Beverly Rd,Broadway,65.72
 Beverly Rd,Lorimer St,30.71333333333333
@@ -1987,11 +1987,11 @@ Beverly Rd,Cypress Hills,43.15
 Beverly Rd,Northern Blvd,63.46333333333334
 Beverly Rd,Sutphin Blvd,69.81
 Beverly Rd,Astoria Blvd,70.14833333333333
-Beverly Rd,Fordham Rd,115.81833333333334
-Beverly Rd,Bedford Park Blvd,121.71333333333334
-Beverly Rd,Mosholu Pkwy,125.07166666666667
+Beverly Rd,Fordham Rd,115.81666666666666
+Beverly Rd,Bedford Park Blvd,121.71166666666666
+Beverly Rd,Mosholu Pkwy,125.07
 Beverly Rd,Botanic Garden,18.721666666666668
-Beverly Rd,Dyckman St,115.3
+Beverly Rd,Dyckman St,115.31666666666666
 Beverly Rd,Steinway St,63.086666666666666
 Beverly Rd,Kosciuszko St,30.80666666666667
 Beverly Rd,Jefferson St,38.62833333333333
@@ -2019,7 +2019,7 @@ Beverly Rd,Clark St,39.419999999999995
 Beverly Rd,York St,37.443333333333335
 Beverly Rd,High St,42.531666666666666
 Beverly Rd,President St,13.391666666666667
-Beverly Rd,Woodlawn,128.73333333333332
+Beverly Rd,Woodlawn,128.73166666666665
 Beverly Rd,Bleecker St,53.56666666666667
 Beverly Rd,Cortelyou Rd,6.753333333333333
 Beverly Rd,Parkchester,102.00166666666668
@@ -2036,7 +2036,7 @@ Grand Army Plaza,Gun Hill Rd,106.39
 Grand Army Plaza,Simpson St,80.33833333333334
 Grand Army Plaza,Bronx Park East,91.35
 Grand Army Plaza,Winthrop St,17.21833333333333
-Grand Army Plaza,Kingsbridge Rd,99.33999999999999
+Grand Army Plaza,Kingsbridge Rd,99.33833333333334
 Grand Army Plaza,Prospect Park,15.666666666666666
 Grand Army Plaza,Broadway,53.666666666666664
 Grand Army Plaza,Lorimer St,21.728333333333335
@@ -2068,11 +2068,11 @@ Grand Army Plaza,Cypress Hills,41.98166666666667
 Grand Army Plaza,Northern Blvd,53.06166666666666
 Grand Army Plaza,Sutphin Blvd,70.905
 Grand Army Plaza,Astoria Blvd,56.54833333333333
-Grand Army Plaza,Fordham Rd,96.43166666666666
-Grand Army Plaza,Bedford Park Blvd,102.32666666666667
-Grand Army Plaza,Mosholu Pkwy,105.685
+Grand Army Plaza,Fordham Rd,96.43
+Grand Army Plaza,Bedford Park Blvd,102.325
+Grand Army Plaza,Mosholu Pkwy,105.68333333333334
 Grand Army Plaza,Botanic Garden,8.238333333333333
-Grand Army Plaza,Dyckman St,95.91333333333334
+Grand Army Plaza,Dyckman St,95.93
 Grand Army Plaza,Steinway St,51.818333333333335
 Grand Army Plaza,Kosciuszko St,21.853333333333335
 Grand Army Plaza,Jefferson St,29.435
@@ -2100,7 +2100,7 @@ Grand Army Plaza,Clark St,18.959999999999997
 Grand Army Plaza,York St,16.983333333333334
 Grand Army Plaza,High St,22.071666666666665
 Grand Army Plaza,President St,10.293333333333333
-Grand Army Plaza,Woodlawn,109.34666666666666
+Grand Army Plaza,Woodlawn,109.345
 Grand Army Plaza,Bleecker St,38.00333333333333
 Grand Army Plaza,Cortelyou Rd,18.848333333333336
 Grand Army Plaza,Parkchester,82.615
@@ -2150,8 +2150,8 @@ Fulton St,Northern Blvd,55.445
 Fulton St,Sutphin Blvd,84.06833333333334
 Fulton St,Astoria Blvd,58.50333333333333
 Fulton St,Fordham Rd,99.09333333333333
-Fulton St,Bedford Park Blvd,101.65333333333334
-Fulton St,Mosholu Pkwy,105.01166666666667
+Fulton St,Bedford Park Blvd,101.65166666666667
+Fulton St,Mosholu Pkwy,105.01
 Fulton St,Botanic Garden,46.766666666666666
 Fulton St,Dyckman St,75.28999999999999
 Fulton St,Steinway St,54.925
@@ -2181,7 +2181,7 @@ Fulton St,Clark St,25.83833333333333
 Fulton St,York St,27.38
 Fulton St,High St,31.228333333333335
 Fulton St,President St,48.531666666666666
-Fulton St,Woodlawn,108.67333333333333
+Fulton St,Woodlawn,108.67166666666667
 Fulton St,Bleecker St,13.758333333333333
 Fulton St,Cortelyou Rd,62.21333333333334
 Fulton St,Parkchester,84.57
@@ -2198,7 +2198,7 @@ Borough Hall,Gun Hill Rd,106.90833333333333
 Borough Hall,Simpson St,80.85666666666665
 Borough Hall,Bronx Park East,91.86833333333334
 Borough Hall,Winthrop St,33.595
-Borough Hall,Kingsbridge Rd,99.85833333333333
+Borough Hall,Kingsbridge Rd,99.85666666666665
 Borough Hall,Prospect Park,31.853333333333335
 Borough Hall,Broadway,54.99166666666667
 Borough Hall,Lorimer St,24.88
@@ -2221,20 +2221,20 @@ Borough Hall,Hewes St,23.011666666666667
 Borough Hall,Grand St,34.62833333333333
 Borough Hall,Parsons Blvd,85.81
 Borough Hall,Pelham Bay Park,97.94
-Borough Hall,Woodhaven Blvd,58.906666666666666
+Borough Hall,Woodhaven Blvd,58.905
 Borough Hall,Cleveland St,48.065000000000005
 Borough Hall,Junius St,43.19166666666667
 Borough Hall,Broadway Junction,38.544999999999995
 Borough Hall,Crescent St,52.15
-Borough Hall,Cypress Hills,51.13
+Borough Hall,Cypress Hills,51.12833333333333
 Borough Hall,Northern Blvd,54.38666666666666
 Borough Hall,Sutphin Blvd,80.22
 Borough Hall,Astoria Blvd,57.06666666666667
-Borough Hall,Fordham Rd,96.95
-Borough Hall,Bedford Park Blvd,102.845
-Borough Hall,Mosholu Pkwy,106.20333333333333
+Borough Hall,Fordham Rd,96.94833333333332
+Borough Hall,Bedford Park Blvd,102.84333333333333
+Borough Hall,Mosholu Pkwy,106.20166666666667
 Borough Hall,Botanic Garden,23.113333333333333
-Borough Hall,Dyckman St,96.43166666666666
+Borough Hall,Dyckman St,96.44833333333332
 Borough Hall,Steinway St,53.14333333333333
 Borough Hall,Kosciuszko St,27.663333333333334
 Borough Hall,Jefferson St,32.586666666666666
@@ -2262,7 +2262,7 @@ Borough Hall,Clark St,7.895
 Borough Hall,York St,6.996666666666667
 Borough Hall,High St,10.888333333333332
 Borough Hall,President St,25.168333333333333
-Borough Hall,Woodlawn,109.865
+Borough Hall,Woodlawn,109.86333333333333
 Borough Hall,Bleecker St,39.625
 Borough Hall,Cortelyou Rd,35.035
 Borough Hall,Parkchester,83.13333333333334
@@ -2279,11 +2279,11 @@ Aqueduct Racetrack,Gun Hill Rd,144.52333333333334
 Aqueduct Racetrack,Simpson St,118.42833333333333
 Aqueduct Racetrack,Bronx Park East,129.48333333333332
 Aqueduct Racetrack,Winthrop St,53.61666666666667
-Aqueduct Racetrack,Kingsbridge Rd,137.42999999999998
+Aqueduct Racetrack,Kingsbridge Rd,137.42833333333334
 Aqueduct Racetrack,Prospect Park,61.63333333333333
 Aqueduct Racetrack,Broadway,69.97666666666667
-Aqueduct Racetrack,Lorimer St,58.10166666666667
-Aqueduct Racetrack,Halsey St,38.875
+Aqueduct Racetrack,Lorimer St,58.108333333333334
+Aqueduct Racetrack,Halsey St,38.88166666666667
 Aqueduct Racetrack,Park Pl,86.43333333333334
 Aqueduct Racetrack,Middletown Rd,129.58333333333334
 Aqueduct Racetrack,Court Sq,73.11833333333334
@@ -2298,7 +2298,7 @@ Aqueduct Racetrack,Borough Hall,70.39666666666668
 Aqueduct Racetrack,Morris Park,134.33166666666665
 Aqueduct Racetrack,Nevins St,63.67833333333333
 Aqueduct Racetrack,Sterling St,50.068333333333335
-Aqueduct Racetrack,Hewes St,61.251666666666665
+Aqueduct Racetrack,Hewes St,61.25833333333333
 Aqueduct Racetrack,Grand St,77.69833333333332
 Aqueduct Racetrack,Parsons Blvd,32.056666666666665
 Aqueduct Racetrack,Pelham Bay Park,135.555
@@ -2311,11 +2311,11 @@ Aqueduct Racetrack,Cypress Hills,26.61
 Aqueduct Racetrack,Northern Blvd,60.833333333333336
 Aqueduct Racetrack,Sutphin Blvd,32.07666666666667
 Aqueduct Racetrack,Astoria Blvd,72.57
-Aqueduct Racetrack,Fordham Rd,134.52166666666668
-Aqueduct Racetrack,Bedford Park Blvd,140.41666666666666
-Aqueduct Racetrack,Mosholu Pkwy,143.775
+Aqueduct Racetrack,Fordham Rd,134.52
+Aqueduct Racetrack,Bedford Park Blvd,140.415
+Aqueduct Racetrack,Mosholu Pkwy,143.77333333333334
 Aqueduct Racetrack,Botanic Garden,56.215
-Aqueduct Racetrack,Dyckman St,134.00333333333333
+Aqueduct Racetrack,Dyckman St,134.02
 Aqueduct Racetrack,Steinway St,67.72666666666666
 Aqueduct Racetrack,Kosciuszko St,50.376666666666665
 Aqueduct Racetrack,Jefferson St,51.230000000000004
@@ -2343,7 +2343,7 @@ Aqueduct Racetrack,Clark St,73.36999999999999
 Aqueduct Racetrack,York St,71.39333333333335
 Aqueduct Racetrack,High St,76.48166666666665
 Aqueduct Racetrack,President St,50.098333333333336
-Aqueduct Racetrack,Woodlawn,147.43666666666667
+Aqueduct Racetrack,Woodlawn,147.435
 Aqueduct Racetrack,Bleecker St,81.10166666666667
 Aqueduct Racetrack,Cortelyou Rd,61.13666666666666
 Aqueduct Racetrack,Parkchester,120.74833333333332
@@ -2441,7 +2441,7 @@ Nevins St,Gun Hill Rd,104.27833333333334
 Nevins St,Simpson St,78.22666666666667
 Nevins St,Bronx Park East,89.23833333333333
 Nevins St,Winthrop St,27.16
-Nevins St,Kingsbridge Rd,97.22833333333332
+Nevins St,Kingsbridge Rd,97.22666666666667
 Nevins St,Prospect Park,25.53666666666667
 Nevins St,Broadway,51.69166666666667
 Nevins St,Lorimer St,19.878333333333334
@@ -2464,20 +2464,20 @@ Nevins St,Hewes St,19.196666666666665
 Nevins St,Grand St,32.625
 Nevins St,Parsons Blvd,80.75
 Nevins St,Pelham Bay Park,95.31
-Nevins St,Woodhaven Blvd,52.913333333333334
+Nevins St,Woodhaven Blvd,52.91166666666666
 Nevins St,Cleveland St,41.63
 Nevins St,Junius St,36.75666666666667
 Nevins St,Broadway Junction,32.11
 Nevins St,Crescent St,45.715
-Nevins St,Cypress Hills,45.13666666666666
+Nevins St,Cypress Hills,45.135
 Nevins St,Northern Blvd,51.086666666666666
 Nevins St,Sutphin Blvd,75.21833333333333
 Nevins St,Astoria Blvd,54.43666666666666
-Nevins St,Fordham Rd,94.32
-Nevins St,Bedford Park Blvd,100.21499999999999
-Nevins St,Mosholu Pkwy,103.57333333333332
+Nevins St,Fordham Rd,94.31833333333334
+Nevins St,Bedford Park Blvd,100.21333333333334
+Nevins St,Mosholu Pkwy,103.57166666666667
 Nevins St,Botanic Garden,16.678333333333335
-Nevins St,Dyckman St,93.80166666666668
+Nevins St,Dyckman St,93.81833333333334
 Nevins St,Steinway St,49.843333333333334
 Nevins St,Kosciuszko St,21.43166666666667
 Nevins St,Jefferson St,27.584999999999997
@@ -2505,7 +2505,7 @@ Nevins St,Clark St,9.395000000000001
 Nevins St,York St,8.09
 Nevins St,High St,12.968333333333334
 Nevins St,President St,18.733333333333334
-Nevins St,Woodlawn,107.235
+Nevins St,Woodlawn,107.23333333333333
 Nevins St,Bleecker St,36.02833333333333
 Nevins St,Cortelyou Rd,28.71833333333333
 Nevins St,Parkchester,80.50333333333333
@@ -2522,7 +2522,7 @@ Sterling St,Gun Hill Rd,117.99
 Sterling St,Simpson St,91.93833333333333
 Sterling St,Bronx Park East,102.95
 Sterling St,Winthrop St,7.415
-Sterling St,Kingsbridge Rd,110.94
+Sterling St,Kingsbridge Rd,110.93833333333333
 Sterling St,Prospect Park,13.176666666666668
 Sterling St,Broadway,57.788333333333334
 Sterling St,Lorimer St,22.78166666666667
@@ -2554,11 +2554,11 @@ Sterling St,Cypress Hills,37.35
 Sterling St,Northern Blvd,55.531666666666666
 Sterling St,Sutphin Blvd,64.25833333333334
 Sterling St,Astoria Blvd,62.21666666666667
-Sterling St,Fordham Rd,108.03166666666667
-Sterling St,Bedford Park Blvd,113.92666666666668
-Sterling St,Mosholu Pkwy,117.28500000000001
+Sterling St,Fordham Rd,108.03
+Sterling St,Bedford Park Blvd,113.925
+Sterling St,Mosholu Pkwy,117.28333333333333
 Sterling St,Botanic Garden,10.586666666666668
-Sterling St,Dyckman St,107.51333333333334
+Sterling St,Dyckman St,107.53
 Sterling St,Steinway St,55.155
 Sterling St,Kosciuszko St,22.875
 Sterling St,Jefferson St,30.76833333333333
@@ -2586,7 +2586,7 @@ Sterling St,Clark St,31.66166666666667
 Sterling St,York St,29.685
 Sterling St,High St,34.77333333333333
 Sterling St,President St,5.46
-Sterling St,Woodlawn,120.94666666666667
+Sterling St,Woodlawn,120.945
 Sterling St,Bleecker St,45.635
 Sterling St,Cortelyou Rd,15.061666666666667
 Sterling St,Parkchester,94.21499999999999
@@ -2603,7 +2603,7 @@ Hewes St,Gun Hill Rd,102.21000000000001
 Hewes St,Simpson St,76.15833333333333
 Hewes St,Bronx Park East,87.17
 Hewes St,Winthrop St,30.461666666666666
-Hewes St,Kingsbridge Rd,95.16000000000001
+Hewes St,Kingsbridge Rd,95.15833333333333
 Hewes St,Prospect Park,32.336666666666666
 Hewes St,Broadway,35.62166666666667
 Hewes St,Lorimer St,4.16
@@ -2635,11 +2635,11 @@ Hewes St,Cypress Hills,35.50333333333333
 Hewes St,Northern Blvd,33.365
 Hewes St,Sutphin Blvd,62.035
 Hewes St,Astoria Blvd,40.05
-Hewes St,Fordham Rd,92.25166666666668
-Hewes St,Bedford Park Blvd,98.14666666666668
-Hewes St,Mosholu Pkwy,101.50500000000001
+Hewes St,Fordham Rd,92.25
+Hewes St,Bedford Park Blvd,98.145
+Hewes St,Mosholu Pkwy,101.50333333333333
 Hewes St,Botanic Garden,24.61
-Hewes St,Dyckman St,91.73333333333333
+Hewes St,Dyckman St,91.75
 Hewes St,Steinway St,32.98833333333333
 Hewes St,Kosciuszko St,15.376666666666667
 Hewes St,Jefferson St,13.186666666666667
@@ -2667,7 +2667,7 @@ Hewes St,Clark St,22.583333333333332
 Hewes St,York St,16.3
 Hewes St,High St,24.073333333333334
 Hewes St,President St,23.538333333333334
-Hewes St,Woodlawn,105.16666666666667
+Hewes St,Woodlawn,105.16499999999999
 Hewes St,Bleecker St,22.118333333333332
 Hewes St,Cortelyou Rd,37.50833333333333
 Hewes St,Parkchester,78.435
@@ -2684,7 +2684,7 @@ Grand St,Gun Hill Rd,98.67333333333333
 Grand St,Simpson St,72.62166666666667
 Grand St,Bronx Park East,83.63333333333334
 Grand St,Winthrop St,48.21333333333334
-Grand St,Kingsbridge Rd,88.99499999999999
+Grand St,Kingsbridge Rd,88.99333333333334
 Grand St,Prospect Park,48.208333333333336
 Grand St,Broadway,47.940000000000005
 Grand St,Lorimer St,21.33
@@ -2716,11 +2716,11 @@ Grand St,Cypress Hills,52.361666666666665
 Grand St,Northern Blvd,46.611666666666665
 Grand St,Sutphin Blvd,75.235
 Grand St,Astoria Blvd,48.83166666666667
-Grand St,Fordham Rd,86.08666666666666
-Grand St,Bedford Park Blvd,91.98166666666665
-Grand St,Mosholu Pkwy,95.33999999999999
+Grand St,Fordham Rd,86.08500000000001
+Grand St,Bedford Park Blvd,91.98
+Grand St,Mosholu Pkwy,95.33833333333334
 Grand St,Botanic Garden,40.48166666666667
-Grand St,Dyckman St,84.99666666666667
+Grand St,Dyckman St,85.01333333333334
 Grand St,Steinway St,46.09166666666667
 Grand St,Kosciuszko St,32.875
 Grand St,Jefferson St,29.983333333333334
@@ -2748,7 +2748,7 @@ Grand St,Clark St,28.55
 Grand St,York St,30.091666666666665
 Grand St,High St,33.940000000000005
 Grand St,President St,39.69833333333334
-Grand St,Woodlawn,99.00166666666668
+Grand St,Woodlawn,99.0
 Grand St,Bleecker St,5.45
 Grand St,Cortelyou Rd,53.38
 Grand St,Parkchester,74.89833333333333
@@ -2758,18 +2758,18 @@ Parsons Blvd,Canal St,89.69333333333334
 Parsons Blvd,Bergen St,82.94666666666667
 Parsons Blvd,Freeman St,116.73166666666665
 Parsons Blvd,Junction Blvd,40.748333333333335
-Parsons Blvd,Chauncey St,49.25333333333333
+Parsons Blvd,Chauncey St,49.26
 Parsons Blvd,Union St,79.78666666666666
 Parsons Blvd,Pelham Pkwy,131.32333333333332
 Parsons Blvd,Gun Hill Rd,139.26666666666668
 Parsons Blvd,Simpson St,113.17166666666667
 Parsons Blvd,Bronx Park East,124.22666666666667
 Parsons Blvd,Winthrop St,70.31333333333333
-Parsons Blvd,Kingsbridge Rd,132.17333333333332
+Parsons Blvd,Kingsbridge Rd,132.17166666666668
 Parsons Blvd,Prospect Park,78.16333333333334
 Parsons Blvd,Broadway,65.41333333333334
 Parsons Blvd,Lorimer St,68.83
-Parsons Blvd,Halsey St,44.105000000000004
+Parsons Blvd,Halsey St,44.111666666666665
 Parsons Blvd,Park Pl,93.58833333333334
 Parsons Blvd,Middletown Rd,124.32666666666667
 Parsons Blvd,Court Sq,68.25333333333333
@@ -2797,13 +2797,13 @@ Parsons Blvd,Cypress Hills,31.513333333333332
 Parsons Blvd,Northern Blvd,55.968333333333334
 Parsons Blvd,Sutphin Blvd,2.881666666666667
 Parsons Blvd,Astoria Blvd,67.57333333333334
-Parsons Blvd,Fordham Rd,129.265
-Parsons Blvd,Bedford Park Blvd,135.16
-Parsons Blvd,Mosholu Pkwy,138.51833333333335
+Parsons Blvd,Fordham Rd,129.26333333333335
+Parsons Blvd,Bedford Park Blvd,135.15833333333333
+Parsons Blvd,Mosholu Pkwy,138.51666666666668
 Parsons Blvd,Botanic Garden,72.74499999999999
-Parsons Blvd,Dyckman St,128.74666666666667
+Parsons Blvd,Dyckman St,128.76333333333335
 Parsons Blvd,Steinway St,63.163333333333334
-Parsons Blvd,Kosciuszko St,56.79
+Parsons Blvd,Kosciuszko St,56.79666666666667
 Parsons Blvd,Jefferson St,58.44666666666667
 Parsons Blvd,Kings Hwy,99.28999999999999
 Parsons Blvd,Brighton Beach,105.14333333333335
@@ -2815,7 +2815,7 @@ Parsons Blvd,Court St,86.86
 Parsons Blvd,Carroll St,85.89166666666667
 Parsons Blvd,Spring St,87.795
 Parsons Blvd,Prince St,87.74666666666667
-Parsons Blvd,Hoyt St,79.00166666666668
+Parsons Blvd,Hoyt St,79.00833333333334
 Parsons Blvd,City Hall,93.38666666666667
 Parsons Blvd,South Ferry,151.855
 Parsons Blvd,Bowling Green,98.04666666666667
@@ -2825,11 +2825,11 @@ Parsons Blvd,Rector St,97.20666666666666
 Parsons Blvd,Fresh Pond Rd,44.343333333333334
 Parsons Blvd,Broad St,99.57
 Parsons Blvd,Bowery,86.98833333333333
-Parsons Blvd,Clark St,83.93166666666666
+Parsons Blvd,Clark St,83.93833333333333
 Parsons Blvd,York St,85.08999999999999
-Parsons Blvd,High St,87.50500000000001
+Parsons Blvd,High St,87.51166666666667
 Parsons Blvd,President St,66.62833333333333
-Parsons Blvd,Woodlawn,142.17999999999998
+Parsons Blvd,Woodlawn,142.17833333333334
 Parsons Blvd,Bleecker St,88.25666666666666
 Parsons Blvd,Cortelyou Rd,78.73333333333333
 Parsons Blvd,Parkchester,115.49166666666666
@@ -2920,18 +2920,18 @@ Woodhaven Blvd,Canal St,64.07833333333333
 Woodhaven Blvd,Bergen St,60.961666666666666
 Woodhaven Blvd,Freeman St,105.00833333333334
 Woodhaven Blvd,Junction Blvd,37.89333333333333
-Woodhaven Blvd,Chauncey St,25.563333333333333
+Woodhaven Blvd,Chauncey St,25.57
 Woodhaven Blvd,Union St,58.20333333333333
 Woodhaven Blvd,Pelham Pkwy,119.6
 Woodhaven Blvd,Gun Hill Rd,127.54333333333334
 Woodhaven Blvd,Simpson St,101.44833333333332
 Woodhaven Blvd,Bronx Park East,112.50333333333333
 Woodhaven Blvd,Winthrop St,49.80833333333333
-Woodhaven Blvd,Kingsbridge Rd,120.45
+Woodhaven Blvd,Kingsbridge Rd,120.44833333333332
 Woodhaven Blvd,Prospect Park,57.65833333333333
 Woodhaven Blvd,Broadway,52.99666666666667
-Woodhaven Blvd,Lorimer St,39.641666666666666
-Woodhaven Blvd,Halsey St,20.415000000000003
+Woodhaven Blvd,Lorimer St,39.64833333333333
+Woodhaven Blvd,Halsey St,20.421666666666667
 Woodhaven Blvd,Park Pl,67.97333333333333
 Woodhaven Blvd,Middletown Rd,112.60333333333332
 Woodhaven Blvd,Court Sq,56.138333333333335
@@ -2942,12 +2942,12 @@ Woodhaven Blvd,Rockaway Blvd,8.351666666666667
 Woodhaven Blvd,Beverly Rd,53.03
 Woodhaven Blvd,Grand Army Plaza,52.09
 Woodhaven Blvd,Fulton St,68.66499999999999
-Woodhaven Blvd,Borough Hall,58.55833333333333
+Woodhaven Blvd,Borough Hall,58.565000000000005
 Woodhaven Blvd,Aqueduct Racetrack,18.990000000000002
 Woodhaven Blvd,Morris Park,117.35166666666667
 Woodhaven Blvd,Nevins St,58.223333333333336
 Woodhaven Blvd,Sterling St,46.093333333333334
-Woodhaven Blvd,Hewes St,42.791666666666664
+Woodhaven Blvd,Hewes St,42.79833333333333
 Woodhaven Blvd,Grand St,59.23833333333334
 Woodhaven Blvd,Parsons Blvd,22.348333333333336
 Woodhaven Blvd,Pelham Bay Park,118.575
@@ -2959,13 +2959,13 @@ Woodhaven Blvd,Cypress Hills,7.823333333333333
 Woodhaven Blvd,Northern Blvd,43.85333333333333
 Woodhaven Blvd,Sutphin Blvd,18.328333333333333
 Woodhaven Blvd,Astoria Blvd,55.59
-Woodhaven Blvd,Fordham Rd,117.54166666666667
-Woodhaven Blvd,Bedford Park Blvd,123.43666666666667
-Woodhaven Blvd,Mosholu Pkwy,126.795
+Woodhaven Blvd,Fordham Rd,117.53999999999999
+Woodhaven Blvd,Bedford Park Blvd,123.435
+Woodhaven Blvd,Mosholu Pkwy,126.79333333333334
 Woodhaven Blvd,Botanic Garden,52.04333333333333
-Woodhaven Blvd,Dyckman St,117.02333333333333
+Woodhaven Blvd,Dyckman St,117.03999999999999
 Woodhaven Blvd,Steinway St,50.74666666666667
-Woodhaven Blvd,Kosciuszko St,33.1
+Woodhaven Blvd,Kosciuszko St,33.10666666666667
 Woodhaven Blvd,Jefferson St,32.77
 Woodhaven Blvd,Kings Hwy,80.03166666666667
 Woodhaven Blvd,Brighton Beach,85.885
@@ -2973,11 +2973,11 @@ Woodhaven Blvd,Sheepshead Bay,79.71666666666667
 Woodhaven Blvd,Neck Rd,74.41166666666666
 Woodhaven Blvd,Chambers St,69.17166666666667
 Woodhaven Blvd,East Broadway,58.91
-Woodhaven Blvd,Court St,58.49166666666667
+Woodhaven Blvd,Court St,58.498333333333335
 Woodhaven Blvd,Carroll St,63.805
 Woodhaven Blvd,Spring St,62.18
 Woodhaven Blvd,Prince St,62.13166666666667
-Woodhaven Blvd,Hoyt St,55.31166666666666
+Woodhaven Blvd,Hoyt St,55.318333333333335
 Woodhaven Blvd,City Hall,67.77166666666668
 Woodhaven Blvd,South Ferry,126.24
 Woodhaven Blvd,Bowling Green,72.43166666666666
@@ -2987,11 +2987,11 @@ Woodhaven Blvd,Rector St,71.59166666666667
 Woodhaven Blvd,Fresh Pond Rd,21.935
 Woodhaven Blvd,Broad St,73.955
 Woodhaven Blvd,Bowery,61.373333333333335
-Woodhaven Blvd,Clark St,60.24166666666667
-Woodhaven Blvd,York St,58.675
-Woodhaven Blvd,High St,63.815000000000005
+Woodhaven Blvd,Clark St,60.248333333333335
+Woodhaven Blvd,York St,58.681666666666665
+Woodhaven Blvd,High St,63.82166666666667
 Woodhaven Blvd,President St,45.75666666666667
-Woodhaven Blvd,Woodlawn,130.45666666666665
+Woodhaven Blvd,Woodlawn,130.455
 Woodhaven Blvd,Bleecker St,62.641666666666666
 Woodhaven Blvd,Cortelyou Rd,59.18833333333334
 Woodhaven Blvd,Parkchester,103.76833333333335
@@ -3008,7 +3008,7 @@ Cleveland St,Gun Hill Rd,131.62666666666667
 Cleveland St,Simpson St,105.53166666666667
 Cleveland St,Bronx Park East,116.58666666666666
 Cleveland St,Winthrop St,34.055
-Cleveland St,Kingsbridge Rd,124.53333333333333
+Cleveland St,Kingsbridge Rd,124.53166666666667
 Cleveland St,Prospect Park,41.905
 Cleveland St,Broadway,55.2
 Cleveland St,Lorimer St,30.973333333333336
@@ -3040,11 +3040,11 @@ Cleveland St,Cypress Hills,7.819999999999999
 Cleveland St,Northern Blvd,49.67833333333333
 Cleveland St,Sutphin Blvd,33.74333333333333
 Cleveland St,Astoria Blvd,61.415
-Cleveland St,Fordham Rd,121.625
-Cleveland St,Bedford Park Blvd,127.52
-Cleveland St,Mosholu Pkwy,130.87833333333333
+Cleveland St,Fordham Rd,121.62333333333332
+Cleveland St,Bedford Park Blvd,127.51833333333335
+Cleveland St,Mosholu Pkwy,130.87666666666667
 Cleveland St,Botanic Garden,36.29
-Cleveland St,Dyckman St,121.10666666666665
+Cleveland St,Dyckman St,121.12333333333332
 Cleveland St,Steinway St,52.95
 Cleveland St,Kosciuszko St,22.373333333333335
 Cleveland St,Jefferson St,26.06833333333333
@@ -3072,7 +3072,7 @@ Cleveland St,Clark St,52.16166666666666
 Cleveland St,York St,50.03
 Cleveland St,High St,55.169999999999995
 Cleveland St,President St,30.003333333333334
-Cleveland St,Woodlawn,134.54
+Cleveland St,Woodlawn,134.53833333333333
 Cleveland St,Bleecker St,55.434999999999995
 Cleveland St,Cortelyou Rd,43.556666666666665
 Cleveland St,Parkchester,107.85166666666667
@@ -3089,7 +3089,7 @@ Junius St,Gun Hill Rd,131.445
 Junius St,Simpson St,105.39333333333335
 Junius St,Bronx Park East,116.405
 Junius St,Winthrop St,21.09333333333333
-Junius St,Kingsbridge Rd,124.395
+Junius St,Kingsbridge Rd,124.39333333333335
 Junius St,Prospect Park,31.501666666666665
 Junius St,Broadway,61.730000000000004
 Junius St,Lorimer St,32.88666666666667
@@ -3121,11 +3121,11 @@ Junius St,Cypress Hills,21.836666666666666
 Junius St,Northern Blvd,55.76
 Junius St,Sutphin Blvd,48.848333333333336
 Junius St,Astoria Blvd,66.54166666666667
-Junius St,Fordham Rd,121.48666666666666
-Junius St,Bedford Park Blvd,127.38166666666666
-Junius St,Mosholu Pkwy,130.73999999999998
+Junius St,Fordham Rd,121.485
+Junius St,Bedford Park Blvd,127.38000000000001
+Junius St,Mosholu Pkwy,130.73833333333334
 Junius St,Botanic Garden,26.55
-Junius St,Dyckman St,120.96833333333333
+Junius St,Dyckman St,120.985
 Junius St,Steinway St,59.480000000000004
 Junius St,Kosciuszko St,22.69
 Junius St,Jefferson St,29.128333333333334
@@ -3153,7 +3153,7 @@ Junius St,Clark St,45.875
 Junius St,York St,43.89833333333333
 Junius St,High St,48.986666666666665
 Junius St,President St,20.215
-Junius St,Woodlawn,134.40166666666667
+Junius St,Woodlawn,134.4
 Junius St,Bleecker St,57.348333333333336
 Junius St,Cortelyou Rd,30.623333333333335
 Junius St,Parkchester,107.67
@@ -3170,7 +3170,7 @@ Broadway Junction,Gun Hill Rd,126.95166666666667
 Broadway Junction,Simpson St,100.9
 Broadway Junction,Bronx Park East,111.91166666666666
 Broadway Junction,Winthrop St,27.841666666666665
-Broadway Junction,Kingsbridge Rd,119.90166666666667
+Broadway Junction,Kingsbridge Rd,119.9
 Broadway Junction,Prospect Park,35.69166666666667
 Broadway Junction,Broadway,53.318333333333335
 Broadway Junction,Lorimer St,24.475
@@ -3202,11 +3202,11 @@ Broadway Junction,Cypress Hills,15.99
 Broadway Junction,Northern Blvd,46.83166666666667
 Broadway Junction,Sutphin Blvd,43.038333333333334
 Broadway Junction,Astoria Blvd,58.13
-Broadway Junction,Fordham Rd,116.99333333333334
-Broadway Junction,Bedford Park Blvd,122.88833333333334
-Broadway Junction,Mosholu Pkwy,126.24666666666667
+Broadway Junction,Fordham Rd,116.99166666666666
+Broadway Junction,Bedford Park Blvd,122.88666666666667
+Broadway Junction,Mosholu Pkwy,126.24499999999999
 Broadway Junction,Botanic Garden,29.71833333333333
-Broadway Junction,Dyckman St,116.475
+Broadway Junction,Dyckman St,116.49166666666666
 Broadway Junction,Steinway St,51.068333333333335
 Broadway Junction,Kosciuszko St,16.401666666666667
 Broadway Junction,Jefferson St,20.741666666666667
@@ -3234,7 +3234,7 @@ Broadway Junction,Clark St,42.595
 Broadway Junction,York St,41.02833333333333
 Broadway Junction,High St,46.16833333333333
 Broadway Junction,President St,24.061666666666667
-Broadway Junction,Woodlawn,129.90833333333333
+Broadway Junction,Woodlawn,129.90666666666667
 Broadway Junction,Bleecker St,48.93666666666666
 Broadway Junction,Cortelyou Rd,37.64333333333333
 Broadway Junction,Parkchester,103.17666666666668
@@ -3251,11 +3251,11 @@ Crescent St,Gun Hill Rd,128.545
 Crescent St,Simpson St,102.45
 Crescent St,Bronx Park East,113.50500000000001
 Crescent St,Winthrop St,37.108333333333334
-Crescent St,Kingsbridge Rd,121.45166666666667
+Crescent St,Kingsbridge Rd,121.45
 Crescent St,Prospect Park,44.958333333333336
 Crescent St,Broadway,52.11833333333333
-Crescent St,Lorimer St,34.51
-Crescent St,Halsey St,15.283333333333333
+Crescent St,Lorimer St,34.516666666666666
+Crescent St,Halsey St,15.29
 Crescent St,Park Pl,62.84166666666667
 Crescent St,Middletown Rd,113.605
 Crescent St,Court Sq,51.64333333333333
@@ -3271,7 +3271,7 @@ Crescent St,Aqueduct Racetrack,22.948333333333334
 Crescent St,Morris Park,118.35333333333332
 Crescent St,Nevins St,45.52333333333333
 Crescent St,Sterling St,33.39333333333333
-Crescent St,Hewes St,37.66
+Crescent St,Hewes St,37.666666666666664
 Crescent St,Grand St,54.10666666666667
 Crescent St,Parsons Blvd,35.958333333333336
 Crescent St,Pelham Bay Park,119.57666666666667
@@ -3283,13 +3283,13 @@ Crescent St,Cypress Hills,3.735
 Crescent St,Northern Blvd,46.59666666666667
 Crescent St,Sutphin Blvd,29.658333333333335
 Crescent St,Astoria Blvd,58.333333333333336
-Crescent St,Fordham Rd,118.54333333333334
-Crescent St,Bedford Park Blvd,124.43833333333333
-Crescent St,Mosholu Pkwy,127.79666666666667
+Crescent St,Fordham Rd,118.54166666666667
+Crescent St,Bedford Park Blvd,124.43666666666667
+Crescent St,Mosholu Pkwy,127.795
 Crescent St,Botanic Garden,39.343333333333334
-Crescent St,Dyckman St,118.025
+Crescent St,Dyckman St,118.04166666666667
 Crescent St,Steinway St,49.86833333333333
-Crescent St,Kosciuszko St,27.96833333333333
+Crescent St,Kosciuszko St,27.975
 Crescent St,Jefferson St,27.638333333333332
 Crescent St,Kings Hwy,67.68333333333334
 Crescent St,Brighton Beach,71.97333333333333
@@ -3315,7 +3315,7 @@ Crescent St,Clark St,55.215
 Crescent St,York St,53.083333333333336
 Crescent St,High St,58.223333333333336
 Crescent St,President St,33.056666666666665
-Crescent St,Woodlawn,131.45833333333334
+Crescent St,Woodlawn,131.45666666666665
 Crescent St,Bleecker St,57.51
 Crescent St,Cortelyou Rd,46.21666666666667
 Crescent St,Parkchester,104.77
@@ -3325,18 +3325,18 @@ Cypress Hills,Canal St,56.255
 Cypress Hills,Bergen St,51.986666666666665
 Cypress Hills,Freeman St,103.31833333333334
 Cypress Hills,Junction Blvd,37.45333333333333
-Cypress Hills,Chauncey St,17.740000000000002
+Cypress Hills,Chauncey St,17.746666666666666
 Cypress Hills,Union St,49.22833333333333
 Cypress Hills,Pelham Pkwy,117.91000000000001
 Cypress Hills,Gun Hill Rd,125.85333333333332
 Cypress Hills,Simpson St,99.75833333333334
 Cypress Hills,Bronx Park East,110.81333333333333
 Cypress Hills,Winthrop St,40.833333333333336
-Cypress Hills,Kingsbridge Rd,118.76
+Cypress Hills,Kingsbridge Rd,118.75833333333334
 Cypress Hills,Prospect Park,48.68333333333333
 Cypress Hills,Broadway,49.42666666666666
-Cypress Hills,Lorimer St,31.81833333333333
-Cypress Hills,Halsey St,12.591666666666667
+Cypress Hills,Lorimer St,31.825
+Cypress Hills,Halsey St,12.598333333333333
 Cypress Hills,Park Pl,60.15
 Cypress Hills,Middletown Rd,110.91333333333334
 Cypress Hills,Court Sq,48.95166666666667
@@ -3347,12 +3347,12 @@ Cypress Hills,Rockaway Blvd,16.168333333333333
 Cypress Hills,Beverly Rd,43.78333333333333
 Cypress Hills,Grand Army Plaza,43.115
 Cypress Hills,Fulton St,60.84166666666667
-Cypress Hills,Borough Hall,50.735
+Cypress Hills,Borough Hall,50.74166666666667
 Cypress Hills,Aqueduct Racetrack,25.238333333333333
 Cypress Hills,Morris Park,115.66166666666666
-Cypress Hills,Nevins St,46.625
+Cypress Hills,Nevins St,46.63166666666667
 Cypress Hills,Sterling St,37.11833333333333
-Cypress Hills,Hewes St,34.968333333333334
+Cypress Hills,Hewes St,34.975
 Cypress Hills,Grand St,51.415
 Cypress Hills,Parsons Blvd,30.141666666666666
 Cypress Hills,Pelham Bay Park,116.885
@@ -3364,13 +3364,13 @@ Cypress Hills,Crescent St,3.725
 Cypress Hills,Northern Blvd,43.905
 Cypress Hills,Sutphin Blvd,26.121666666666666
 Cypress Hills,Astoria Blvd,55.641666666666666
-Cypress Hills,Fordham Rd,115.85166666666667
-Cypress Hills,Bedford Park Blvd,121.74666666666667
-Cypress Hills,Mosholu Pkwy,125.105
+Cypress Hills,Fordham Rd,115.85
+Cypress Hills,Bedford Park Blvd,121.74499999999999
+Cypress Hills,Mosholu Pkwy,125.10333333333332
 Cypress Hills,Botanic Garden,43.068333333333335
-Cypress Hills,Dyckman St,115.33333333333333
+Cypress Hills,Dyckman St,115.35
 Cypress Hills,Steinway St,47.17666666666666
-Cypress Hills,Kosciuszko St,25.276666666666664
+Cypress Hills,Kosciuszko St,25.283333333333335
 Cypress Hills,Jefferson St,24.946666666666665
 Cypress Hills,Kings Hwy,71.40833333333333
 Cypress Hills,Brighton Beach,75.69833333333332
@@ -3378,11 +3378,11 @@ Cypress Hills,Sheepshead Bay,69.53
 Cypress Hills,Neck Rd,64.225
 Cypress Hills,Chambers St,61.348333333333336
 Cypress Hills,East Broadway,51.086666666666666
-Cypress Hills,Court St,50.66833333333333
+Cypress Hills,Court St,50.675
 Cypress Hills,Carroll St,54.830000000000005
 Cypress Hills,Spring St,54.35666666666667
 Cypress Hills,Prince St,54.30833333333333
-Cypress Hills,Hoyt St,47.48833333333334
+Cypress Hills,Hoyt St,47.495
 Cypress Hills,City Hall,59.94833333333334
 Cypress Hills,South Ferry,118.41666666666667
 Cypress Hills,Bowling Green,64.60833333333333
@@ -3392,11 +3392,11 @@ Cypress Hills,Rector St,63.76833333333333
 Cypress Hills,Fresh Pond Rd,14.111666666666668
 Cypress Hills,Broad St,66.13166666666667
 Cypress Hills,Bowery,53.55
-Cypress Hills,Clark St,52.41833333333333
-Cypress Hills,York St,50.85166666666667
-Cypress Hills,High St,55.99166666666667
+Cypress Hills,Clark St,52.425
+Cypress Hills,York St,50.858333333333334
+Cypress Hills,High St,55.998333333333335
 Cypress Hills,President St,36.781666666666666
-Cypress Hills,Woodlawn,128.76666666666668
+Cypress Hills,Woodlawn,128.765
 Cypress Hills,Bleecker St,54.818333333333335
 Cypress Hills,Cortelyou Rd,49.94166666666667
 Cypress Hills,Parkchester,102.07833333333333
@@ -3413,7 +3413,7 @@ Northern Blvd,Gun Hill Rd,83.91666666666667
 Northern Blvd,Simpson St,57.82166666666667
 Northern Blvd,Bronx Park East,68.87666666666668
 Northern Blvd,Winthrop St,61.17166666666667
-Northern Blvd,Kingsbridge Rd,76.82333333333332
+Northern Blvd,Kingsbridge Rd,76.82166666666667
 Northern Blvd,Prospect Park,63.805
 Northern Blvd,Broadway,10.063333333333333
 Northern Blvd,Lorimer St,33.565000000000005
@@ -3445,11 +3445,11 @@ Northern Blvd,Crescent St,42.86666666666667
 Northern Blvd,Cypress Hills,41.22833333333333
 Northern Blvd,Sutphin Blvd,53.13
 Northern Blvd,Astoria Blvd,11.963333333333333
-Northern Blvd,Fordham Rd,73.91499999999999
-Northern Blvd,Bedford Park Blvd,79.81
-Northern Blvd,Mosholu Pkwy,83.16833333333334
+Northern Blvd,Fordham Rd,73.91333333333334
+Northern Blvd,Bedford Park Blvd,79.80833333333334
+Northern Blvd,Mosholu Pkwy,83.16666666666667
 Northern Blvd,Botanic Garden,56.07833333333333
-Northern Blvd,Dyckman St,73.39666666666668
+Northern Blvd,Dyckman St,73.41333333333334
 Northern Blvd,Steinway St,7.8133333333333335
 Northern Blvd,Kosciuszko St,40.02333333333333
 Northern Blvd,Jefferson St,30.88
@@ -3477,7 +3477,7 @@ Northern Blvd,Clark St,54.58833333333334
 Northern Blvd,York St,48.305
 Northern Blvd,High St,56.07833333333333
 Northern Blvd,President St,54.248333333333335
-Northern Blvd,Woodlawn,86.83
+Northern Blvd,Woodlawn,86.82833333333333
 Northern Blvd,Bleecker St,50.43833333333334
 Northern Blvd,Cortelyou Rd,68.97666666666667
 Northern Blvd,Parkchester,60.141666666666666
@@ -3487,18 +3487,18 @@ Sutphin Blvd,Canal St,86.64833333333333
 Sutphin Blvd,Bergen St,80.39833333333333
 Sutphin Blvd,Freeman St,114.75833333333334
 Sutphin Blvd,Junction Blvd,38.775
-Sutphin Blvd,Chauncey St,45.22166666666667
+Sutphin Blvd,Chauncey St,45.22833333333333
 Sutphin Blvd,Union St,77.23833333333333
 Sutphin Blvd,Pelham Pkwy,129.35
 Sutphin Blvd,Gun Hill Rd,137.29333333333335
 Sutphin Blvd,Simpson St,111.19833333333332
 Sutphin Blvd,Bronx Park East,122.25333333333333
 Sutphin Blvd,Winthrop St,67.765
-Sutphin Blvd,Kingsbridge Rd,130.2
+Sutphin Blvd,Kingsbridge Rd,130.19833333333332
 Sutphin Blvd,Prospect Park,75.615
 Sutphin Blvd,Broadway,62.20333333333333
-Sutphin Blvd,Lorimer St,59.3
-Sutphin Blvd,Halsey St,40.07333333333334
+Sutphin Blvd,Lorimer St,59.306666666666665
+Sutphin Blvd,Halsey St,40.080000000000005
 Sutphin Blvd,Park Pl,90.54333333333334
 Sutphin Blvd,Middletown Rd,122.35333333333332
 Sutphin Blvd,Court Sq,65.345
@@ -3509,7 +3509,7 @@ Sutphin Blvd,Rockaway Blvd,24.138333333333332
 Sutphin Blvd,Beverly Rd,70.02666666666667
 Sutphin Blvd,Grand Army Plaza,71.125
 Sutphin Blvd,Fulton St,91.235
-Sutphin Blvd,Borough Hall,78.21666666666667
+Sutphin Blvd,Borough Hall,78.22333333333333
 Sutphin Blvd,Aqueduct Racetrack,31.783333333333335
 Sutphin Blvd,Morris Park,127.10166666666667
 Sutphin Blvd,Nevins St,77.66000000000001
@@ -3526,13 +3526,13 @@ Sutphin Blvd,Crescent St,30.918333333333333
 Sutphin Blvd,Cypress Hills,27.48166666666667
 Sutphin Blvd,Northern Blvd,53.059999999999995
 Sutphin Blvd,Astoria Blvd,65.6
-Sutphin Blvd,Fordham Rd,127.29166666666667
-Sutphin Blvd,Bedford Park Blvd,133.18666666666667
-Sutphin Blvd,Mosholu Pkwy,136.54500000000002
+Sutphin Blvd,Fordham Rd,127.28999999999999
+Sutphin Blvd,Bedford Park Blvd,133.185
+Sutphin Blvd,Mosholu Pkwy,136.54333333333335
 Sutphin Blvd,Botanic Garden,70.19666666666667
-Sutphin Blvd,Dyckman St,126.77333333333333
+Sutphin Blvd,Dyckman St,126.78999999999999
 Sutphin Blvd,Steinway St,59.95333333333333
-Sutphin Blvd,Kosciuszko St,52.75833333333333
+Sutphin Blvd,Kosciuszko St,52.765
 Sutphin Blvd,Jefferson St,55.401666666666664
 Sutphin Blvd,Kings Hwy,96.74166666666666
 Sutphin Blvd,Brighton Beach,102.595
@@ -3540,11 +3540,11 @@ Sutphin Blvd,Sheepshead Bay,96.42666666666668
 Sutphin Blvd,Neck Rd,91.12166666666667
 Sutphin Blvd,Chambers St,91.74166666666666
 Sutphin Blvd,East Broadway,81.48
-Sutphin Blvd,Court St,78.15
+Sutphin Blvd,Court St,78.15666666666667
 Sutphin Blvd,Carroll St,83.34333333333333
 Sutphin Blvd,Spring St,84.75
 Sutphin Blvd,Prince St,84.70166666666667
-Sutphin Blvd,Hoyt St,74.97
+Sutphin Blvd,Hoyt St,74.97666666666667
 Sutphin Blvd,City Hall,90.34166666666667
 Sutphin Blvd,South Ferry,148.81
 Sutphin Blvd,Bowling Green,95.00166666666668
@@ -3554,11 +3554,11 @@ Sutphin Blvd,Rector St,94.16166666666666
 Sutphin Blvd,Fresh Pond Rd,40.31166666666666
 Sutphin Blvd,Broad St,96.525
 Sutphin Blvd,Bowery,83.94333333333334
-Sutphin Blvd,Clark St,79.9
-Sutphin Blvd,York St,78.33333333333333
-Sutphin Blvd,High St,83.47333333333333
+Sutphin Blvd,Clark St,79.90666666666667
+Sutphin Blvd,York St,78.33999999999999
+Sutphin Blvd,High St,83.48
 Sutphin Blvd,President St,64.08
-Sutphin Blvd,Woodlawn,140.20666666666665
+Sutphin Blvd,Woodlawn,140.20499999999998
 Sutphin Blvd,Bleecker St,85.21166666666666
 Sutphin Blvd,Cortelyou Rd,76.185
 Sutphin Blvd,Parkchester,113.51833333333335
@@ -3575,7 +3575,7 @@ Astoria Blvd,Gun Hill Rd,76.73
 Astoria Blvd,Simpson St,50.635
 Astoria Blvd,Bronx Park East,61.690000000000005
 Astoria Blvd,Winthrop St,67.615
-Astoria Blvd,Kingsbridge Rd,69.63666666666667
+Astoria Blvd,Kingsbridge Rd,69.635
 Astoria Blvd,Prospect Park,70.24833333333332
 Astoria Blvd,Broadway,5.798333333333333
 Astoria Blvd,Lorimer St,40.00833333333333
@@ -3607,11 +3607,11 @@ Astoria Blvd,Crescent St,54.07
 Astoria Blvd,Cypress Hills,52.431666666666665
 Astoria Blvd,Northern Blvd,12.646666666666667
 Astoria Blvd,Sutphin Blvd,64.33333333333333
-Astoria Blvd,Fordham Rd,66.72833333333332
-Astoria Blvd,Bedford Park Blvd,72.62333333333332
-Astoria Blvd,Mosholu Pkwy,75.98166666666665
+Astoria Blvd,Fordham Rd,66.72666666666666
+Astoria Blvd,Bedford Park Blvd,72.62166666666667
+Astoria Blvd,Mosholu Pkwy,75.98
 Astoria Blvd,Botanic Garden,62.52166666666667
-Astoria Blvd,Dyckman St,66.21
+Astoria Blvd,Dyckman St,66.22666666666666
 Astoria Blvd,Steinway St,11.221666666666666
 Astoria Blvd,Kosciuszko St,46.46666666666667
 Astoria Blvd,Jefferson St,38.39833333333333
@@ -3639,187 +3639,3005 @@ Astoria Blvd,Clark St,53.833333333333336
 Astoria Blvd,York St,51.126666666666665
 Astoria Blvd,High St,59.223333333333336
 Astoria Blvd,President St,60.69166666666667
-Astoria Blvd,Woodlawn,79.64333333333335
+Astoria Blvd,Woodlawn,79.64166666666667
 Astoria Blvd,Bleecker St,49.67166666666667
 Astoria Blvd,Cortelyou Rd,75.42
 Astoria Blvd,Parkchester,52.955000000000005
 Astoria Blvd,Franklin St,57.825
-Fordham Rd,Astor Pl,82.00333333333333
-Fordham Rd,Canal St,89.35
-Fordham Rd,Bergen St,100.18666666666667
+Fordham Rd,Astor Pl,82.00166666666668
+Fordham Rd,Canal St,89.34833333333333
+Fordham Rd,Bergen St,100.185
 Fordham Rd,Freeman St,21.476666666666667
-Fordham Rd,Junction Blvd,90.31833333333334
-Fordham Rd,Chauncey St,115.55
-Fordham Rd,Union St,100.60166666666667
+Fordham Rd,Junction Blvd,90.31666666666666
+Fordham Rd,Chauncey St,115.54833333333333
+Fordham Rd,Union St,100.6
 Fordham Rd,Pelham Pkwy,26.461666666666666
 Fordham Rd,Gun Hill Rd,27.688333333333333
 Fordham Rd,Simpson St,25.118333333333332
 Fordham Rd,Bronx Park East,23.57
-Fordham Rd,Winthrop St,114.63666666666667
+Fordham Rd,Winthrop St,114.635
 Fordham Rd,Kingsbridge Rd,2.6633333333333336
-Fordham Rd,Prospect Park,112.8
-Fordham Rd,Broadway,67.89
-Fordham Rd,Lorimer St,95.40833333333333
-Fordham Rd,Halsey St,106.16499999999999
-Fordham Rd,Park Pl,96.77
+Fordham Rd,Prospect Park,112.79833333333333
+Fordham Rd,Broadway,67.88833333333334
+Fordham Rd,Lorimer St,95.40666666666667
+Fordham Rd,Halsey St,106.16333333333334
+Fordham Rd,Park Pl,96.77833333333334
 Fordham Rd,Middletown Rd,35.080000000000005
-Fordham Rd,Court Sq,74.53833333333334
-Fordham Rd,Houston St,86.25500000000001
-Fordham Rd,Broad Channel,160.41
-Fordham Rd,Ocean Pkwy,143.72666666666666
-Fordham Rd,Rockaway Blvd,126.05
-Fordham Rd,Beverly Rd,117.985
-Fordham Rd,Grand Army Plaza,98.05666666666666
-Fordham Rd,Fulton St,95.38833333333334
-Fordham Rd,Borough Hall,98.77333333333333
-Fordham Rd,Aqueduct Racetrack,136.185
+Fordham Rd,Court Sq,74.53666666666666
+Fordham Rd,Houston St,86.26333333333334
+Fordham Rd,Broad Channel,160.40833333333333
+Fordham Rd,Ocean Pkwy,143.725
+Fordham Rd,Rockaway Blvd,126.04833333333333
+Fordham Rd,Beverly Rd,117.98333333333333
+Fordham Rd,Grand Army Plaza,98.055
+Fordham Rd,Fulton St,95.38666666666667
+Fordham Rd,Borough Hall,98.77166666666668
+Fordham Rd,Aqueduct Racetrack,136.18333333333334
 Fordham Rd,Morris Park,26.7
-Fordham Rd,Nevins St,96.91499999999999
-Fordham Rd,Sterling St,109.51666666666667
-Fordham Rd,Hewes St,95.34666666666666
-Fordham Rd,Grand St,85.13833333333334
-Fordham Rd,Parsons Blvd,129.76333333333335
+Fordham Rd,Nevins St,96.91333333333334
+Fordham Rd,Sterling St,109.515
+Fordham Rd,Hewes St,95.345
+Fordham Rd,Grand St,85.13666666666667
+Fordham Rd,Parsons Blvd,129.76166666666666
 Fordham Rd,Pelham Bay Park,41.05166666666666
-Fordham Rd,Woodhaven Blvd,118.87666666666668
-Fordham Rd,Cleveland St,122.03833333333334
-Fordham Rd,Junius St,124.30166666666668
-Fordham Rd,Broadway Junction,118.25500000000001
-Fordham Rd,Crescent St,117.16666666666667
-Fordham Rd,Cypress Hills,115.52833333333334
-Fordham Rd,Northern Blvd,75.74333333333334
-Fordham Rd,Sutphin Blvd,127.43
-Fordham Rd,Astoria Blvd,67.86999999999999
+Fordham Rd,Woodhaven Blvd,118.875
+Fordham Rd,Cleveland St,122.03666666666666
+Fordham Rd,Junius St,124.3
+Fordham Rd,Broadway Junction,118.25333333333333
+Fordham Rd,Crescent St,117.16499999999999
+Fordham Rd,Cypress Hills,115.52666666666667
+Fordham Rd,Northern Blvd,75.74166666666666
+Fordham Rd,Sutphin Blvd,127.42833333333333
+Fordham Rd,Astoria Blvd,67.86833333333333
 Fordham Rd,Bedford Park Blvd,8.675
 Fordham Rd,Mosholu Pkwy,12.033333333333333
-Fordham Rd,Botanic Garden,104.155
+Fordham Rd,Botanic Garden,104.15333333333334
 Fordham Rd,Dyckman St,13.325
-Fordham Rd,Steinway St,73.89833333333333
-Fordham Rd,Kosciuszko St,104.69
-Fordham Rd,Jefferson St,102.79666666666667
-Fordham Rd,Kings Hwy,129.63833333333335
-Fordham Rd,Brighton Beach,145.9116666666667
-Fordham Rd,Sheepshead Bay,145.40333333333334
-Fordham Rd,Neck Rd,139.82166666666666
-Fordham Rd,Chambers St,94.97
-Fordham Rd,East Broadway,89.30666666666666
-Fordham Rd,Court St,98.03500000000001
-Fordham Rd,Carroll St,103.33833333333334
-Fordham Rd,Spring St,86.17
-Fordham Rd,Prince St,84.83166666666666
-Fordham Rd,Hoyt St,95.36
-Fordham Rd,City Hall,93.06333333333333
+Fordham Rd,Steinway St,73.89666666666668
+Fordham Rd,Kosciuszko St,104.68833333333333
+Fordham Rd,Jefferson St,102.795
+Fordham Rd,Kings Hwy,129.63666666666666
+Fordham Rd,Brighton Beach,145.91
+Fordham Rd,Sheepshead Bay,145.40166666666667
+Fordham Rd,Neck Rd,139.82000000000002
+Fordham Rd,Chambers St,94.96833333333333
+Fordham Rd,East Broadway,89.305
+Fordham Rd,Court St,98.03333333333333
+Fordham Rd,Carroll St,103.33666666666666
+Fordham Rd,Spring St,86.16833333333334
+Fordham Rd,Prince St,84.83
+Fordham Rd,Hoyt St,95.35833333333333
+Fordham Rd,City Hall,93.06166666666667
 Fordham Rd,South Ferry,128.14
-Fordham Rd,Bowling Green,101.17833333333333
-Fordham Rd,Wall St,97.58
-Fordham Rd,Whitehall St,95.275
-Fordham Rd,Rector St,98.77666666666667
-Fordham Rd,Fresh Pond Rd,105.03500000000001
-Fordham Rd,Broad St,101.565
-Fordham Rd,Bowery,85.35833333333333
-Fordham Rd,Clark St,94.63000000000001
-Fordham Rd,York St,91.92333333333333
-Fordham Rd,High St,100.02
-Fordham Rd,President St,106.21000000000001
+Fordham Rd,Bowling Green,101.18666666666667
+Fordham Rd,Wall St,97.57833333333333
+Fordham Rd,Whitehall St,95.27333333333333
+Fordham Rd,Rector St,98.78500000000001
+Fordham Rd,Fresh Pond Rd,105.03333333333333
+Fordham Rd,Broad St,101.57333333333332
+Fordham Rd,Bowery,85.35666666666665
+Fordham Rd,Clark St,94.62833333333333
+Fordham Rd,York St,91.92166666666667
+Fordham Rd,High St,100.01833333333335
+Fordham Rd,President St,106.20833333333333
 Fordham Rd,Woodlawn,15.695
-Fordham Rd,Bleecker St,84.325
-Fordham Rd,Cortelyou Rd,115.98166666666665
+Fordham Rd,Bleecker St,84.32333333333332
+Fordham Rd,Cortelyou Rd,115.98
 Fordham Rd,Parkchester,28.62
-Fordham Rd,Franklin St,93.81666666666666
-Bedford Park Blvd,Astor Pl,89.11333333333333
-Bedford Park Blvd,Canal St,96.46000000000001
-Bedford Park Blvd,Bergen St,107.29666666666667
+Fordham Rd,Franklin St,93.825
+Bedford Park Blvd,Astor Pl,89.11166666666666
+Bedford Park Blvd,Canal St,96.45833333333333
+Bedford Park Blvd,Bergen St,107.295
 Bedford Park Blvd,Freeman St,26.921666666666667
-Bedford Park Blvd,Junction Blvd,97.42833333333333
-Bedford Park Blvd,Chauncey St,122.66000000000001
-Bedford Park Blvd,Union St,107.71166666666666
+Bedford Park Blvd,Junction Blvd,97.42666666666668
+Bedford Park Blvd,Chauncey St,122.65833333333333
+Bedford Park Blvd,Union St,107.71000000000001
 Bedford Park Blvd,Pelham Pkwy,19.438333333333333
 Bedford Park Blvd,Gun Hill Rd,20.665000000000003
 Bedford Park Blvd,Simpson St,30.563333333333333
 Bedford Park Blvd,Bronx Park East,19.634999999999998
-Bedford Park Blvd,Winthrop St,121.74666666666667
+Bedford Park Blvd,Winthrop St,121.74499999999999
 Bedford Park Blvd,Kingsbridge Rd,5.763333333333334
-Bedford Park Blvd,Prospect Park,119.91000000000001
-Bedford Park Blvd,Broadway,75.0
-Bedford Park Blvd,Lorimer St,102.51833333333335
-Bedford Park Blvd,Halsey St,113.275
-Bedford Park Blvd,Park Pl,106.08999999999999
+Bedford Park Blvd,Prospect Park,119.90833333333333
+Bedford Park Blvd,Broadway,74.99833333333332
+Bedford Park Blvd,Lorimer St,102.51666666666667
+Bedford Park Blvd,Halsey St,113.27333333333333
+Bedford Park Blvd,Park Pl,106.09833333333333
 Bedford Park Blvd,Middletown Rd,33.07833333333333
-Bedford Park Blvd,Court Sq,81.64833333333333
-Bedford Park Blvd,Houston St,95.575
-Bedford Park Blvd,Broad Channel,167.52
-Bedford Park Blvd,Ocean Pkwy,150.83666666666667
-Bedford Park Blvd,Rockaway Blvd,133.16
-Bedford Park Blvd,Beverly Rd,125.095
-Bedford Park Blvd,Grand Army Plaza,105.16666666666667
-Bedford Park Blvd,Fulton St,102.49833333333332
-Bedford Park Blvd,Borough Hall,105.88333333333334
-Bedford Park Blvd,Aqueduct Racetrack,143.29500000000002
+Bedford Park Blvd,Court Sq,81.64666666666668
+Bedford Park Blvd,Houston St,95.58333333333333
+Bedford Park Blvd,Broad Channel,167.51833333333335
+Bedford Park Blvd,Ocean Pkwy,150.835
+Bedford Park Blvd,Rockaway Blvd,133.15833333333333
+Bedford Park Blvd,Beverly Rd,125.09333333333333
+Bedford Park Blvd,Grand Army Plaza,105.16499999999999
+Bedford Park Blvd,Fulton St,102.49666666666667
+Bedford Park Blvd,Borough Hall,105.88166666666666
+Bedford Park Blvd,Aqueduct Racetrack,143.29333333333335
 Bedford Park Blvd,Morris Park,19.676666666666666
-Bedford Park Blvd,Nevins St,104.025
-Bedford Park Blvd,Sterling St,116.62666666666668
-Bedford Park Blvd,Hewes St,102.45666666666666
-Bedford Park Blvd,Grand St,92.24833333333332
-Bedford Park Blvd,Parsons Blvd,136.87333333333333
+Bedford Park Blvd,Nevins St,104.02333333333333
+Bedford Park Blvd,Sterling St,116.625
+Bedford Park Blvd,Hewes St,102.455
+Bedford Park Blvd,Grand St,92.24666666666667
+Bedford Park Blvd,Parsons Blvd,136.87166666666664
 Bedford Park Blvd,Pelham Bay Park,38.955000000000005
-Bedford Park Blvd,Woodhaven Blvd,125.98666666666666
-Bedford Park Blvd,Cleveland St,129.14833333333334
-Bedford Park Blvd,Junius St,131.41166666666666
-Bedford Park Blvd,Broadway Junction,125.365
-Bedford Park Blvd,Crescent St,124.27666666666667
-Bedford Park Blvd,Cypress Hills,122.63833333333334
-Bedford Park Blvd,Northern Blvd,82.85333333333332
-Bedford Park Blvd,Sutphin Blvd,134.54
-Bedford Park Blvd,Astoria Blvd,74.98
+Bedford Park Blvd,Woodhaven Blvd,125.985
+Bedford Park Blvd,Cleveland St,129.14666666666668
+Bedford Park Blvd,Junius St,131.41
+Bedford Park Blvd,Broadway Junction,125.36333333333333
+Bedford Park Blvd,Crescent St,124.275
+Bedford Park Blvd,Cypress Hills,122.63666666666667
+Bedford Park Blvd,Northern Blvd,82.85166666666667
+Bedford Park Blvd,Sutphin Blvd,134.53833333333333
+Bedford Park Blvd,Astoria Blvd,74.97833333333332
 Bedford Park Blvd,Fordham Rd,8.686666666666667
 Bedford Park Blvd,Mosholu Pkwy,3.8766666666666665
-Bedford Park Blvd,Botanic Garden,111.265
+Bedford Park Blvd,Botanic Garden,111.26333333333334
 Bedford Park Blvd,Dyckman St,22.738333333333333
-Bedford Park Blvd,Steinway St,81.00833333333334
-Bedford Park Blvd,Kosciuszko St,111.8
-Bedford Park Blvd,Jefferson St,109.90666666666667
-Bedford Park Blvd,Kings Hwy,136.74833333333333
-Bedford Park Blvd,Brighton Beach,153.02166666666665
-Bedford Park Blvd,Sheepshead Bay,152.51333333333332
-Bedford Park Blvd,Neck Rd,146.93166666666667
-Bedford Park Blvd,Chambers St,102.08
-Bedford Park Blvd,East Broadway,96.41666666666667
-Bedford Park Blvd,Court St,105.145
-Bedford Park Blvd,Carroll St,110.44833333333332
-Bedford Park Blvd,Spring St,93.28
-Bedford Park Blvd,Prince St,91.94166666666666
-Bedford Park Blvd,Hoyt St,102.47
-Bedford Park Blvd,City Hall,100.17333333333333
+Bedford Park Blvd,Steinway St,81.00666666666666
+Bedford Park Blvd,Kosciuszko St,111.79833333333333
+Bedford Park Blvd,Jefferson St,109.905
+Bedford Park Blvd,Kings Hwy,136.74666666666664
+Bedford Park Blvd,Brighton Beach,153.02
+Bedford Park Blvd,Sheepshead Bay,152.51166666666668
+Bedford Park Blvd,Neck Rd,146.92999999999998
+Bedford Park Blvd,Chambers St,102.07833333333333
+Bedford Park Blvd,East Broadway,96.41499999999999
+Bedford Park Blvd,Court St,105.14333333333335
+Bedford Park Blvd,Carroll St,110.44666666666667
+Bedford Park Blvd,Spring St,93.27833333333334
+Bedford Park Blvd,Prince St,91.94
+Bedford Park Blvd,Hoyt St,102.46833333333333
+Bedford Park Blvd,City Hall,100.17166666666667
 Bedford Park Blvd,South Ferry,137.55333333333334
-Bedford Park Blvd,Bowling Green,110.49833333333332
-Bedford Park Blvd,Wall St,104.69
-Bedford Park Blvd,Whitehall St,102.385
-Bedford Park Blvd,Rector St,108.09666666666666
-Bedford Park Blvd,Fresh Pond Rd,112.145
-Bedford Park Blvd,Broad St,110.885
-Bedford Park Blvd,Bowery,92.46833333333333
-Bedford Park Blvd,Clark St,101.74
-Bedford Park Blvd,York St,99.03333333333333
-Bedford Park Blvd,High St,107.13000000000001
-Bedford Park Blvd,President St,113.32
+Bedford Park Blvd,Bowling Green,110.50666666666666
+Bedford Park Blvd,Wall St,104.68833333333333
+Bedford Park Blvd,Whitehall St,102.38333333333334
+Bedford Park Blvd,Rector St,108.105
+Bedford Park Blvd,Fresh Pond Rd,112.14333333333335
+Bedford Park Blvd,Broad St,110.89333333333335
+Bedford Park Blvd,Bowery,92.46666666666667
+Bedford Park Blvd,Clark St,101.73833333333333
+Bedford Park Blvd,York St,99.03166666666667
+Bedford Park Blvd,High St,107.12833333333333
+Bedford Park Blvd,President St,113.31833333333334
 Bedford Park Blvd,Woodlawn,7.538333333333333
-Bedford Park Blvd,Bleecker St,91.435
-Bedford Park Blvd,Cortelyou Rd,123.09166666666667
+Bedford Park Blvd,Bleecker St,91.43333333333334
+Bedford Park Blvd,Cortelyou Rd,123.08999999999999
 Bedford Park Blvd,Parkchester,32.64666666666667
-Bedford Park Blvd,Franklin St,99.58833333333334
-Mosholu Pkwy,Astor Pl,91.985
-Mosholu Pkwy,Canal St,99.33166666666666
-Mosholu Pkwy,Bergen St,110.16833333333334
+Bedford Park Blvd,Franklin St,99.58666666666666
+Mosholu Pkwy,Astor Pl,91.98333333333333
+Mosholu Pkwy,Canal St,99.33
+Mosholu Pkwy,Bergen St,110.16666666666667
 Mosholu Pkwy,Freeman St,29.793333333333333
-Mosholu Pkwy,Junction Blvd,100.3
-Mosholu Pkwy,Chauncey St,125.53166666666667
-Mosholu Pkwy,Union St,110.58333333333333
+Mosholu Pkwy,Junction Blvd,100.29833333333333
+Mosholu Pkwy,Chauncey St,125.53
+Mosholu Pkwy,Union St,110.58166666666666
 Mosholu Pkwy,Pelham Pkwy,19.92
 Mosholu Pkwy,Gun Hill Rd,21.146666666666665
 Mosholu Pkwy,Simpson St,33.434999999999995
 Mosholu Pkwy,Bronx Park East,20.116666666666667
-Mosholu Pkwy,Winthrop St,124.61833333333334
+Mosholu Pkwy,Winthrop St,124.61666666666666
 Mosholu Pkwy,Kingsbridge Rd,8.635
-Mosholu Pkwy,Prospect Park,122.78166666666667
-Mosholu Pkwy,Broadway,77.87166666666667
-Mosholu Pkwy,Lorimer St,105.39
-Mosholu Pkwy,Halsey St,116.14666666666668
+Mosholu Pkwy,Prospect Park,122.78
+Mosholu Pkwy,Broadway,77.86999999999999
+Mosholu Pkwy,Lorimer St,105.38833333333334
+Mosholu Pkwy,Halsey St,116.145
+Mosholu Pkwy,Park Pl,108.69166666666666
+Mosholu Pkwy,Middletown Rd,33.559999999999995
+Mosholu Pkwy,Court Sq,84.51833333333335
+Mosholu Pkwy,Houston St,98.17666666666668
+Mosholu Pkwy,Broad Channel,170.39
+Mosholu Pkwy,Ocean Pkwy,153.70666666666665
+Mosholu Pkwy,Rockaway Blvd,136.03
+Mosholu Pkwy,Beverly Rd,127.96499999999999
+Mosholu Pkwy,Grand Army Plaza,108.03666666666666
+Mosholu Pkwy,Fulton St,105.36833333333334
+Mosholu Pkwy,Borough Hall,108.75333333333333
+Mosholu Pkwy,Aqueduct Racetrack,146.165
+Mosholu Pkwy,Morris Park,20.158333333333335
+Mosholu Pkwy,Nevins St,106.895
+Mosholu Pkwy,Sterling St,119.49666666666667
+Mosholu Pkwy,Hewes St,105.32666666666667
+Mosholu Pkwy,Grand St,95.11833333333334
+Mosholu Pkwy,Parsons Blvd,139.74333333333334
+Mosholu Pkwy,Pelham Bay Park,39.43666666666666
+Mosholu Pkwy,Woodhaven Blvd,128.85666666666665
+Mosholu Pkwy,Cleveland St,132.01833333333335
+Mosholu Pkwy,Junius St,134.28166666666667
+Mosholu Pkwy,Broadway Junction,128.235
+Mosholu Pkwy,Crescent St,127.14666666666668
+Mosholu Pkwy,Cypress Hills,125.50833333333334
+Mosholu Pkwy,Northern Blvd,85.72333333333333
+Mosholu Pkwy,Sutphin Blvd,137.41
+Mosholu Pkwy,Astoria Blvd,77.85
+Mosholu Pkwy,Fordham Rd,11.558333333333334
+Mosholu Pkwy,Bedford Park Blvd,3.61
+Mosholu Pkwy,Botanic Garden,114.135
+Mosholu Pkwy,Dyckman St,25.331666666666667
+Mosholu Pkwy,Steinway St,83.87833333333333
+Mosholu Pkwy,Kosciuszko St,114.67
+Mosholu Pkwy,Jefferson St,112.77666666666667
+Mosholu Pkwy,Kings Hwy,139.61833333333334
+Mosholu Pkwy,Brighton Beach,155.89166666666668
+Mosholu Pkwy,Sheepshead Bay,155.38333333333333
+Mosholu Pkwy,Neck Rd,149.80166666666668
+Mosholu Pkwy,Chambers St,104.95
+Mosholu Pkwy,East Broadway,99.28666666666666
+Mosholu Pkwy,Court St,108.015
+Mosholu Pkwy,Carroll St,113.31833333333334
+Mosholu Pkwy,Spring St,96.15
+Mosholu Pkwy,Prince St,94.81166666666667
+Mosholu Pkwy,Hoyt St,105.33999999999999
+Mosholu Pkwy,City Hall,103.04333333333334
+Mosholu Pkwy,South Ferry,140.14666666666665
+Mosholu Pkwy,Bowling Green,113.1
+Mosholu Pkwy,Wall St,107.56
+Mosholu Pkwy,Whitehall St,105.25500000000001
+Mosholu Pkwy,Rector St,110.69833333333332
+Mosholu Pkwy,Fresh Pond Rd,115.015
+Mosholu Pkwy,Broad St,113.48666666666666
+Mosholu Pkwy,Bowery,95.33833333333334
+Mosholu Pkwy,Clark St,104.61
+Mosholu Pkwy,York St,101.90333333333334
+Mosholu Pkwy,High St,110.0
+Mosholu Pkwy,President St,116.19
+Mosholu Pkwy,Woodlawn,4.868333333333334
+Mosholu Pkwy,Bleecker St,94.305
+Mosholu Pkwy,Cortelyou Rd,125.96166666666666
+Mosholu Pkwy,Parkchester,33.12833333333334
+Mosholu Pkwy,Franklin St,102.45833333333333
+Botanic Garden,Astor Pl,44.805
+Botanic Garden,Canal St,44.82166666666667
+Botanic Garden,Bergen St,19.686666666666667
+Botanic Garden,Freeman St,90.47666666666667
+Botanic Garden,Junction Blvd,62.39333333333333
+Botanic Garden,Chauncey St,25.009999999999998
+Botanic Garden,Union St,14.813333333333333
+Botanic Garden,Pelham Pkwy,105.025
+Botanic Garden,Gun Hill Rd,112.96833333333333
+Botanic Garden,Simpson St,86.91666666666667
+Botanic Garden,Bronx Park East,97.92833333333333
+Botanic Garden,Winthrop St,14.316666666666666
+Botanic Garden,Kingsbridge Rd,105.91666666666667
+Botanic Garden,Prospect Park,14.415
+Botanic Garden,Broadway,57.04333333333333
+Botanic Garden,Lorimer St,23.413333333333334
+Botanic Garden,Halsey St,29.891666666666666
+Botanic Garden,Park Pl,48.71666666666667
+Botanic Garden,Middletown Rd,98.02833333333334
+Botanic Garden,Court Sq,47.20666666666667
+Botanic Garden,Houston St,47.431666666666665
+Botanic Garden,Broad Channel,77.13833333333334
+Botanic Garden,Ocean Pkwy,52.211666666666666
+Botanic Garden,Rockaway Blvd,47.63
+Botanic Garden,Beverly Rd,17.665000000000003
+Botanic Garden,Grand Army Plaza,8.926666666666668
+Botanic Garden,Fulton St,49.40833333333333
+Botanic Garden,Borough Hall,23.666666666666668
+Botanic Garden,Aqueduct Racetrack,54.111666666666665
+Botanic Garden,Morris Park,102.77666666666667
+Botanic Garden,Nevins St,16.948333333333334
+Botanic Garden,Sterling St,9.196666666666665
+Botanic Garden,Hewes St,23.834999999999997
+Botanic Garden,Grand St,39.98166666666667
+Botanic Garden,Parsons Blvd,70.06166666666667
+Botanic Garden,Pelham Bay Park,104.0
+Botanic Garden,Woodhaven Blvd,49.62166666666667
+Botanic Garden,Cleveland St,32.50833333333333
+Botanic Garden,Junius St,24.961666666666666
+Botanic Garden,Broadway Junction,26.366666666666667
+Botanic Garden,Crescent St,38.156666666666666
+Botanic Garden,Cypress Hills,41.85
+Botanic Garden,Northern Blvd,54.78666666666666
+Botanic Garden,Sutphin Blvd,68.75833333333334
+Botanic Garden,Astoria Blvd,61.47166666666667
+Botanic Garden,Fordham Rd,103.00833333333334
+Botanic Garden,Bedford Park Blvd,108.90333333333334
+Botanic Garden,Mosholu Pkwy,112.26166666666667
+Botanic Garden,Dyckman St,102.50833333333334
+Botanic Garden,Steinway St,54.41
+Botanic Garden,Kosciuszko St,23.381666666666668
+Botanic Garden,Jefferson St,31.12
+Botanic Garden,Kings Hwy,42.86666666666667
+Botanic Garden,Brighton Beach,51.526666666666664
+Botanic Garden,Sheepshead Bay,46.82833333333333
+Botanic Garden,Neck Rd,41.57166666666667
+Botanic Garden,Chambers St,49.915
+Botanic Garden,East Broadway,39.65333333333333
+Botanic Garden,Court St,23.6
+Botanic Garden,Carroll St,20.918333333333333
+Botanic Garden,Spring St,42.92333333333333
+Botanic Garden,Prince St,42.875
+Botanic Garden,Hoyt St,21.858333333333334
+Botanic Garden,City Hall,48.515
+Botanic Garden,South Ferry,93.91666666666667
+Botanic Garden,Bowling Green,45.535
+Botanic Garden,Wall St,50.583333333333336
+Botanic Garden,Whitehall St,43.138333333333335
+Botanic Garden,Rector St,50.86
+Botanic Garden,Fresh Pond Rd,37.906666666666666
+Botanic Garden,Broad St,53.64833333333333
+Botanic Garden,Bowery,42.11666666666667
+Botanic Garden,Clark St,26.64
+Botanic Garden,York St,24.663333333333334
+Botanic Garden,High St,29.751666666666665
+Botanic Garden,President St,5.693333333333333
+Botanic Garden,Woodlawn,115.92333333333333
+Botanic Garden,Bleecker St,43.385
+Botanic Garden,Cortelyou Rd,19.483333333333334
+Botanic Garden,Parkchester,89.19333333333334
+Botanic Garden,Franklin St,48.36666666666667
+Dyckman St,Astor Pl,75.85166666666667
+Dyckman St,Canal St,80.605
+Dyckman St,Bergen St,91.74499999999999
+Dyckman St,Freeman St,34.038333333333334
+Dyckman St,Junction Blvd,90.47833333333332
+Dyckman St,Chauncey St,115.71000000000001
+Dyckman St,Union St,100.76166666666667
+Dyckman St,Pelham Pkwy,40.44833333333334
+Dyckman St,Gun Hill Rd,41.675
+Dyckman St,Simpson St,37.515
+Dyckman St,Bronx Park East,36.58833333333334
+Dyckman St,Winthrop St,114.79666666666667
+Dyckman St,Kingsbridge Rd,16.41166666666667
+Dyckman St,Prospect Park,112.96000000000001
+Dyckman St,Broadway,68.05
+Dyckman St,Lorimer St,95.56833333333334
+Dyckman St,Halsey St,106.325
+Dyckman St,Park Pl,73.48833333333333
+Dyckman St,Middletown Rd,48.098333333333336
+Dyckman St,Court Sq,74.69833333333332
+Dyckman St,Houston St,76.07666666666667
+Dyckman St,Broad Channel,152.07833333333335
+Dyckman St,Ocean Pkwy,135.36
+Dyckman St,Rockaway Blvd,126.21000000000001
+Dyckman St,Beverly Rd,118.145
+Dyckman St,Grand Army Plaza,98.21666666666667
+Dyckman St,Fulton St,76.04333333333334
+Dyckman St,Borough Hall,93.065
+Dyckman St,Aqueduct Racetrack,136.345
+Dyckman St,Morris Park,40.68666666666666
+Dyckman St,Nevins St,97.075
+Dyckman St,Sterling St,109.67666666666668
+Dyckman St,Hewes St,95.50666666666666
+Dyckman St,Grand St,83.16833333333334
+Dyckman St,Parsons Blvd,129.92333333333332
+Dyckman St,Pelham Bay Park,54.07
+Dyckman St,Woodhaven Blvd,119.03666666666666
+Dyckman St,Cleveland St,122.19833333333332
+Dyckman St,Junius St,124.46166666666666
+Dyckman St,Broadway Junction,118.41499999999999
+Dyckman St,Crescent St,117.32666666666667
+Dyckman St,Cypress Hills,115.68833333333333
+Dyckman St,Northern Blvd,75.90333333333334
+Dyckman St,Sutphin Blvd,127.58999999999999
+Dyckman St,Astoria Blvd,68.03
+Dyckman St,Fordham Rd,12.91
+Dyckman St,Bedford Park Blvd,22.371666666666666
+Dyckman St,Mosholu Pkwy,27.221666666666668
+Dyckman St,Botanic Garden,104.315
+Dyckman St,Steinway St,74.05833333333334
+Dyckman St,Kosciuszko St,104.85
+Dyckman St,Jefferson St,102.95666666666666
+Dyckman St,Kings Hwy,121.27166666666668
+Dyckman St,Brighton Beach,137.54500000000002
+Dyckman St,Sheepshead Bay,137.0366666666667
+Dyckman St,Neck Rd,131.455
+Dyckman St,Chambers St,80.565
+Dyckman St,East Broadway,83.83500000000001
+Dyckman St,Court St,89.33999999999999
+Dyckman St,Carroll St,94.89666666666668
+Dyckman St,Spring St,81.69333333333334
+Dyckman St,Prince St,80.83333333333333
+Dyckman St,Hoyt St,95.52
+Dyckman St,City Hall,74.86333333333333
+Dyckman St,South Ferry,117.17833333333333
+Dyckman St,Bowling Green,76.95333333333333
+Dyckman St,Wall St,78.84333333333333
+Dyckman St,Whitehall St,78.35166666666667
+Dyckman St,Rector St,74.55166666666668
+Dyckman St,Fresh Pond Rd,105.195
+Dyckman St,Broad St,77.33999999999999
+Dyckman St,Bowery,82.065
+Dyckman St,Clark St,85.935
+Dyckman St,York St,87.47666666666667
+Dyckman St,High St,91.325
+Dyckman St,President St,106.36999999999999
+Dyckman St,Woodlawn,28.485
+Dyckman St,Bleecker St,78.17333333333333
+Dyckman St,Cortelyou Rd,116.14166666666667
+Dyckman St,Parkchester,41.638333333333335
+Dyckman St,Franklin St,75.90333333333334
+Steinway St,Astor Pl,47.416666666666664
+Steinway St,Canal St,51.519999999999996
+Steinway St,Bergen St,56.53666666666666
+Steinway St,Freeman St,59.55833333333333
+Steinway St,Junction Blvd,22.901666666666664
+Steinway St,Chauncey St,47.248333333333335
+Steinway St,Union St,55.74666666666667
+Steinway St,Pelham Pkwy,74.15
+Steinway St,Gun Hill Rd,82.09333333333333
+Steinway St,Simpson St,55.998333333333335
+Steinway St,Bronx Park East,67.05333333333333
+Steinway St,Winthrop St,60.81666666666667
+Steinway St,Kingsbridge Rd,74.99833333333332
+Steinway St,Prospect Park,63.45
+Steinway St,Broadway,5.953333333333333
+Steinway St,Lorimer St,33.21
+Steinway St,Halsey St,36.891666666666666
+Steinway St,Park Pl,55.415
+Steinway St,Middletown Rd,67.15333333333334
+Steinway St,Court Sq,14.651666666666667
+Steinway St,Houston St,53.025
+Steinway St,Broad Channel,98.41833333333334
+Steinway St,Ocean Pkwy,101.35
+Steinway St,Rockaway Blvd,58.63333333333333
+Steinway St,Beverly Rd,64.44
+Steinway St,Grand Army Plaza,52.57333333333334
+Steinway St,Fulton St,56.10666666666667
+Steinway St,Borough Hall,56.169999999999995
+Steinway St,Aqueduct Racetrack,68.76833333333335
+Steinway St,Morris Park,71.90166666666667
+Steinway St,Nevins St,52.059999999999995
+Steinway St,Sterling St,56.05833333333333
+Steinway St,Hewes St,33.225
+Steinway St,Grand St,46.68
+Steinway St,Parsons Blvd,62.34666666666667
+Steinway St,Pelham Bay Park,73.125
+Steinway St,Woodhaven Blvd,51.46
+Steinway St,Cleveland St,53.15333333333333
+Steinway St,Junius St,60.6
+Steinway St,Broadway Junction,51.46666666666667
+Steinway St,Crescent St,48.281666666666666
+Steinway St,Cypress Hills,46.64333333333333
+Steinway St,Northern Blvd,8.236666666666666
+Steinway St,Sutphin Blvd,60.013333333333335
+Steinway St,Astoria Blvd,10.898333333333333
+Steinway St,Fordham Rd,72.08999999999999
+Steinway St,Bedford Park Blvd,77.985
+Steinway St,Mosholu Pkwy,81.34333333333333
+Steinway St,Botanic Garden,55.723333333333336
+Steinway St,Dyckman St,71.58999999999999
+Steinway St,Kosciuszko St,39.66833333333333
+Steinway St,Jefferson St,32.221666666666664
+Steinway St,Kings Hwy,89.85
+Steinway St,Brighton Beach,100.66499999999999
+Steinway St,Sheepshead Bay,95.96666666666667
+Steinway St,Neck Rd,90.71000000000001
+Steinway St,Chambers St,56.61333333333334
+Steinway St,East Broadway,46.35166666666667
+Steinway St,Court St,52.39333333333333
+Steinway St,Carroll St,59.38
+Steinway St,Spring St,49.62166666666667
+Steinway St,Prince St,49.57333333333334
+Steinway St,Hoyt St,50.68833333333334
+Steinway St,City Hall,55.21333333333334
+Steinway St,South Ferry,106.21666666666667
+Steinway St,Bowling Green,59.873333333333335
+Steinway St,Wall St,57.281666666666666
+Steinway St,Whitehall St,58.64333333333333
+Steinway St,Rector St,59.03333333333333
+Steinway St,Fresh Pond Rd,34.961666666666666
+Steinway St,Broad St,61.39666666666667
+Steinway St,Bowery,48.815000000000005
+Steinway St,Clark St,53.535
+Steinway St,York St,47.251666666666665
+Steinway St,High St,55.025
+Steinway St,President St,53.89333333333333
+Steinway St,Woodlawn,85.00500000000001
+Steinway St,Bleecker St,50.083333333333336
+Steinway St,Cortelyou Rd,68.62166666666667
+Steinway St,Parkchester,58.318333333333335
+Steinway St,Franklin St,55.065000000000005
+Kosciuszko St,Astor Pl,36.78333333333333
+Kosciuszko St,Canal St,36.8
+Kosciuszko St,Bergen St,26.186666666666667
+Kosciuszko St,Freeman St,90.12833333333333
+Kosciuszko St,Junction Blvd,39.461666666666666
+Kosciuszko St,Chauncey St,11.383333333333333
+Kosciuszko St,Union St,25.396666666666665
+Kosciuszko St,Pelham Pkwy,104.67666666666668
+Kosciuszko St,Gun Hill Rd,112.61999999999999
+Kosciuszko St,Simpson St,86.56833333333334
+Kosciuszko St,Bronx Park East,97.58
+Kosciuszko St,Winthrop St,27.71333333333333
+Kosciuszko St,Kingsbridge Rd,105.56833333333334
+Kosciuszko St,Prospect Park,32.60166666666667
+Kosciuszko St,Broadway,41.42666666666666
+Kosciuszko St,Lorimer St,11.653333333333334
+Kosciuszko St,Halsey St,13.17
+Kosciuszko St,Park Pl,40.695
+Kosciuszko St,Middletown Rd,97.68
+Kosciuszko St,Court Sq,36.89
+Kosciuszko St,Houston St,39.41
+Kosciuszko St,Broad Channel,73.545
+Kosciuszko St,Ocean Pkwy,68.14
+Kosciuszko St,Rockaway Blvd,43.26166666666666
+Kosciuszko St,Beverly Rd,31.336666666666666
+Kosciuszko St,Grand Army Plaza,22.03666666666667
+Kosciuszko St,Fulton St,41.38666666666666
+Kosciuszko St,Borough Hall,25.82
+Kosciuszko St,Aqueduct Racetrack,49.58166666666667
+Kosciuszko St,Morris Park,102.42833333333333
+Kosciuszko St,Nevins St,21.709999999999997
+Kosciuszko St,Sterling St,22.955
+Kosciuszko St,Hewes St,14.51
+Kosciuszko St,Grand St,31.959999999999997
+Kosciuszko St,Parsons Blvd,59.99
+Kosciuszko St,Pelham Bay Park,103.65166666666667
+Kosciuszko St,Woodhaven Blvd,33.515
+Kosciuszko St,Cleveland St,26.363333333333333
+Kosciuszko St,Junius St,22.82
+Kosciuszko St,Broadway Junction,16.08833333333333
+Kosciuszko St,Crescent St,27.376666666666665
+Kosciuszko St,Cypress Hills,25.738333333333333
+Kosciuszko St,Northern Blvd,39.55333333333333
+Kosciuszko St,Sutphin Blvd,54.4
+Kosciuszko St,Astoria Blvd,46.23833333333334
+Kosciuszko St,Fordham Rd,102.66000000000001
+Kosciuszko St,Bedford Park Blvd,108.555
+Kosciuszko St,Mosholu Pkwy,111.91333333333334
+Kosciuszko St,Botanic Garden,24.875
+Kosciuszko St,Dyckman St,102.16000000000001
+Kosciuszko St,Steinway St,39.17666666666666
+Kosciuszko St,Jefferson St,8.646666666666667
+Kosciuszko St,Kings Hwy,60.684999999999995
+Kosciuszko St,Brighton Beach,66.91166666666666
+Kosciuszko St,Sheepshead Bay,60.74333333333333
+Kosciuszko St,Neck Rd,55.43833333333334
+Kosciuszko St,Chambers St,41.89333333333333
+Kosciuszko St,East Broadway,31.631666666666668
+Kosciuszko St,Court St,25.753333333333334
+Kosciuszko St,Carroll St,29.029999999999998
+Kosciuszko St,Spring St,34.901666666666664
+Kosciuszko St,Prince St,34.85333333333333
+Kosciuszko St,Hoyt St,22.573333333333334
+Kosciuszko St,City Hall,40.49333333333333
+Kosciuszko St,South Ferry,93.56833333333334
+Kosciuszko St,Bowling Green,45.15333333333333
+Kosciuszko St,Wall St,42.56166666666666
+Kosciuszko St,Whitehall St,43.92333333333333
+Kosciuszko St,Rector St,44.31333333333334
+Kosciuszko St,Fresh Pond Rd,18.861666666666668
+Kosciuszko St,Broad St,46.67666666666666
+Kosciuszko St,Bowery,34.095
+Kosciuszko St,Clark St,27.503333333333334
+Kosciuszko St,York St,25.936666666666667
+Kosciuszko St,High St,31.076666666666664
+Kosciuszko St,President St,20.790000000000003
+Kosciuszko St,Woodlawn,115.575
+Kosciuszko St,Bleecker St,35.36333333333334
+Kosciuszko St,Cortelyou Rd,37.505
+Kosciuszko St,Parkchester,88.845
+Kosciuszko St,Franklin St,40.345
+Jefferson St,Astor Pl,34.94666666666667
+Jefferson St,Canal St,34.96333333333334
+Jefferson St,Bergen St,33.03
+Jefferson St,Freeman St,88.01
+Jefferson St,Junction Blvd,35.42333333333333
+Jefferson St,Chauncey St,16.511666666666667
+Jefferson St,Union St,32.24
+Jefferson St,Pelham Pkwy,102.55833333333334
+Jefferson St,Gun Hill Rd,110.50166666666668
+Jefferson St,Simpson St,84.45
+Jefferson St,Bronx Park East,95.46166666666666
+Jefferson St,Winthrop St,34.66833333333333
+Jefferson St,Kingsbridge Rd,103.45
+Jefferson St,Prospect Park,39.69666666666667
+Jefferson St,Broadway,34.43
+Jefferson St,Lorimer St,10.796666666666665
+Jefferson St,Halsey St,9.391666666666667
+Jefferson St,Park Pl,38.858333333333334
+Jefferson St,Middletown Rd,95.56166666666667
+Jefferson St,Court Sq,32.32666666666667
+Jefferson St,Houston St,37.57333333333334
+Jefferson St,Broad Channel,75.125
+Jefferson St,Ocean Pkwy,77.06666666666666
+Jefferson St,Rockaway Blvd,40.25833333333333
+Jefferson St,Beverly Rd,38.291666666666664
+Jefferson St,Grand Army Plaza,29.163333333333334
+Jefferson St,Fulton St,39.55
+Jefferson St,Borough Hall,32.663333333333334
+Jefferson St,Aqueduct Racetrack,48.416666666666664
+Jefferson St,Morris Park,100.31
+Jefferson St,Nevins St,28.553333333333335
+Jefferson St,Sterling St,29.91
+Jefferson St,Hewes St,13.485000000000001
+Jefferson St,Grand St,30.123333333333335
+Jefferson St,Parsons Blvd,55.95166666666667
+Jefferson St,Pelham Bay Park,101.53333333333333
+Jefferson St,Woodhaven Blvd,31.60666666666667
+Jefferson St,Cleveland St,25.845000000000002
+Jefferson St,Junius St,29.89
+Jefferson St,Broadway Junction,20.8
+Jefferson St,Crescent St,25.46833333333333
+Jefferson St,Cypress Hills,23.83
+Jefferson St,Northern Blvd,30.69333333333333
+Jefferson St,Sutphin Blvd,50.361666666666665
+Jefferson St,Astoria Blvd,39.37
+Jefferson St,Fordham Rd,100.54166666666667
+Jefferson St,Bedford Park Blvd,106.43666666666667
+Jefferson St,Mosholu Pkwy,109.795
+Jefferson St,Botanic Garden,31.970000000000002
+Jefferson St,Dyckman St,100.04166666666667
+Jefferson St,Steinway St,32.18
+Jefferson St,Kosciuszko St,8.965
+Jefferson St,Kings Hwy,67.72166666666666
+Jefferson St,Brighton Beach,76.39166666666667
+Jefferson St,Sheepshead Bay,69.83833333333334
+Jefferson St,Neck Rd,64.53333333333333
+Jefferson St,Chambers St,40.056666666666665
+Jefferson St,East Broadway,29.795
+Jefferson St,Court St,32.596666666666664
+Jefferson St,Carroll St,35.873333333333335
+Jefferson St,Spring St,33.065000000000005
+Jefferson St,Prince St,33.016666666666666
+Jefferson St,Hoyt St,29.416666666666668
+Jefferson St,City Hall,38.656666666666666
+Jefferson St,South Ferry,95.91333333333334
+Jefferson St,Bowling Green,43.31666666666667
+Jefferson St,Wall St,40.725
+Jefferson St,Whitehall St,42.086666666666666
+Jefferson St,Rector St,42.47666666666667
+Jefferson St,Fresh Pond Rd,14.823333333333332
+Jefferson St,Broad St,44.84
+Jefferson St,Bowery,32.25833333333333
+Jefferson St,Clark St,34.445
+Jefferson St,York St,28.16166666666667
+Jefferson St,High St,35.934999999999995
+Jefferson St,President St,27.745
+Jefferson St,Woodlawn,113.45666666666666
+Jefferson St,Bleecker St,33.526666666666664
+Jefferson St,Cortelyou Rd,44.46
+Jefferson St,Parkchester,86.72666666666667
+Jefferson St,Franklin St,38.50833333333333
+Kings Hwy,Astor Pl,68.88166666666666
+Kings Hwy,Canal St,70.53
+Kings Hwy,Bergen St,48.89833333333333
+Kings Hwy,Freeman St,114.955
+Kings Hwy,Junction Blvd,97.36333333333333
+Kings Hwy,Chauncey St,59.10333333333333
+Kings Hwy,Union St,43.095
+Kings Hwy,Pelham Pkwy,129.50333333333333
+Kings Hwy,Gun Hill Rd,137.44666666666666
+Kings Hwy,Simpson St,111.395
+Kings Hwy,Bronx Park East,122.40666666666667
+Kings Hwy,Winthrop St,36.086666666666666
+Kings Hwy,Kingsbridge Rd,130.395
+Kings Hwy,Prospect Park,42.00333333333333
+Kings Hwy,Broadway,87.625
+Kings Hwy,Lorimer St,58.38333333333333
+Kings Hwy,Halsey St,64.86166666666666
+Kings Hwy,Park Pl,63.413333333333334
+Kings Hwy,Middletown Rd,122.50666666666666
+Kings Hwy,Court Sq,77.14166666666667
+Kings Hwy,Houston St,69.66833333333334
+Kings Hwy,Broad Channel,93.53833333333334
+Kings Hwy,Ocean Pkwy,18.878333333333334
+Kings Hwy,Rockaway Blvd,72.66000000000001
+Kings Hwy,Beverly Rd,28.66
+Kings Hwy,Grand Army Plaza,40.690000000000005
+Kings Hwy,Fulton St,65.96833333333333
+Kings Hwy,Borough Hall,54.47
+Kings Hwy,Aqueduct Racetrack,77.36333333333333
+Kings Hwy,Morris Park,127.25500000000001
+Kings Hwy,Nevins St,48.88333333333333
+Kings Hwy,Sterling St,37.68666666666666
+Kings Hwy,Hewes St,58.805
+Kings Hwy,Grand St,72.51666666666667
+Kings Hwy,Parsons Blvd,95.09166666666667
+Kings Hwy,Pelham Bay Park,128.47833333333332
+Kings Hwy,Woodhaven Blvd,75.93666666666667
+Kings Hwy,Cleveland St,62.611666666666665
+Kings Hwy,Junius St,51.00333333333333
+Kings Hwy,Broadway Junction,58.766666666666666
+Kings Hwy,Crescent St,66.575
+Kings Hwy,Cypress Hills,70.26833333333335
+Kings Hwy,Northern Blvd,89.75666666666666
+Kings Hwy,Sutphin Blvd,93.78833333333334
+Kings Hwy,Astoria Blvd,87.605
+Kings Hwy,Fordham Rd,127.48666666666666
+Kings Hwy,Bedford Park Blvd,133.38166666666666
+Kings Hwy,Mosholu Pkwy,136.73999999999998
+Kings Hwy,Botanic Garden,40.405
+Kings Hwy,Dyckman St,121.81166666666667
+Kings Hwy,Steinway St,89.38000000000001
+Kings Hwy,Kosciuszko St,58.35166666666667
+Kings Hwy,Jefferson St,66.09
+Kings Hwy,Brighton Beach,21.063333333333333
+Kings Hwy,Sheepshead Bay,20.493333333333332
+Kings Hwy,Neck Rd,15.035
+Kings Hwy,Chambers St,70.49
+Kings Hwy,East Broadway,68.88333333333334
+Kings Hwy,Court St,54.333333333333336
+Kings Hwy,Carroll St,45.434999999999995
+Kings Hwy,Spring St,71.78166666666667
+Kings Hwy,Prince St,73.56166666666667
+Kings Hwy,Hoyt St,53.105000000000004
+Kings Hwy,City Hall,64.78833333333334
+Kings Hwy,South Ferry,107.53333333333333
+Kings Hwy,Bowling Green,58.855000000000004
+Kings Hwy,Wall St,59.03333333333333
+Kings Hwy,Whitehall St,56.458333333333336
+Kings Hwy,Rector St,64.47666666666666
+Kings Hwy,Fresh Pond Rd,72.87666666666668
+Kings Hwy,Broad St,67.265
+Kings Hwy,Bowery,73.49666666666667
+Kings Hwy,Clark St,55.66833333333333
+Kings Hwy,York St,55.46666666666667
+Kings Hwy,High St,60.555
+Kings Hwy,President St,40.80833333333333
+Kings Hwy,Woodlawn,140.40166666666667
+Kings Hwy,Bleecker St,71.20333333333333
+Kings Hwy,Cortelyou Rd,23.448333333333334
+Kings Hwy,Parkchester,113.67166666666667
+Kings Hwy,Franklin St,65.82833333333333
+Brighton Beach,Astor Pl,86.42666666666668
+Brighton Beach,Canal St,88.075
+Brighton Beach,Bergen St,60.60666666666667
+Brighton Beach,Freeman St,132.5
+Brighton Beach,Junction Blvd,105.75333333333333
+Brighton Beach,Chauncey St,65.53333333333333
+Brighton Beach,Union St,54.63333333333333
+Brighton Beach,Pelham Pkwy,147.04833333333332
+Brighton Beach,Gun Hill Rd,154.99166666666667
+Brighton Beach,Simpson St,128.94
+Brighton Beach,Bronx Park East,139.95166666666668
+Brighton Beach,Winthrop St,47.47833333333333
+Brighton Beach,Kingsbridge Rd,147.94
+Brighton Beach,Prospect Park,53.394999999999996
+Brighton Beach,Broadway,103.405
+Brighton Beach,Lorimer St,69.775
+Brighton Beach,Halsey St,72.31833333333334
+Brighton Beach,Park Pl,80.95833333333333
+Brighton Beach,Middletown Rd,140.05166666666668
+Brighton Beach,Court Sq,94.68666666666667
+Brighton Beach,Houston St,87.21333333333334
+Brighton Beach,Broad Channel,96.42833333333333
+Brighton Beach,Ocean Pkwy,4.506666666666666
+Brighton Beach,Rockaway Blvd,81.51666666666667
+Brighton Beach,Beverly Rd,40.05166666666666
+Brighton Beach,Grand Army Plaza,52.08166666666667
+Brighton Beach,Fulton St,83.51333333333334
+Brighton Beach,Borough Hall,66.17833333333333
+Brighton Beach,Aqueduct Racetrack,84.34833333333333
+Brighton Beach,Morris Park,144.8
+Brighton Beach,Nevins St,61.27333333333333
+Brighton Beach,Sterling St,49.07833333333333
+Brighton Beach,Hewes St,70.19666666666667
+Brighton Beach,Grand St,85.595
+Brighton Beach,Parsons Blvd,103.94833333333332
+Brighton Beach,Pelham Bay Park,146.02333333333334
+Brighton Beach,Woodhaven Blvd,84.79333333333334
+Brighton Beach,Cleveland St,69.42833333333333
+Brighton Beach,Junius St,56.65333333333333
+Brighton Beach,Broadway Junction,65.19666666666667
+Brighton Beach,Crescent St,73.30166666666668
+Brighton Beach,Cypress Hills,76.99499999999999
+Brighton Beach,Northern Blvd,101.14833333333333
+Brighton Beach,Sutphin Blvd,102.645
+Brighton Beach,Astoria Blvd,105.15
+Brighton Beach,Fordham Rd,145.03166666666667
+Brighton Beach,Bedford Park Blvd,150.92666666666668
+Brighton Beach,Mosholu Pkwy,154.285
+Brighton Beach,Botanic Garden,51.79666666666667
+Brighton Beach,Dyckman St,139.35666666666665
+Brighton Beach,Steinway St,100.77166666666668
+Brighton Beach,Kosciuszko St,69.74333333333334
+Brighton Beach,Jefferson St,77.48166666666665
+Brighton Beach,Kings Hwy,19.863333333333333
+Brighton Beach,Sheepshead Bay,9.873333333333333
+Brighton Beach,Neck Rd,12.985000000000001
+Brighton Beach,Chambers St,88.03500000000001
+Brighton Beach,East Broadway,85.26666666666667
+Brighton Beach,Court St,66.04166666666667
+Brighton Beach,Carroll St,57.14333333333333
+Brighton Beach,Spring St,89.32666666666667
+Brighton Beach,Prince St,88.48833333333333
+Brighton Beach,Hoyt St,66.18333333333334
+Brighton Beach,City Hall,82.33333333333333
+Brighton Beach,South Ferry,125.07833333333333
+Brighton Beach,Bowling Green,76.4
+Brighton Beach,Wall St,76.57833333333333
+Brighton Beach,Whitehall St,74.00333333333333
+Brighton Beach,Rector St,82.02166666666668
+Brighton Beach,Fresh Pond Rd,79.68
+Brighton Beach,Broad St,84.81
+Brighton Beach,Bowery,87.73
+Brighton Beach,Clark St,68.23833333333333
+Brighton Beach,York St,67.175
+Brighton Beach,High St,72.26333333333334
+Brighton Beach,President St,52.2
+Brighton Beach,Woodlawn,157.94666666666666
+Brighton Beach,Bleecker St,88.99833333333332
+Brighton Beach,Cortelyou Rd,34.84
+Brighton Beach,Parkchester,131.21666666666667
+Brighton Beach,Franklin St,83.37333333333332
+Sheepshead Bay,Astor Pl,84.875
+Sheepshead Bay,Canal St,86.52333333333333
+Sheepshead Bay,Bergen St,58.190000000000005
+Sheepshead Bay,Freeman St,129.58
+Sheepshead Bay,Junction Blvd,99.24833333333332
+Sheepshead Bay,Chauncey St,59.02833333333333
+Sheepshead Bay,Union St,51.068333333333335
+Sheepshead Bay,Pelham Pkwy,144.12833333333336
+Sheepshead Bay,Gun Hill Rd,152.07166666666666
+Sheepshead Bay,Simpson St,126.02
+Sheepshead Bay,Bronx Park East,137.03166666666667
+Sheepshead Bay,Winthrop St,42.07333333333334
+Sheepshead Bay,Kingsbridge Rd,145.02
+Sheepshead Bay,Prospect Park,48.08166666666667
+Sheepshead Bay,Broadway,97.555
+Sheepshead Bay,Lorimer St,62.54833333333333
+Sheepshead Bay,Halsey St,65.81333333333333
+Sheepshead Bay,Park Pl,79.40666666666667
+Sheepshead Bay,Middletown Rd,137.13166666666666
+Sheepshead Bay,Court Sq,87.64
+Sheepshead Bay,Houston St,85.66166666666666
+Sheepshead Bay,Broad Channel,92.54333333333334
+Sheepshead Bay,Ocean Pkwy,11.913333333333332
+Sheepshead Bay,Rockaway Blvd,75.01166666666667
+Sheepshead Bay,Beverly Rd,34.21666666666667
+Sheepshead Bay,Grand Army Plaza,46.76833333333333
+Sheepshead Bay,Fulton St,81.96166666666666
+Sheepshead Bay,Borough Hall,62.74166666666667
+Sheepshead Bay,Aqueduct Racetrack,80.46333333333334
+Sheepshead Bay,Morris Park,141.88
+Sheepshead Bay,Nevins St,55.96
+Sheepshead Bay,Sterling St,43.67333333333333
+Sheepshead Bay,Hewes St,64.79166666666667
+Sheepshead Bay,Grand St,80.28166666666667
+Sheepshead Bay,Parsons Blvd,97.44333333333334
+Sheepshead Bay,Pelham Bay Park,143.10333333333335
+Sheepshead Bay,Woodhaven Blvd,78.28833333333334
+Sheepshead Bay,Cleveland St,62.92333333333333
+Sheepshead Bay,Junius St,50.14833333333333
+Sheepshead Bay,Broadway Junction,58.69166666666667
+Sheepshead Bay,Crescent St,66.79666666666667
+Sheepshead Bay,Cypress Hills,70.49
+Sheepshead Bay,Northern Blvd,95.29833333333333
+Sheepshead Bay,Sutphin Blvd,96.14
+Sheepshead Bay,Astoria Blvd,101.98333333333333
+Sheepshead Bay,Fordham Rd,142.11166666666668
+Sheepshead Bay,Bedford Park Blvd,148.00666666666666
+Sheepshead Bay,Mosholu Pkwy,151.36499999999998
+Sheepshead Bay,Botanic Garden,48.86833333333333
+Sheepshead Bay,Dyckman St,141.61166666666668
+Sheepshead Bay,Steinway St,94.92166666666667
+Sheepshead Bay,Kosciuszko St,62.641666666666666
+Sheepshead Bay,Jefferson St,70.46333333333334
+Sheepshead Bay,Kings Hwy,18.673333333333336
+Sheepshead Bay,Brighton Beach,9.041666666666666
+Sheepshead Bay,Neck Rd,7.001666666666667
+Sheepshead Bay,Chambers St,86.48333333333333
+Sheepshead Bay,East Broadway,79.95333333333333
+Sheepshead Bay,Court St,62.675
+Sheepshead Bay,Carroll St,55.09166666666667
+Sheepshead Bay,Spring St,83.22333333333333
+Sheepshead Bay,Prince St,83.175
+Sheepshead Bay,Hoyt St,60.87
+Sheepshead Bay,City Hall,80.78166666666667
+Sheepshead Bay,South Ferry,123.52666666666667
+Sheepshead Bay,Bowling Green,74.84833333333333
+Sheepshead Bay,Wall St,75.02666666666667
+Sheepshead Bay,Whitehall St,72.45166666666667
+Sheepshead Bay,Rector St,80.47
+Sheepshead Bay,Fresh Pond Rd,73.175
+Sheepshead Bay,Broad St,83.25833333333334
+Sheepshead Bay,Bowery,82.41666666666667
+Sheepshead Bay,Clark St,65.715
+Sheepshead Bay,York St,63.73833333333334
+Sheepshead Bay,High St,68.82666666666667
+Sheepshead Bay,President St,45.22666666666667
+Sheepshead Bay,Woodlawn,155.02666666666667
+Sheepshead Bay,Bleecker St,83.685
+Sheepshead Bay,Cortelyou Rd,29.558333333333334
+Sheepshead Bay,Parkchester,128.29666666666668
+Sheepshead Bay,Franklin St,81.82166666666667
+Neck Rd,Astor Pl,79.78500000000001
+Neck Rd,Canal St,79.80166666666668
+Neck Rd,Bergen St,52.87
+Neck Rd,Freeman St,124.26
+Neck Rd,Junction Blvd,93.80833333333334
+Neck Rd,Chauncey St,53.58833333333334
+Neck Rd,Union St,45.748333333333335
+Neck Rd,Pelham Pkwy,138.80833333333334
+Neck Rd,Gun Hill Rd,146.75166666666667
+Neck Rd,Simpson St,120.7
+Neck Rd,Bronx Park East,131.71166666666667
+Neck Rd,Winthrop St,36.641666666666666
+Neck Rd,Kingsbridge Rd,139.7
+Neck Rd,Prospect Park,42.76166666666666
+Neck Rd,Broadway,92.12333333333332
+Neck Rd,Lorimer St,57.11666666666667
+Neck Rd,Halsey St,60.373333333333335
+Neck Rd,Park Pl,75.80666666666666
+Neck Rd,Middletown Rd,131.81166666666667
+Neck Rd,Court Sq,82.20833333333333
+Neck Rd,Houston St,82.06166666666667
+Neck Rd,Broad Channel,92.43166666666666
+Neck Rd,Ocean Pkwy,13.388333333333332
+Neck Rd,Rockaway Blvd,69.57166666666667
+Neck Rd,Beverly Rd,28.785
+Neck Rd,Grand Army Plaza,41.44833333333334
+Neck Rd,Fulton St,78.36166666666666
+Neck Rd,Borough Hall,57.42166666666667
+Neck Rd,Aqueduct Racetrack,74.275
+Neck Rd,Morris Park,136.56
+Neck Rd,Nevins St,50.64
+Neck Rd,Sterling St,38.24166666666667
+Neck Rd,Hewes St,59.36
+Neck Rd,Grand St,74.96166666666666
+Neck Rd,Parsons Blvd,92.00333333333333
+Neck Rd,Pelham Bay Park,137.78333333333333
+Neck Rd,Woodhaven Blvd,72.84833333333333
+Neck Rd,Cleveland St,57.483333333333334
+Neck Rd,Junius St,44.708333333333336
+Neck Rd,Broadway Junction,53.251666666666665
+Neck Rd,Crescent St,61.35666666666667
+Neck Rd,Cypress Hills,65.05
+Neck Rd,Northern Blvd,89.86666666666666
+Neck Rd,Sutphin Blvd,90.7
+Neck Rd,Astoria Blvd,96.55166666666668
+Neck Rd,Fordham Rd,136.79166666666666
+Neck Rd,Bedford Park Blvd,142.68666666666667
+Neck Rd,Mosholu Pkwy,146.04500000000002
+Neck Rd,Botanic Garden,43.43666666666666
+Neck Rd,Dyckman St,136.29166666666666
+Neck Rd,Steinway St,89.49
+Neck Rd,Kosciuszko St,57.21
+Neck Rd,Jefferson St,65.03166666666667
+Neck Rd,Kings Hwy,15.165
+Neck Rd,Brighton Beach,11.716666666666667
+Neck Rd,Sheepshead Bay,6.458333333333333
+Neck Rd,Chambers St,82.88333333333334
+Neck Rd,East Broadway,74.63333333333334
+Neck Rd,Court St,57.355000000000004
+Neck Rd,Carroll St,51.85333333333333
+Neck Rd,Spring St,77.90333333333334
+Neck Rd,Prince St,77.855
+Neck Rd,Hoyt St,55.55
+Neck Rd,City Hall,77.18166666666666
+Neck Rd,South Ferry,119.92666666666668
+Neck Rd,Bowling Green,71.24833333333332
+Neck Rd,Wall St,71.42666666666668
+Neck Rd,Whitehall St,68.85166666666667
+Neck Rd,Rector St,76.86999999999999
+Neck Rd,Fresh Pond Rd,67.735
+Neck Rd,Broad St,79.65833333333333
+Neck Rd,Bowery,77.09666666666666
+Neck Rd,Clark St,60.394999999999996
+Neck Rd,York St,58.41833333333333
+Neck Rd,High St,63.50666666666667
+Neck Rd,President St,39.794999999999995
+Neck Rd,Woodlawn,149.70666666666665
+Neck Rd,Bleecker St,78.365
+Neck Rd,Cortelyou Rd,26.045
+Neck Rd,Parkchester,122.97666666666667
+Neck Rd,Franklin St,78.22166666666666
+Chambers St,Astor Pl,12.591666666666667
+Chambers St,Canal St,8.321666666666667
+Chambers St,Bergen St,37.91
+Chambers St,Freeman St,84.24333333333334
+Chambers St,Junction Blvd,67.45333333333333
+Chambers St,Chauncey St,51.45666666666667
+Chambers St,Union St,45.74166666666667
+Chambers St,Pelham Pkwy,98.79166666666667
+Chambers St,Gun Hill Rd,106.735
+Chambers St,Simpson St,80.68333333333334
+Chambers St,Bronx Park East,91.695
+Chambers St,Winthrop St,56.93333333333333
+Chambers St,Kingsbridge Rd,97.055
+Chambers St,Prospect Park,56.92833333333333
+Chambers St,Broadway,56.66
+Chambers St,Lorimer St,30.05
+Chambers St,Halsey St,47.79333333333333
+Chambers St,Park Pl,9.651666666666667
+Chambers St,Middletown Rd,91.795
+Chambers St,Court Sq,46.25
+Chambers St,Houston St,14.541666666666666
+Chambers St,Broad Channel,98.17333333333333
+Chambers St,Ocean Pkwy,81.47833333333332
+Chambers St,Rockaway Blvd,77.51
+Chambers St,Beverly Rd,60.281666666666666
+Chambers St,Grand Army Plaza,42.568333333333335
+Chambers St,Fulton St,9.941666666666666
+Chambers St,Borough Hall,39.394999999999996
+Chambers St,Aqueduct Racetrack,85.66833333333334
+Chambers St,Morris Park,96.54333333333334
+Chambers St,Nevins St,42.055
+Chambers St,Sterling St,51.81333333333334
+Chambers St,Hewes St,27.395
+Chambers St,Grand St,9.136666666666667
+Chambers St,Parsons Blvd,89.545
+Chambers St,Pelham Bay Park,97.76666666666667
+Chambers St,Woodhaven Blvd,68.85833333333333
+Chambers St,Cleveland St,64.145
+Chambers St,Junius St,64.14
+Chambers St,Broadway Junction,55.675
+Chambers St,Crescent St,62.72
+Chambers St,Cypress Hills,61.08166666666667
+Chambers St,Northern Blvd,55.33166666666667
+Chambers St,Sutphin Blvd,83.955
+Chambers St,Astoria Blvd,56.89333333333333
+Chambers St,Fordham Rd,94.14666666666668
+Chambers St,Bedford Park Blvd,100.04166666666667
+Chambers St,Mosholu Pkwy,103.4
+Chambers St,Botanic Garden,49.20166666666667
+Chambers St,Dyckman St,81.705
+Chambers St,Steinway St,54.81166666666666
+Chambers St,Kosciuszko St,41.595
+Chambers St,Jefferson St,38.70333333333333
+Chambers St,Kings Hwy,67.39
+Chambers St,Brighton Beach,83.66333333333334
+Chambers St,Sheepshead Bay,83.155
+Chambers St,Neck Rd,77.57333333333332
+Chambers St,East Broadway,10.504999999999999
+Chambers St,Court St,35.669999999999995
+Chambers St,Carroll St,41.06166666666666
+Chambers St,Spring St,8.401666666666667
+Chambers St,Prince St,9.933333333333334
+Chambers St,Hoyt St,39.11
+Chambers St,City Hall,7.66
+Chambers St,South Ferry,67.065
+Chambers St,Bowling Green,13.356666666666666
+Chambers St,Wall St,10.764999999999999
+Chambers St,Whitehall St,12.126666666666667
+Chambers St,Rector St,12.68
+Chambers St,Fresh Pond Rd,52.075
+Chambers St,Broad St,14.879999999999999
+Chambers St,Bowery,10.116666666666667
+Chambers St,Clark St,32.265
+Chambers St,York St,33.806666666666665
+Chambers St,High St,37.655
+Chambers St,President St,48.41833333333333
+Chambers St,Woodlawn,107.06166666666667
+Chambers St,Bleecker St,10.213333333333333
+Chambers St,Cortelyou Rd,62.1
+Chambers St,Parkchester,82.96000000000001
+Chambers St,Franklin St,9.161666666666667
+East Broadway,Astor Pl,10.733333333333333
+East Broadway,Canal St,7.118333333333334
+East Broadway,Bergen St,33.66833333333333
+East Broadway,Freeman St,77.18833333333333
+East Broadway,Junction Blvd,57.983333333333334
+East Broadway,Chauncey St,41.986666666666665
+East Broadway,Union St,36.27166666666667
+East Broadway,Pelham Pkwy,91.73666666666666
+East Broadway,Gun Hill Rd,99.68
+East Broadway,Simpson St,73.62833333333333
+East Broadway,Bronx Park East,84.64
+East Broadway,Winthrop St,47.46333333333334
+East Broadway,Kingsbridge Rd,90.0
+East Broadway,Prospect Park,47.458333333333336
+East Broadway,Broadway,47.190000000000005
+East Broadway,Lorimer St,20.58
+East Broadway,Halsey St,38.32333333333334
+East Broadway,Park Pl,9.688333333333333
+East Broadway,Middletown Rd,84.74
+East Broadway,Court Sq,37.49666666666667
+East Broadway,Houston St,12.99
+East Broadway,Broad Channel,98.96333333333334
+East Broadway,Ocean Pkwy,82.26833333333335
+East Broadway,Rockaway Blvd,68.04
+East Broadway,Beverly Rd,50.81166666666666
+East Broadway,Grand Army Plaza,33.098333333333336
+East Broadway,Fulton St,10.379999999999999
+East Broadway,Borough Hall,33.13166666666667
+East Broadway,Aqueduct Racetrack,76.19833333333332
+East Broadway,Morris Park,89.48833333333333
+East Broadway,Nevins St,32.585
+East Broadway,Sterling St,42.343333333333334
+East Broadway,Hewes St,17.925
+East Broadway,Grand St,3.493333333333333
+East Broadway,Parsons Blvd,80.075
+East Broadway,Pelham Bay Park,90.71166666666666
+East Broadway,Woodhaven Blvd,59.388333333333335
+East Broadway,Cleveland St,54.675
+East Broadway,Junius St,54.669999999999995
+East Broadway,Broadway Junction,46.205000000000005
+East Broadway,Crescent St,53.25
+East Broadway,Cypress Hills,51.611666666666665
+East Broadway,Northern Blvd,45.861666666666665
+East Broadway,Sutphin Blvd,74.485
+East Broadway,Astoria Blvd,49.83833333333334
+East Broadway,Fordham Rd,87.09166666666667
+East Broadway,Bedford Park Blvd,92.98666666666666
+East Broadway,Mosholu Pkwy,96.345
+East Broadway,Botanic Garden,39.73166666666667
+East Broadway,Dyckman St,82.595
+East Broadway,Steinway St,45.34166666666667
+East Broadway,Kosciuszko St,32.125
+East Broadway,Jefferson St,29.233333333333334
+East Broadway,Kings Hwy,68.18
+East Broadway,Brighton Beach,84.67333333333333
+East Broadway,Sheepshead Bay,79.975
+East Broadway,Neck Rd,74.71833333333333
+East Broadway,Chambers St,10.886666666666667
+East Broadway,Court St,29.40666666666667
+East Broadway,Carroll St,36.61
+East Broadway,Spring St,7.026666666666667
+East Broadway,Prince St,8.433333333333334
+East Broadway,Hoyt St,31.21333333333333
+East Broadway,City Hall,9.486666666666668
+East Broadway,South Ferry,67.955
+East Broadway,Bowling Green,14.146666666666667
+East Broadway,Wall St,11.555
+East Broadway,Whitehall St,12.916666666666666
+East Broadway,Rector St,13.306666666666667
+East Broadway,Fresh Pond Rd,42.605000000000004
+East Broadway,Broad St,15.67
+East Broadway,Bowery,5.628333333333333
+East Broadway,Clark St,26.001666666666665
+East Broadway,York St,27.543333333333333
+East Broadway,High St,31.391666666666666
+East Broadway,President St,38.94833333333334
+East Broadway,Woodlawn,100.00666666666666
+East Broadway,Bleecker St,8.943333333333333
+East Broadway,Cortelyou Rd,52.63
+East Broadway,Parkchester,75.905
+East Broadway,Franklin St,10.663333333333332
+Court St,Astor Pl,38.47166666666667
+Court St,Canal St,36.87166666666667
+Court St,Bergen St,7.525
+Court St,Freeman St,84.55666666666666
+Court St,Junction Blvd,65.44333333333333
+Court St,Chauncey St,38.458333333333336
+Court St,Union St,13.953333333333335
+Court St,Pelham Pkwy,99.105
+Court St,Gun Hill Rd,107.04833333333333
+Court St,Simpson St,80.99666666666667
+Court St,Bronx Park East,92.00833333333334
+Court St,Winthrop St,34.815000000000005
+Court St,Kingsbridge Rd,99.99666666666667
+Court St,Prospect Park,33.748333333333335
+Court St,Broadway,53.92666666666666
+Court St,Lorimer St,25.625
+Court St,Halsey St,39.285
+Court St,Park Pl,32.71666666666667
+Court St,Middletown Rd,92.10833333333333
+Court St,Court Sq,43.669999999999995
+Court St,Houston St,38.97166666666667
+Court St,Broad Channel,91.29166666666667
+Court St,Ocean Pkwy,67.23333333333333
+Court St,Rockaway Blvd,65.97333333333333
+Court St,Beverly Rd,38.163333333333334
+Court St,Grand Army Plaza,17.371666666666666
+Court St,Fulton St,35.27166666666667
+Court St,Borough Hall,6.923333333333333
+Court St,Aqueduct Racetrack,72.455
+Court St,Morris Park,96.85666666666665
+Court St,Nevins St,8.781666666666666
+Court St,Sterling St,29.695
+Court St,Hewes St,22.521666666666665
+Court St,Grand St,31.903333333333332
+Court St,Parsons Blvd,86.555
+Court St,Pelham Bay Park,98.08
+Court St,Woodhaven Blvd,59.65
+Court St,Cleveland St,49.335
+Court St,Junius St,44.41166666666666
+Court St,Broadway Junction,39.815000000000005
+Court St,Crescent St,53.419999999999995
+Court St,Cypress Hills,51.873333333333335
+Court St,Northern Blvd,53.32166666666667
+Court St,Sutphin Blvd,80.96499999999999
+Court St,Astoria Blvd,57.20666666666667
+Court St,Fordham Rd,97.08833333333334
+Court St,Bedford Park Blvd,102.98333333333333
+Court St,Mosholu Pkwy,106.34166666666667
+Court St,Botanic Garden,24.333333333333332
+Court St,Dyckman St,91.115
+Court St,Steinway St,52.07833333333333
+Court St,Kosciuszko St,28.408333333333335
+Court St,Jefferson St,33.33166666666667
+Court St,Kings Hwy,57.535
+Court St,Brighton Beach,69.41833333333334
+Court St,Sheepshead Bay,64.12666666666667
+Court St,Neck Rd,58.87
+Court St,Chambers St,39.79333333333333
+Court St,East Broadway,29.938333333333333
+Court St,Carroll St,10.466666666666667
+Court St,Spring St,35.43666666666666
+Court St,Prince St,36.39
+Court St,Hoyt St,7.795
+Court St,City Hall,34.09166666666667
+Court St,South Ferry,76.83666666666666
+Court St,Bowling Green,28.398333333333333
+Court St,Wall St,28.576666666666664
+Court St,Whitehall St,26.001666666666665
+Court St,Rector St,33.78
+Court St,Fresh Pond Rd,45.42666666666666
+Court St,Broad St,36.568333333333335
+Court St,Bowery,34.038333333333334
+Court St,Clark St,4.375
+Court St,York St,6.238333333333333
+Court St,High St,8.233333333333333
+Court St,President St,26.388333333333332
+Court St,Woodlawn,110.00333333333333
+Court St,Bleecker St,36.9
+Court St,Cortelyou Rd,36.93
+Court St,Parkchester,83.27333333333333
+Court St,Franklin St,35.13166666666667
+Carroll St,Astor Pl,43.01166666666666
+Carroll St,Canal St,44.585
+Carroll St,Bergen St,3.4633333333333334
+Carroll St,Freeman St,86.97
+Carroll St,Junction Blvd,68.13333333333334
+Carroll St,Chauncey St,35.501666666666665
+Carroll St,Union St,5.576666666666667
+Carroll St,Pelham Pkwy,101.51833333333335
+Carroll St,Gun Hill Rd,109.46166666666666
+Carroll St,Simpson St,83.41000000000001
+Carroll St,Bronx Park East,94.42166666666667
+Carroll St,Winthrop St,26.578333333333333
+Carroll St,Kingsbridge Rd,102.41000000000001
+Carroll St,Prospect Park,25.026666666666664
+Carroll St,Broadway,57.544999999999995
+Carroll St,Lorimer St,27.433333333333334
+Carroll St,Halsey St,40.365
+Carroll St,Park Pl,37.468333333333334
+Carroll St,Middletown Rd,94.52166666666668
+Carroll St,Court Sq,47.288333333333334
+Carroll St,Houston St,43.723333333333336
+Carroll St,Broad Channel,91.91166666666666
+Carroll St,Ocean Pkwy,57.37166666666667
+Carroll St,Rockaway Blvd,61.53666666666666
+Carroll St,Beverly Rd,29.926666666666666
+Carroll St,Grand Army Plaza,10.99
+Carroll St,Fulton St,40.02333333333333
+Carroll St,Borough Hall,9.035
+Carroll St,Aqueduct Racetrack,68.01833333333333
+Carroll St,Morris Park,99.27
+Carroll St,Nevins St,9.805
+Carroll St,Sterling St,21.851666666666667
+Carroll St,Hewes St,25.565
+Carroll St,Grand St,38.86
+Carroll St,Parsons Blvd,83.96833333333333
+Carroll St,Pelham Bay Park,100.49333333333334
+Carroll St,Woodhaven Blvd,60.64833333333333
+Carroll St,Cleveland St,45.098333333333336
+Carroll St,Junius St,40.22
+Carroll St,Broadway Junction,36.858333333333334
+Carroll St,Crescent St,49.18333333333333
+Carroll St,Cypress Hills,52.91833333333333
+Carroll St,Northern Blvd,56.940000000000005
+Carroll St,Sutphin Blvd,82.66499999999999
+Carroll St,Astoria Blvd,59.62
+Carroll St,Fordham Rd,99.50166666666668
+Carroll St,Bedford Park Blvd,105.39666666666668
+Carroll St,Mosholu Pkwy,108.75500000000001
+Carroll St,Botanic Garden,20.141666666666666
+Carroll St,Dyckman St,99.00166666666668
+Carroll St,Steinway St,55.69666666666667
+Carroll St,Kosciuszko St,29.236666666666668
+Carroll St,Jefferson St,35.14
+Carroll St,Kings Hwy,47.67333333333333
+Carroll St,Brighton Beach,59.556666666666665
+Carroll St,Sheepshead Bay,56.059999999999995
+Carroll St,Neck Rd,50.80333333333333
+Carroll St,Chambers St,44.544999999999995
+Carroll St,East Broadway,36.894999999999996
+Carroll St,Court St,9.15
+Carroll St,Spring St,42.39333333333333
+Carroll St,Prince St,41.37166666666667
+Carroll St,Hoyt St,9.04
+Carroll St,City Hall,38.843333333333334
+Carroll St,South Ferry,81.58833333333334
+Carroll St,Bowling Green,32.973333333333336
+Carroll St,Wall St,33.151666666666664
+Carroll St,Whitehall St,30.576666666666664
+Carroll St,Rector St,38.531666666666666
+Carroll St,Fresh Pond Rd,46.39333333333333
+Carroll St,Broad St,41.32
+Carroll St,Bowery,40.995
+Carroll St,Clark St,11.346666666666666
+Carroll St,York St,10.031666666666666
+Carroll St,High St,15.120000000000001
+Carroll St,President St,22.196666666666665
+Carroll St,Woodlawn,112.41666666666667
+Carroll St,Bleecker St,41.88166666666667
+Carroll St,Cortelyou Rd,28.125
+Carroll St,Parkchester,85.68666666666667
+Carroll St,Franklin St,39.88333333333333
+Spring St,Astor Pl,4.411666666666666
+Spring St,Canal St,3.18
+Spring St,Bergen St,39.30833333333333
+Spring St,Freeman St,76.06333333333333
+Spring St,Junction Blvd,61.825
+Spring St,Chauncey St,45.82833333333333
+Spring St,Union St,40.11333333333334
+Spring St,Pelham Pkwy,90.61166666666666
+Spring St,Gun Hill Rd,98.555
+Spring St,Simpson St,72.50333333333333
+Spring St,Bronx Park East,83.515
+Spring St,Winthrop St,51.305
+Spring St,Kingsbridge Rd,88.875
+Spring St,Prospect Park,51.3
+Spring St,Broadway,48.135
+Spring St,Lorimer St,24.421666666666667
+Spring St,Halsey St,42.165
+Spring St,Park Pl,8.526666666666667
+Spring St,Middletown Rd,83.615
+Spring St,Court Sq,38.07
+Spring St,Houston St,6.3100000000000005
+Spring St,Broad Channel,101.48666666666666
+Spring St,Ocean Pkwy,84.76833333333335
+Spring St,Rockaway Blvd,71.88166666666666
+Spring St,Beverly Rd,54.65333333333333
+Spring St,Grand Army Plaza,36.940000000000005
+Spring St,Fulton St,9.218333333333334
+Spring St,Borough Hall,38.77166666666667
+Spring St,Aqueduct Racetrack,80.03999999999999
+Spring St,Morris Park,88.36333333333333
+Spring St,Nevins St,36.42666666666666
+Spring St,Sterling St,46.184999999999995
+Spring St,Hewes St,21.766666666666666
+Spring St,Grand St,3.5083333333333333
+Spring St,Parsons Blvd,83.91666666666667
+Spring St,Pelham Bay Park,89.58666666666666
+Spring St,Woodhaven Blvd,63.230000000000004
+Spring St,Cleveland St,58.516666666666666
+Spring St,Junius St,58.51166666666666
+Spring St,Broadway Junction,50.04666666666667
+Spring St,Crescent St,57.09166666666667
+Spring St,Cypress Hills,55.45333333333333
+Spring St,Northern Blvd,49.70333333333333
+Spring St,Sutphin Blvd,78.32666666666667
+Spring St,Astoria Blvd,48.71333333333334
+Spring St,Fordham Rd,85.96666666666667
+Spring St,Bedford Park Blvd,91.86166666666666
+Spring St,Mosholu Pkwy,95.22
+Spring St,Botanic Garden,43.57333333333334
+Spring St,Dyckman St,81.67666666666668
+Spring St,Steinway St,49.18333333333333
+Spring St,Kosciuszko St,35.96666666666667
+Spring St,Jefferson St,33.075
+Spring St,Kings Hwy,70.68
+Spring St,Brighton Beach,86.95333333333333
+Spring St,Sheepshead Bay,83.81666666666666
+Spring St,Neck Rd,78.56
+Spring St,Chambers St,8.8
+Spring St,East Broadway,6.985
+Spring St,Court St,35.04666666666667
+Spring St,Carroll St,42.25
+Spring St,Prince St,1.7533333333333334
+Spring St,Hoyt St,35.055
+Spring St,City Hall,6.8933333333333335
+Spring St,South Ferry,66.55166666666666
+Spring St,Bowling Green,14.568333333333333
+Spring St,Wall St,11.66
+Spring St,Whitehall St,13.021666666666667
+Spring St,Rector St,12.166666666666666
+Spring St,Fresh Pond Rd,46.44666666666667
+Spring St,Broad St,14.955
+Spring St,Bowery,2.4050000000000002
+Spring St,Clark St,31.641666666666666
+Spring St,York St,33.18333333333333
+Spring St,High St,37.031666666666666
+Spring St,President St,42.79
+Spring St,Woodlawn,98.88166666666666
+Spring St,Bleecker St,2.033333333333333
+Spring St,Cortelyou Rd,56.47166666666667
+Spring St,Parkchester,74.78
+Spring St,Franklin St,6.725
+Prince St,Astor Pl,5.92
+Prince St,Canal St,6.575
+Prince St,Bergen St,42.69166666666667
+Prince St,Freeman St,77.57166666666667
+Prince St,Junction Blvd,64.61666666666666
+Prince St,Chauncey St,48.62
+Prince St,Union St,42.905
+Prince St,Pelham Pkwy,92.11999999999999
+Prince St,Gun Hill Rd,100.06333333333333
+Prince St,Simpson St,74.01166666666667
+Prince St,Bronx Park East,85.02333333333333
+Prince St,Winthrop St,54.09666666666667
+Prince St,Kingsbridge Rd,94.25500000000001
+Prince St,Prospect Park,54.09166666666667
+Prince St,Broadway,49.64333333333333
+Prince St,Lorimer St,27.21333333333333
+Prince St,Halsey St,44.95666666666667
+Prince St,Park Pl,11.921666666666665
+Prince St,Middletown Rd,85.12333333333332
+Prince St,Court Sq,39.57833333333333
+Prince St,Houston St,4.975
+Prince St,Broad Channel,103.025
+Prince St,Ocean Pkwy,86.30666666666666
+Prince St,Rockaway Blvd,74.67333333333333
+Prince St,Beverly Rd,57.445
+Prince St,Grand Army Plaza,39.73166666666667
+Prince St,Fulton St,12.613333333333333
+Prince St,Borough Hall,41.56333333333334
+Prince St,Aqueduct Racetrack,82.83166666666666
+Prince St,Morris Park,89.87166666666667
+Prince St,Nevins St,39.218333333333334
+Prince St,Sterling St,48.97666666666667
+Prince St,Hewes St,24.558333333333334
+Prince St,Grand St,6.3
+Prince St,Parsons Blvd,86.70833333333333
+Prince St,Pelham Bay Park,91.095
+Prince St,Woodhaven Blvd,66.02166666666668
+Prince St,Cleveland St,61.30833333333333
+Prince St,Junius St,61.30333333333333
+Prince St,Broadway Junction,52.83833333333334
+Prince St,Crescent St,59.88333333333333
+Prince St,Cypress Hills,58.245
+Prince St,Northern Blvd,52.495
+Prince St,Sutphin Blvd,81.11833333333334
+Prince St,Astoria Blvd,50.22166666666667
+Prince St,Fordham Rd,91.47833333333332
+Prince St,Bedford Park Blvd,93.36999999999999
+Prince St,Mosholu Pkwy,96.72833333333332
+Prince St,Botanic Garden,46.365
+Prince St,Dyckman St,80.49166666666666
+Prince St,Steinway St,51.975
+Prince St,Kosciuszko St,38.75833333333333
+Prince St,Jefferson St,35.86666666666667
+Prince St,Kings Hwy,72.21833333333333
+Prince St,Brighton Beach,88.49166666666666
+Prince St,Sheepshead Bay,86.60833333333333
+Prince St,Neck Rd,82.40166666666667
+Prince St,Chambers St,12.195
+Prince St,East Broadway,9.776666666666667
+Prince St,Court St,37.83833333333334
+Prince St,Carroll St,45.843333333333334
+Prince St,Spring St,3.0233333333333334
+Prince St,Hoyt St,37.84666666666667
+Prince St,City Hall,10.288333333333332
+Prince St,South Ferry,68.09
+Prince St,Bowling Green,17.96333333333333
+Prince St,Wall St,15.055
+Prince St,Whitehall St,16.416666666666668
+Prince St,Rector St,15.561666666666667
+Prince St,Fresh Pond Rd,49.23833333333334
+Prince St,Broad St,18.35
+Prince St,Bowery,5.196666666666667
+Prince St,Clark St,34.43333333333333
+Prince St,York St,35.975
+Prince St,High St,39.82333333333334
+Prince St,President St,45.58166666666667
+Prince St,Woodlawn,100.39
+Prince St,Bleecker St,3.3983333333333334
+Prince St,Cortelyou Rd,59.263333333333335
+Prince St,Parkchester,76.28833333333334
+Prince St,Franklin St,7.788333333333333
+Hoyt St,Astor Pl,39.016666666666666
+Hoyt St,Canal St,39.65
+Hoyt St,Bergen St,5.02
+Hoyt St,Freeman St,82.685
+Hoyt St,Junction Blvd,63.11333333333334
+Hoyt St,Chauncey St,33.145
+Hoyt St,Union St,9.995000000000001
+Hoyt St,Pelham Pkwy,97.23333333333333
+Hoyt St,Gun Hill Rd,105.17666666666668
+Hoyt St,Simpson St,79.125
+Hoyt St,Bronx Park East,90.13666666666667
+Hoyt St,Winthrop St,29.551666666666666
+Hoyt St,Kingsbridge Rd,98.125
+Hoyt St,Prospect Park,28.833333333333332
+Hoyt St,Broadway,53.26
+Hoyt St,Lorimer St,22.711666666666666
+Hoyt St,Halsey St,35.39333333333333
+Hoyt St,Park Pl,35.495
+Hoyt St,Middletown Rd,90.23666666666666
+Hoyt St,Court Sq,43.00333333333333
+Hoyt St,Houston St,41.75
+Hoyt St,Broad Channel,90.83999999999999
+Hoyt St,Ocean Pkwy,62.373333333333335
+Hoyt St,Rockaway Blvd,60.71
+Hoyt St,Beverly Rd,32.9
+Hoyt St,Grand Army Plaza,12.456666666666667
+Hoyt St,Fulton St,38.05
+Hoyt St,Borough Hall,4.8566666666666665
+Hoyt St,Aqueduct Racetrack,67.24
+Hoyt St,Morris Park,94.985
+Hoyt St,Nevins St,4.006666666666667
+Hoyt St,Sterling St,24.43166666666667
+Hoyt St,Hewes St,21.279999999999998
+Hoyt St,Grand St,34.681666666666665
+Hoyt St,Parsons Blvd,83.14166666666667
+Hoyt St,Pelham Bay Park,96.20833333333333
+Hoyt St,Woodhaven Blvd,59.57166666666667
+Hoyt St,Cleveland St,44.02166666666667
+Hoyt St,Junius St,39.14833333333333
+Hoyt St,Broadway Junction,34.501666666666665
+Hoyt St,Crescent St,48.10666666666667
+Hoyt St,Cypress Hills,47.968333333333334
+Hoyt St,Northern Blvd,52.655
+Hoyt St,Sutphin Blvd,78.05166666666668
+Hoyt St,Astoria Blvd,55.335
+Hoyt St,Fordham Rd,95.21666666666667
+Hoyt St,Bedford Park Blvd,101.11166666666666
+Hoyt St,Mosholu Pkwy,104.47
+Hoyt St,Botanic Garden,19.07
+Hoyt St,Dyckman St,94.71666666666667
+Hoyt St,Steinway St,51.41166666666666
+Hoyt St,Kosciuszko St,24.265
+Hoyt St,Jefferson St,30.418333333333333
+Hoyt St,Kings Hwy,52.675
+Hoyt St,Brighton Beach,64.55833333333334
+Hoyt St,Sheepshead Bay,59.211666666666666
+Hoyt St,Neck Rd,53.955000000000005
+Hoyt St,Chambers St,42.57166666666667
+Hoyt St,East Broadway,32.71666666666667
+Hoyt St,Court St,4.79
+Hoyt St,Carroll St,7.863333333333333
+Hoyt St,Spring St,38.215
+Hoyt St,Prince St,37.086666666666666
+Hoyt St,City Hall,36.87
+Hoyt St,South Ferry,79.615
+Hoyt St,Bowling Green,31.176666666666666
+Hoyt St,Wall St,31.355
+Hoyt St,Whitehall St,28.779999999999998
+Hoyt St,Rector St,36.55833333333333
+Hoyt St,Fresh Pond Rd,41.42166666666667
+Hoyt St,Broad St,39.34666666666667
+Hoyt St,Bowery,36.81666666666667
+Hoyt St,Clark St,7.368333333333334
+Hoyt St,York St,6.0633333333333335
+Hoyt St,High St,10.941666666666666
+Hoyt St,President St,21.125
+Hoyt St,Woodlawn,108.13166666666666
+Hoyt St,Bleecker St,37.59666666666667
+Hoyt St,Cortelyou Rd,32.015
+Hoyt St,Parkchester,81.40166666666667
+Hoyt St,Franklin St,37.91
+City Hall,Astor Pl,13.491666666666667
+City Hall,Canal St,7.835
+City Hall,Bergen St,34.656666666666666
+City Hall,Freeman St,84.97333333333333
+City Hall,Junction Blvd,68.13833333333334
+City Hall,Chauncey St,52.141666666666666
+City Hall,Union St,42.138333333333335
+City Hall,Pelham Pkwy,99.52166666666668
+City Hall,Gun Hill Rd,107.46499999999999
+City Hall,Simpson St,81.41333333333334
+City Hall,Bronx Park East,92.425
+City Hall,Winthrop St,57.61833333333333
+City Hall,Kingsbridge Rd,87.99166666666666
+City Hall,Prospect Park,57.61333333333334
+City Hall,Broadway,57.345
+City Hall,Lorimer St,30.735
+City Hall,Halsey St,48.47833333333333
+City Hall,Park Pl,0.9733333333333333
+City Hall,Middletown Rd,92.525
+City Hall,Court Sq,46.980000000000004
+City Hall,Houston St,11.481666666666666
+City Hall,Broad Channel,94.99
+City Hall,Ocean Pkwy,78.27166666666668
+City Hall,Rockaway Blvd,78.195
+City Hall,Beverly Rd,60.96666666666667
+City Hall,Grand Army Plaza,43.611666666666665
+City Hall,Fulton St,2.4683333333333333
+City Hall,Borough Hall,35.97666666666667
+City Hall,Aqueduct Racetrack,86.35333333333332
+City Hall,Morris Park,97.27333333333333
+City Hall,Nevins St,39.115
+City Hall,Sterling St,52.498333333333335
+City Hall,Hewes St,28.08
+City Hall,Grand St,9.821666666666665
+City Hall,Parsons Blvd,90.23
+City Hall,Pelham Bay Park,98.49666666666667
+City Hall,Woodhaven Blvd,69.54333333333334
+City Hall,Cleveland St,64.83
+City Hall,Junius St,64.825
+City Hall,Broadway Junction,56.36
+City Hall,Crescent St,63.405
+City Hall,Cypress Hills,61.766666666666666
+City Hall,Northern Blvd,56.016666666666666
+City Hall,Sutphin Blvd,84.64
+City Hall,Astoria Blvd,57.623333333333335
+City Hall,Fordham Rd,97.45
+City Hall,Bedford Park Blvd,100.77166666666668
+City Hall,Mosholu Pkwy,96.50833333333334
+City Hall,Botanic Garden,49.88666666666666
+City Hall,Dyckman St,74.695
+City Hall,Steinway St,55.49666666666667
+City Hall,Kosciuszko St,42.28
+City Hall,Jefferson St,39.388333333333335
+City Hall,Kings Hwy,64.18333333333334
+City Hall,Brighton Beach,80.45666666666666
+City Hall,Sheepshead Bay,79.94833333333332
+City Hall,Neck Rd,74.36666666666666
+City Hall,Chambers St,7.795
+City Hall,East Broadway,11.065
+City Hall,Court St,32.251666666666665
+City Hall,Carroll St,37.80833333333333
+City Hall,Spring St,9.086666666666668
+City Hall,Prince St,10.866666666666667
+City Hall,Hoyt St,35.69166666666667
+City Hall,South Ferry,60.055
+City Hall,Bowling Green,8.19
+City Hall,Wall St,6.288333333333333
+City Hall,Whitehall St,7.65
+City Hall,Rector St,5.788333333333333
+City Hall,Fresh Pond Rd,52.76
+City Hall,Broad St,8.576666666666666
+City Hall,Bowery,10.801666666666668
+City Hall,Clark St,28.846666666666668
+City Hall,York St,30.388333333333332
+City Hall,High St,34.236666666666665
+City Hall,President St,49.10333333333333
+City Hall,Woodlawn,103.18
+City Hall,Bleecker St,10.898333333333333
+City Hall,Cortelyou Rd,62.785
+City Hall,Parkchester,83.69
+City Hall,Franklin St,6.1016666666666675
+South Ferry,Astor Pl,70.875
+South Ferry,Canal St,65.55333333333333
+South Ferry,Bergen St,76.91166666666666
+South Ferry,Freeman St,130.41666666666666
+South Ferry,Junction Blvd,123.16000000000001
+South Ferry,Chauncey St,103.545
+South Ferry,Union St,84.39333333333335
+South Ferry,Pelham Pkwy,144.965
+South Ferry,Gun Hill Rd,152.90833333333333
+South Ferry,Simpson St,126.85666666666665
+South Ferry,Bronx Park East,137.86833333333334
+South Ferry,Winthrop St,102.44666666666667
+South Ferry,Kingsbridge Rd,130.17833333333334
+South Ferry,Prospect Park,100.61
+South Ferry,Broadway,103.08666666666666
+South Ferry,Lorimer St,83.47166666666666
+South Ferry,Halsey St,103.37666666666668
+South Ferry,Park Pl,58.43666666666666
+South Ferry,Middletown Rd,137.96833333333333
+South Ferry,Court Sq,92.60333333333332
+South Ferry,Houston St,64.69166666666666
+South Ferry,Broad Channel,137.245
+South Ferry,Ocean Pkwy,120.52666666666667
+South Ferry,Rockaway Blvd,133.53833333333333
+South Ferry,Beverly Rd,105.795
+South Ferry,Grand Army Plaza,85.86666666666666
+South Ferry,Fulton St,60.99166666666667
+South Ferry,Borough Hall,78.23166666666665
+South Ferry,Aqueduct Racetrack,139.85833333333332
+South Ferry,Morris Park,142.71666666666667
+South Ferry,Nevins St,81.36999999999999
+South Ferry,Sterling St,97.32666666666667
+South Ferry,Hewes St,85.79833333333333
+South Ferry,Grand St,67.54
+South Ferry,Parsons Blvd,147.94833333333332
+South Ferry,Pelham Bay Park,143.94
+South Ferry,Woodhaven Blvd,123.74166666666666
+South Ferry,Cleveland St,116.64
+South Ferry,Junius St,112.11166666666666
+South Ferry,Broadway Junction,106.065
+South Ferry,Crescent St,117.60333333333332
+South Ferry,Cypress Hills,115.96499999999999
+South Ferry,Northern Blvd,109.45833333333333
+South Ferry,Sutphin Blvd,142.35833333333332
+South Ferry,Astoria Blvd,103.06666666666666
+South Ferry,Fordham Rd,126.67666666666668
+South Ferry,Bedford Park Blvd,136.13833333333335
+South Ferry,Mosholu Pkwy,138.69500000000002
+South Ferry,Botanic Garden,91.96499999999999
+South Ferry,Dyckman St,116.88166666666666
+South Ferry,Steinway St,106.65833333333333
+South Ferry,Kosciuszko St,92.5
+South Ferry,Jefferson St,97.10666666666665
+South Ferry,Kings Hwy,106.43833333333333
+South Ferry,Brighton Beach,122.71166666666666
+South Ferry,Sheepshead Bay,122.20333333333333
+South Ferry,Neck Rd,116.62166666666667
+South Ferry,Chambers St,65.51333333333334
+South Ferry,East Broadway,68.78333333333333
+South Ferry,Court St,74.50666666666666
+South Ferry,Carroll St,80.06333333333333
+South Ferry,Spring St,66.805
+South Ferry,Prince St,68.58500000000001
+South Ferry,Hoyt St,77.94666666666667
+South Ferry,City Hall,59.81166666666666
+South Ferry,Bowling Green,61.901666666666664
+South Ferry,Wall St,63.791666666666664
+South Ferry,Whitehall St,63.3
+South Ferry,Rector St,59.5
+South Ferry,Fresh Pond Rd,110.47833333333332
+South Ferry,Broad St,62.288333333333334
+South Ferry,Bowery,68.52
+South Ferry,Clark St,71.10166666666667
+South Ferry,York St,72.64333333333335
+South Ferry,High St,76.49166666666666
+South Ferry,President St,94.02
+South Ferry,Woodlawn,145.36666666666667
+South Ferry,Bleecker St,68.61666666666666
+South Ferry,Cortelyou Rd,103.79166666666667
+South Ferry,Parkchester,129.13333333333333
+South Ferry,Franklin St,60.85166666666667
+Bowling Green,Astor Pl,20.933333333333334
+Bowling Green,Canal St,15.875
+Bowling Green,Bergen St,28.618333333333332
+Bowling Green,Freeman St,82.41833333333334
+Bowling Green,Junction Blvd,72.36333333333333
+Bowling Green,Chauncey St,56.36666666666667
+Bowling Green,Union St,36.1
+Bowling Green,Pelham Pkwy,96.96666666666667
+Bowling Green,Gun Hill Rd,104.91000000000001
+Bowling Green,Simpson St,78.85833333333333
+Bowling Green,Bronx Park East,89.86999999999999
+Bowling Green,Winthrop St,54.38333333333333
+Bowling Green,Kingsbridge Rd,97.85833333333333
+Bowling Green,Prospect Park,52.54666666666667
+Bowling Green,Broadway,55.08833333333334
+Bowling Green,Lorimer St,34.96
+Bowling Green,Halsey St,52.70333333333333
+Bowling Green,Park Pl,8.981666666666666
+Bowling Green,Middletown Rd,89.97
+Bowling Green,Court Sq,44.605000000000004
+Bowling Green,Houston St,19.521666666666665
+Bowling Green,Broad Channel,88.88166666666666
+Bowling Green,Ocean Pkwy,72.18666666666667
+Bowling Green,Rockaway Blvd,82.42
+Bowling Green,Beverly Rd,57.73166666666667
+Bowling Green,Grand Army Plaza,37.80333333333333
+Bowling Green,Fulton St,7.628333333333333
+Bowling Green,Borough Hall,30.103333333333335
+Bowling Green,Aqueduct Racetrack,90.57833333333333
+Bowling Green,Morris Park,94.71833333333333
+Bowling Green,Nevins St,33.24166666666667
+Bowling Green,Sterling St,49.263333333333335
+Bowling Green,Hewes St,32.305
+Bowling Green,Grand St,16.091666666666665
+Bowling Green,Parsons Blvd,94.455
+Bowling Green,Pelham Bay Park,95.94166666666666
+Bowling Green,Woodhaven Blvd,73.76833333333335
+Bowling Green,Cleveland St,68.57666666666667
+Bowling Green,Junius St,64.04833333333333
+Bowling Green,Broadway Junction,60.585
+Bowling Green,Crescent St,67.63000000000001
+Bowling Green,Cypress Hills,65.99166666666666
+Bowling Green,Northern Blvd,60.24166666666667
+Bowling Green,Sutphin Blvd,88.865
+Bowling Green,Astoria Blvd,55.068333333333335
+Bowling Green,Fordham Rd,94.95
+Bowling Green,Bedford Park Blvd,100.845
+Bowling Green,Mosholu Pkwy,104.20333333333333
+Bowling Green,Botanic Garden,43.901666666666664
+Bowling Green,Dyckman St,77.79666666666667
+Bowling Green,Steinway St,59.72166666666667
+Bowling Green,Kosciuszko St,44.43666666666666
+Bowling Green,Jefferson St,43.61333333333334
+Bowling Green,Kings Hwy,58.098333333333336
+Bowling Green,Brighton Beach,74.37166666666667
+Bowling Green,Sheepshead Bay,73.86333333333333
+Bowling Green,Neck Rd,68.28166666666667
+Bowling Green,Chambers St,14.05
+Bowling Green,East Broadway,15.295
+Bowling Green,Court St,26.378333333333334
+Bowling Green,Carroll St,31.77
+Bowling Green,Spring St,16.78666666666667
+Bowling Green,Prince St,18.045
+Bowling Green,Hoyt St,29.81833333333333
+Bowling Green,City Hall,10.341666666666667
+Bowling Green,South Ferry,63.156666666666666
+Bowling Green,Wall St,4.161666666666666
+Bowling Green,Whitehall St,1.8616666666666668
+Bowling Green,Rector St,3.1633333333333336
+Bowling Green,Fresh Pond Rd,56.985
+Bowling Green,Broad St,4.3966666666666665
+Bowling Green,Bowery,17.473333333333336
+Bowling Green,Clark St,22.973333333333336
+Bowling Green,York St,24.515
+Bowling Green,High St,28.363333333333333
+Bowling Green,President St,45.95666666666667
+Bowling Green,Woodlawn,107.865
+Bowling Green,Bleecker St,18.555
+Bowling Green,Cortelyou Rd,55.72833333333333
+Bowling Green,Parkchester,81.135
+Bowling Green,Franklin St,14.141666666666667
+Wall St,Astor Pl,16.771666666666665
+Wall St,Canal St,11.713333333333333
+Wall St,Bergen St,29.720000000000002
+Wall St,Freeman St,83.52
+Wall St,Junction Blvd,68.20166666666667
+Wall St,Chauncey St,52.205000000000005
+Wall St,Union St,37.20166666666667
+Wall St,Pelham Pkwy,98.06833333333334
+Wall St,Gun Hill Rd,106.01166666666667
+Wall St,Simpson St,79.96000000000001
+Wall St,Bronx Park East,90.97166666666666
+Wall St,Winthrop St,55.485
+Wall St,Kingsbridge Rd,90.71333333333334
+Wall St,Prospect Park,53.64833333333333
+Wall St,Broadway,57.40833333333333
+Wall St,Lorimer St,30.798333333333336
+Wall St,Halsey St,48.541666666666664
+Wall St,Park Pl,4.819999999999999
+Wall St,Middletown Rd,91.07166666666667
+Wall St,Court Sq,45.70666666666667
+Wall St,Houston St,15.360000000000001
+Wall St,Broad Channel,89.98333333333333
+Wall St,Ocean Pkwy,73.28833333333334
+Wall St,Rockaway Blvd,78.25833333333334
+Wall St,Beverly Rd,58.833333333333336
+Wall St,Grand Army Plaza,38.905
+Wall St,Fulton St,3.466666666666667
+Wall St,Borough Hall,31.205
+Wall St,Aqueduct Racetrack,86.41666666666667
+Wall St,Morris Park,95.82
+Wall St,Nevins St,34.343333333333334
+Wall St,Sterling St,50.365
+Wall St,Hewes St,28.14333333333333
+Wall St,Grand St,11.93
+Wall St,Parsons Blvd,90.29333333333334
+Wall St,Pelham Bay Park,97.04333333333334
+Wall St,Woodhaven Blvd,69.60666666666665
+Wall St,Cleveland St,64.89333333333333
+Wall St,Junius St,64.88833333333334
+Wall St,Broadway Junction,56.42333333333333
+Wall St,Crescent St,63.468333333333334
+Wall St,Cypress Hills,61.830000000000005
+Wall St,Northern Blvd,56.080000000000005
+Wall St,Sutphin Blvd,84.70333333333333
+Wall St,Astoria Blvd,56.169999999999995
+Wall St,Fordham Rd,96.05166666666668
+Wall St,Bedford Park Blvd,101.94666666666667
+Wall St,Mosholu Pkwy,105.305
+Wall St,Botanic Garden,45.00333333333333
+Wall St,Dyckman St,77.41666666666667
+Wall St,Steinway St,55.559999999999995
+Wall St,Kosciuszko St,42.343333333333334
+Wall St,Jefferson St,39.45166666666667
+Wall St,Kings Hwy,59.2
+Wall St,Brighton Beach,75.47333333333333
+Wall St,Sheepshead Bay,74.96499999999999
+Wall St,Neck Rd,69.38333333333334
+Wall St,Chambers St,9.888333333333332
+Wall St,East Broadway,11.133333333333333
+Wall St,Court St,27.48
+Wall St,Carroll St,32.87166666666666
+Wall St,Spring St,12.625
+Wall St,Prince St,13.883333333333333
+Wall St,Hoyt St,30.92
+Wall St,City Hall,6.180000000000001
+Wall St,South Ferry,62.776666666666664
+Wall St,Bowling Green,3.19
+Wall St,Whitehall St,3.9366666666666665
+Wall St,Rector St,3.628333333333333
+Wall St,Fresh Pond Rd,52.82333333333334
+Wall St,Broad St,4.713333333333334
+Wall St,Bowery,13.311666666666667
+Wall St,Clark St,24.075
+Wall St,York St,25.616666666666667
+Wall St,High St,29.465
+Wall St,President St,47.05833333333333
+Wall St,Woodlawn,108.96666666666667
+Wall St,Bleecker St,14.393333333333334
+Wall St,Cortelyou Rd,56.830000000000005
+Wall St,Parkchester,82.23666666666666
+Wall St,Franklin St,9.979999999999999
+Whitehall St,Astor Pl,20.196666666666665
+Whitehall St,Canal St,15.138333333333332
+Whitehall St,Bergen St,27.228333333333335
+Whitehall St,Freeman St,81.02833333333334
+Whitehall St,Junction Blvd,71.62666666666668
+Whitehall St,Chauncey St,55.63
+Whitehall St,Union St,34.71
+Whitehall St,Pelham Pkwy,95.57666666666667
+Whitehall St,Gun Hill Rd,103.52
+Whitehall St,Simpson St,77.46833333333333
+Whitehall St,Bronx Park East,88.48
+Whitehall St,Winthrop St,52.99333333333333
+Whitehall St,Kingsbridge Rd,96.46833333333333
+Whitehall St,Prospect Park,51.156666666666666
+Whitehall St,Broadway,53.69833333333334
+Whitehall St,Lorimer St,34.223333333333336
+Whitehall St,Halsey St,51.96666666666667
+Whitehall St,Park Pl,8.245
+Whitehall St,Middletown Rd,88.58
+Whitehall St,Court Sq,43.215
+Whitehall St,Houston St,18.785
+Whitehall St,Broad Channel,87.49166666666666
+Whitehall St,Ocean Pkwy,70.79666666666667
+Whitehall St,Rockaway Blvd,81.68333333333334
+Whitehall St,Beverly Rd,56.34166666666667
+Whitehall St,Grand Army Plaza,36.413333333333334
+Whitehall St,Fulton St,6.891666666666667
+Whitehall St,Borough Hall,28.71333333333333
+Whitehall St,Aqueduct Racetrack,89.84166666666667
+Whitehall St,Morris Park,93.32833333333333
+Whitehall St,Nevins St,31.851666666666667
+Whitehall St,Sterling St,47.873333333333335
+Whitehall St,Hewes St,31.56833333333333
+Whitehall St,Grand St,15.354999999999999
+Whitehall St,Parsons Blvd,93.71833333333333
+Whitehall St,Pelham Bay Park,94.55166666666668
+Whitehall St,Woodhaven Blvd,73.03166666666667
+Whitehall St,Cleveland St,67.18666666666667
+Whitehall St,Junius St,62.65833333333333
+Whitehall St,Broadway Junction,59.848333333333336
+Whitehall St,Crescent St,66.89333333333333
+Whitehall St,Cypress Hills,65.25500000000001
+Whitehall St,Northern Blvd,59.505
+Whitehall St,Sutphin Blvd,88.12833333333333
+Whitehall St,Astoria Blvd,53.67833333333333
+Whitehall St,Fordham Rd,93.56
+Whitehall St,Bedford Park Blvd,99.455
+Whitehall St,Mosholu Pkwy,102.81333333333333
+Whitehall St,Botanic Garden,42.51166666666666
+Whitehall St,Dyckman St,80.84166666666667
+Whitehall St,Steinway St,58.985
+Whitehall St,Kosciuszko St,43.04666666666667
+Whitehall St,Jefferson St,42.876666666666665
+Whitehall St,Kings Hwy,56.708333333333336
+Whitehall St,Brighton Beach,72.98166666666665
+Whitehall St,Sheepshead Bay,72.47333333333333
+Whitehall St,Neck Rd,66.89166666666667
+Whitehall St,Chambers St,13.313333333333333
+Whitehall St,East Broadway,14.558333333333334
+Whitehall St,Court St,24.988333333333333
+Whitehall St,Carroll St,30.38
+Whitehall St,Spring St,16.05
+Whitehall St,Prince St,17.308333333333334
+Whitehall St,Hoyt St,28.428333333333335
+Whitehall St,City Hall,9.604999999999999
+Whitehall St,South Ferry,66.20166666666667
+Whitehall St,Bowling Green,2.3883333333333336
+Whitehall St,Wall St,3.425
+Whitehall St,Rector St,7.053333333333333
+Whitehall St,Fresh Pond Rd,56.248333333333335
+Whitehall St,Broad St,8.138333333333334
+Whitehall St,Bowery,16.736666666666668
+Whitehall St,Clark St,21.583333333333332
+Whitehall St,York St,23.125
+Whitehall St,High St,26.973333333333336
+Whitehall St,President St,44.56666666666667
+Whitehall St,Woodlawn,106.475
+Whitehall St,Bleecker St,17.81833333333333
+Whitehall St,Cortelyou Rd,54.33833333333334
+Whitehall St,Parkchester,79.74499999999999
+Whitehall St,Franklin St,13.405
+Rector St,Astor Pl,17.88
+Rector St,Canal St,12.223333333333333
+Rector St,Bergen St,30.73166666666667
+Rector St,Freeman St,84.53166666666667
+Rector St,Junction Blvd,70.68666666666667
+Rector St,Chauncey St,54.690000000000005
+Rector St,Union St,38.21333333333334
+Rector St,Pelham Pkwy,99.08
+Rector St,Gun Hill Rd,107.02333333333333
+Rector St,Simpson St,80.97166666666666
+Rector St,Bronx Park East,91.98333333333333
+Rector St,Winthrop St,56.49666666666667
+Rector St,Kingsbridge Rd,90.17666666666668
+Rector St,Prospect Park,54.66
+Rector St,Broadway,57.20166666666667
+Rector St,Lorimer St,33.28333333333333
+Rector St,Halsey St,51.026666666666664
+Rector St,Park Pl,5.33
+Rector St,Middletown Rd,92.08333333333333
+Rector St,Court Sq,46.718333333333334
+Rector St,Houston St,15.870000000000001
+Rector St,Broad Channel,90.99499999999999
+Rector St,Ocean Pkwy,74.3
+Rector St,Rockaway Blvd,80.74333333333334
+Rector St,Beverly Rd,59.845
+Rector St,Grand Army Plaza,39.916666666666664
+Rector St,Fulton St,5.868333333333334
+Rector St,Borough Hall,32.21666666666667
+Rector St,Aqueduct Racetrack,88.90166666666667
+Rector St,Morris Park,96.83166666666666
+Rector St,Nevins St,35.355000000000004
+Rector St,Sterling St,51.376666666666665
+Rector St,Hewes St,30.628333333333334
+Rector St,Grand St,14.21
+Rector St,Parsons Blvd,92.77833333333334
+Rector St,Pelham Bay Park,98.055
+Rector St,Woodhaven Blvd,72.09166666666667
+Rector St,Cleveland St,67.37833333333333
+Rector St,Junius St,66.16166666666666
+Rector St,Broadway Junction,58.90833333333333
+Rector St,Crescent St,65.95333333333333
+Rector St,Cypress Hills,64.315
+Rector St,Northern Blvd,58.565000000000005
+Rector St,Sutphin Blvd,87.18833333333333
+Rector St,Astoria Blvd,57.181666666666665
+Rector St,Fordham Rd,100.54833333333333
+Rector St,Bedford Park Blvd,102.95833333333333
+Rector St,Mosholu Pkwy,106.31666666666666
+Rector St,Botanic Garden,46.015
+Rector St,Dyckman St,76.88000000000001
+Rector St,Steinway St,58.044999999999995
+Rector St,Kosciuszko St,44.82833333333333
+Rector St,Jefferson St,41.93666666666666
+Rector St,Kings Hwy,60.211666666666666
+Rector St,Brighton Beach,76.485
+Rector St,Sheepshead Bay,75.97666666666667
+Rector St,Neck Rd,70.395
+Rector St,Chambers St,12.183333333333334
+Rector St,East Broadway,13.618333333333334
+Rector St,Court St,28.491666666666667
+Rector St,Carroll St,33.88333333333333
+Rector St,Spring St,13.475
+Rector St,Prince St,15.254999999999999
+Rector St,Hoyt St,31.93166666666667
+Rector St,City Hall,6.6899999999999995
+Rector St,South Ferry,62.24
+Rector St,Bowling Green,2.4016666666666664
+Rector St,Wall St,5.823333333333333
+Rector St,Whitehall St,3.8
+Rector St,Fresh Pond Rd,55.30833333333333
+Rector St,Broad St,2.7883333333333336
+Rector St,Bowery,15.19
+Rector St,Clark St,25.086666666666666
+Rector St,York St,26.628333333333334
+Rector St,High St,30.476666666666667
+Rector St,President St,48.07
+Rector St,Woodlawn,109.97833333333332
+Rector St,Bleecker St,15.286666666666667
+Rector St,Cortelyou Rd,57.84166666666667
+Rector St,Parkchester,83.24833333333332
+Rector St,Franklin St,10.49
+Fresh Pond Rd,Astor Pl,45.555
+Fresh Pond Rd,Canal St,45.57166666666667
+Fresh Pond Rd,Bergen St,44.71333333333334
+Fresh Pond Rd,Freeman St,91.67333333333333
+Fresh Pond Rd,Junction Blvd,32.92666666666666
+Fresh Pond Rd,Chauncey St,16.33
+Fresh Pond Rd,Union St,42.72833333333333
+Fresh Pond Rd,Pelham Pkwy,106.265
+Fresh Pond Rd,Gun Hill Rd,114.20833333333333
+Fresh Pond Rd,Simpson St,88.11333333333333
+Fresh Pond Rd,Bronx Park East,99.16833333333334
+Fresh Pond Rd,Winthrop St,41.29833333333333
+Fresh Pond Rd,Kingsbridge Rd,107.11333333333333
+Fresh Pond Rd,Prospect Park,46.655
+Fresh Pond Rd,Broadway,37.781666666666666
+Fresh Pond Rd,Lorimer St,24.708333333333332
+Fresh Pond Rd,Halsey St,8.378333333333334
+Fresh Pond Rd,Park Pl,49.46666666666667
+Fresh Pond Rd,Middletown Rd,99.26833333333335
+Fresh Pond Rd,Court Sq,37.306666666666665
+Fresh Pond Rd,Houston St,48.181666666666665
+Fresh Pond Rd,Broad Channel,65.23666666666666
+Fresh Pond Rd,Ocean Pkwy,79.67666666666668
+Fresh Pond Rd,Rockaway Blvd,30.37
+Fresh Pond Rd,Beverly Rd,44.92166666666667
+Fresh Pond Rd,Grand Army Plaza,37.09166666666667
+Fresh Pond Rd,Fulton St,50.15833333333333
+Fresh Pond Rd,Borough Hall,44.34666666666667
+Fresh Pond Rd,Aqueduct Racetrack,38.52833333333333
+Fresh Pond Rd,Morris Park,104.01666666666667
+Fresh Pond Rd,Nevins St,40.236666666666665
+Fresh Pond Rd,Sterling St,37.01
+Fresh Pond Rd,Hewes St,26.291666666666668
+Fresh Pond Rd,Grand St,40.73166666666667
+Fresh Pond Rd,Parsons Blvd,46.29666666666667
+Fresh Pond Rd,Pelham Bay Park,105.24
+Fresh Pond Rd,Woodhaven Blvd,21.71833333333333
+Fresh Pond Rd,Cleveland St,20.451666666666664
+Fresh Pond Rd,Junius St,31.05666666666667
+Fresh Pond Rd,Broadway Junction,20.436666666666667
+Fresh Pond Rd,Crescent St,15.58
+Fresh Pond Rd,Cypress Hills,13.941666666666666
+Fresh Pond Rd,Northern Blvd,32.26
+Fresh Pond Rd,Sutphin Blvd,40.70666666666667
+Fresh Pond Rd,Astoria Blvd,43.99666666666667
+Fresh Pond Rd,Fordham Rd,104.205
+Fresh Pond Rd,Bedford Park Blvd,110.1
+Fresh Pond Rd,Mosholu Pkwy,113.45833333333333
+Fresh Pond Rd,Botanic Garden,38.92833333333333
+Fresh Pond Rd,Dyckman St,103.705
+Fresh Pond Rd,Steinway St,35.531666666666666
+Fresh Pond Rd,Kosciuszko St,18.62
+Fresh Pond Rd,Jefferson St,14.325
+Fresh Pond Rd,Kings Hwy,74.29333333333334
+Fresh Pond Rd,Brighton Beach,78.44833333333332
+Fresh Pond Rd,Sheepshead Bay,72.28
+Fresh Pond Rd,Neck Rd,66.975
+Fresh Pond Rd,Chambers St,50.665
+Fresh Pond Rd,East Broadway,40.40333333333333
+Fresh Pond Rd,Court St,44.28
+Fresh Pond Rd,Carroll St,47.556666666666665
+Fresh Pond Rd,Spring St,43.67333333333333
+Fresh Pond Rd,Prince St,43.625
+Fresh Pond Rd,Hoyt St,41.1
+Fresh Pond Rd,City Hall,49.265
+Fresh Pond Rd,South Ferry,107.73333333333333
+Fresh Pond Rd,Bowling Green,53.925
+Fresh Pond Rd,Wall St,51.333333333333336
+Fresh Pond Rd,Whitehall St,52.695
+Fresh Pond Rd,Rector St,53.085
+Fresh Pond Rd,Broad St,55.44833333333334
+Fresh Pond Rd,Bowery,42.86666666666667
+Fresh Pond Rd,Clark St,47.251666666666665
+Fresh Pond Rd,York St,40.968333333333334
+Fresh Pond Rd,High St,48.74166666666667
+Fresh Pond Rd,President St,34.845
+Fresh Pond Rd,Woodlawn,117.11999999999999
+Fresh Pond Rd,Bleecker St,44.135
+Fresh Pond Rd,Cortelyou Rd,51.1
+Fresh Pond Rd,Parkchester,90.43333333333334
+Fresh Pond Rd,Franklin St,49.11666666666667
+Broad St,Astor Pl,19.891666666666666
+Broad St,Canal St,14.235000000000001
+Broad St,Bergen St,30.916666666666668
+Broad St,Freeman St,84.71666666666667
+Broad St,Junction Blvd,74.21000000000001
+Broad St,Chauncey St,58.21333333333334
+Broad St,Union St,38.39833333333333
+Broad St,Pelham Pkwy,99.265
+Broad St,Gun Hill Rd,107.20833333333333
+Broad St,Simpson St,81.15666666666667
+Broad St,Bronx Park East,92.16833333333334
+Broad St,Winthrop St,56.681666666666665
+Broad St,Kingsbridge Rd,100.15666666666667
+Broad St,Prospect Park,54.845
+Broad St,Broadway,57.38666666666666
+Broad St,Lorimer St,36.806666666666665
+Broad St,Halsey St,54.55
+Broad St,Park Pl,7.341666666666667
+Broad St,Middletown Rd,92.26833333333335
+Broad St,Court Sq,46.90333333333333
+Broad St,Houston St,17.881666666666668
+Broad St,Broad Channel,91.18
+Broad St,Ocean Pkwy,74.485
+Broad St,Rockaway Blvd,84.26666666666667
+Broad St,Beverly Rd,60.03
+Broad St,Grand Army Plaza,40.10166666666667
+Broad St,Fulton St,9.475
+Broad St,Borough Hall,32.401666666666664
+Broad St,Aqueduct Racetrack,92.425
+Broad St,Morris Park,97.01666666666667
+Broad St,Nevins St,35.54
+Broad St,Sterling St,51.56166666666666
+Broad St,Hewes St,34.151666666666664
+Broad St,Grand St,16.221666666666668
+Broad St,Parsons Blvd,96.30166666666668
+Broad St,Pelham Bay Park,98.24
+Broad St,Woodhaven Blvd,75.615
+Broad St,Cleveland St,70.875
+Broad St,Junius St,66.34666666666666
+Broad St,Broadway Junction,62.431666666666665
+Broad St,Crescent St,69.47666666666667
+Broad St,Cypress Hills,67.83833333333334
+Broad St,Northern Blvd,62.08833333333334
+Broad St,Sutphin Blvd,90.71166666666666
+Broad St,Astoria Blvd,57.36666666666667
+Broad St,Fordham Rd,97.24833333333332
+Broad St,Bedford Park Blvd,103.14333333333335
+Broad St,Mosholu Pkwy,106.50166666666668
+Broad St,Botanic Garden,46.2
+Broad St,Dyckman St,79.50500000000001
+Broad St,Steinway St,61.568333333333335
+Broad St,Kosciuszko St,46.735
+Broad St,Jefferson St,45.46
+Broad St,Kings Hwy,60.39666666666667
+Broad St,Brighton Beach,76.67
+Broad St,Sheepshead Bay,76.16166666666666
+Broad St,Neck Rd,70.58
+Broad St,Chambers St,14.195
+Broad St,East Broadway,17.141666666666666
+Broad St,Court St,28.676666666666666
+Broad St,Carroll St,34.068333333333335
+Broad St,Spring St,15.486666666666668
+Broad St,Prince St,17.266666666666666
+Broad St,Hoyt St,32.11666666666667
+Broad St,City Hall,8.701666666666666
+Broad St,South Ferry,64.865
+Broad St,Bowling Green,2.765
+Broad St,Wall St,6.008333333333334
+Broad St,Whitehall St,3.985
+Broad St,Rector St,4.465
+Broad St,Fresh Pond Rd,58.83166666666667
+Broad St,Bowery,17.201666666666664
+Broad St,Clark St,25.271666666666665
+Broad St,York St,26.813333333333333
+Broad St,High St,30.66166666666667
+Broad St,President St,48.255
+Broad St,Woodlawn,110.16333333333334
+Broad St,Bleecker St,17.298333333333336
+Broad St,Cortelyou Rd,58.026666666666664
+Broad St,Parkchester,83.43333333333334
+Broad St,Franklin St,12.501666666666667
+Bowery,Astor Pl,6.88
+Bowery,Canal St,5.75
+Bowery,Bergen St,37.458333333333336
+Bowery,Freeman St,75.88166666666666
+Bowery,Junction Blvd,58.88166666666667
+Bowery,Chauncey St,42.885
+Bowery,Union St,37.169999999999995
+Bowery,Pelham Pkwy,90.43
+Bowery,Gun Hill Rd,98.37333333333332
+Bowery,Simpson St,72.32166666666667
+Bowery,Bronx Park East,83.33333333333333
+Bowery,Winthrop St,48.361666666666665
+Bowery,Kingsbridge Rd,88.69333333333334
+Bowery,Prospect Park,48.35666666666667
+Bowery,Broadway,47.95333333333333
+Bowery,Lorimer St,21.478333333333335
+Bowery,Halsey St,39.22166666666667
+Bowery,Park Pl,11.096666666666666
+Bowery,Middletown Rd,83.43333333333334
+Bowery,Court Sq,37.888333333333335
+Bowery,Houston St,8.548333333333334
+Bowery,Broad Channel,101.86166666666666
+Bowery,Ocean Pkwy,85.17666666666668
+Bowery,Rockaway Blvd,68.93833333333333
+Bowery,Beverly Rd,51.71
+Bowery,Grand Army Plaza,33.99666666666666
+Bowery,Fulton St,11.788333333333332
+Bowery,Borough Hall,36.92166666666667
+Bowery,Aqueduct Racetrack,77.09666666666666
+Bowery,Morris Park,88.18166666666666
+Bowery,Nevins St,33.483333333333334
+Bowery,Sterling St,43.24166666666667
+Bowery,Hewes St,18.823333333333334
+Bowery,Grand St,1.2416666666666667
+Bowery,Parsons Blvd,80.97333333333333
+Bowery,Pelham Bay Park,89.405
+Bowery,Woodhaven Blvd,60.28666666666666
+Bowery,Cleveland St,55.57333333333334
+Bowery,Junius St,55.568333333333335
+Bowery,Broadway Junction,47.10333333333333
+Bowery,Crescent St,54.14833333333333
+Bowery,Cypress Hills,52.51
+Bowery,Northern Blvd,46.76
+Bowery,Sutphin Blvd,75.38333333333334
+Bowery,Astoria Blvd,48.531666666666666
+Bowery,Fordham Rd,85.78500000000001
+Bowery,Bedford Park Blvd,91.68
+Bowery,Mosholu Pkwy,95.03833333333334
+Bowery,Botanic Garden,40.63
+Bowery,Dyckman St,84.065
+Bowery,Steinway St,46.24
+Bowery,Kosciuszko St,33.02333333333333
+Bowery,Jefferson St,30.131666666666668
+Bowery,Kings Hwy,71.08833333333334
+Bowery,Brighton Beach,87.36166666666666
+Bowery,Sheepshead Bay,80.87333333333332
+Bowery,Neck Rd,75.61666666666666
+Bowery,Chambers St,11.370000000000001
+Bowery,East Broadway,5.135000000000001
+Bowery,Court St,33.196666666666665
+Bowery,Carroll St,40.4
+Bowery,Spring St,2.631666666666667
+Bowery,Prince St,3.9916666666666667
+Bowery,Hoyt St,32.111666666666665
+Bowery,City Hall,9.463333333333333
+Bowery,South Ferry,69.12166666666667
+Bowery,Bowling Green,15.766666666666667
+Bowery,Wall St,13.175
+Bowery,Whitehall St,14.536666666666667
+Bowery,Rector St,14.736666666666668
+Bowery,Fresh Pond Rd,43.50333333333333
+Bowery,Broad St,17.290000000000003
+Bowery,Clark St,29.791666666666668
+Bowery,York St,31.333333333333332
+Bowery,High St,35.181666666666665
+Bowery,President St,39.84666666666667
+Bowery,Woodlawn,98.7
+Bowery,Bleecker St,4.501666666666667
+Bowery,Cortelyou Rd,53.52833333333333
+Bowery,Parkchester,74.59833333333333
+Bowery,Franklin St,9.295
+Clark St,Astor Pl,36.16166666666666
+Clark St,Canal St,34.56166666666666
+Clark St,Bergen St,7.951666666666667
+Clark St,Freeman St,82.24666666666667
+Clark St,Junction Blvd,64.775
+Clark St,Chauncey St,38.885
+Clark St,Union St,14.379999999999999
+Clark St,Pelham Pkwy,96.795
+Clark St,Gun Hill Rd,104.73833333333333
+Clark St,Simpson St,78.68666666666667
+Clark St,Bronx Park East,89.69833333333332
+Clark St,Winthrop St,35.24166666666667
+Clark St,Kingsbridge Rd,97.68666666666667
+Clark St,Prospect Park,34.175
+Clark St,Broadway,54.916666666666664
+Clark St,Lorimer St,22.005
+Clark St,Halsey St,40.538333333333334
+Clark St,Park Pl,30.40666666666667
+Clark St,Middletown Rd,89.79833333333333
+Clark St,Court Sq,44.43333333333333
+Clark St,Houston St,36.66166666666666
+Clark St,Broad Channel,88.98166666666665
+Clark St,Ocean Pkwy,67.66
+Clark St,Rockaway Blvd,66.4
+Clark St,Beverly Rd,38.59
+Clark St,Grand Army Plaza,17.798333333333336
+Clark St,Fulton St,32.961666666666666
+Clark St,Borough Hall,8.096666666666668
+Clark St,Aqueduct Racetrack,72.88166666666666
+Clark St,Morris Park,94.54666666666667
+Clark St,Nevins St,9.955
+Clark St,Sterling St,30.121666666666666
+Clark St,Hewes St,21.853333333333335
+Clark St,Grand St,29.59333333333333
+Clark St,Parsons Blvd,88.83166666666666
+Clark St,Pelham Bay Park,95.77
+Clark St,Woodhaven Blvd,65.31166666666667
+Clark St,Cleveland St,49.76166666666666
+Clark St,Junius St,44.83833333333334
+Clark St,Broadway Junction,40.24166666666667
+Clark St,Crescent St,53.84666666666667
+Clark St,Cypress Hills,53.126666666666665
+Clark St,Northern Blvd,52.65333333333333
+Clark St,Sutphin Blvd,82.21833333333333
+Clark St,Astoria Blvd,54.89666666666667
+Clark St,Fordham Rd,94.77833333333334
+Clark St,Bedford Park Blvd,100.67333333333333
+Clark St,Mosholu Pkwy,104.03166666666667
+Clark St,Botanic Garden,24.759999999999998
+Clark St,Dyckman St,88.805
+Clark St,Steinway St,51.41
+Clark St,Kosciuszko St,30.06833333333333
+Clark St,Jefferson St,34.585
+Clark St,Kings Hwy,57.961666666666666
+Clark St,Brighton Beach,69.845
+Clark St,Sheepshead Bay,64.55333333333333
+Clark St,Neck Rd,59.29666666666667
+Clark St,Chambers St,37.483333333333334
+Clark St,East Broadway,27.628333333333334
+Clark St,Court St,3.6566666666666667
+Clark St,Carroll St,10.893333333333334
+Clark St,Spring St,33.126666666666665
+Clark St,Prince St,34.08
+Clark St,Hoyt St,9.048333333333334
+Clark St,City Hall,31.78166666666667
+Clark St,South Ferry,74.52666666666667
+Clark St,Bowling Green,26.08833333333333
+Clark St,Wall St,26.266666666666666
+Clark St,Whitehall St,23.691666666666666
+Clark St,Rector St,31.470000000000002
+Clark St,Fresh Pond Rd,46.68
+Clark St,Broad St,34.25833333333333
+Clark St,Bowery,31.728333333333335
+Clark St,York St,5.569999999999999
+Clark St,High St,7.975
+Clark St,President St,26.815
+Clark St,Woodlawn,107.69333333333334
+Clark St,Bleecker St,34.59
+Clark St,Cortelyou Rd,37.35666666666667
+Clark St,Parkchester,80.96333333333334
+Clark St,Franklin St,32.821666666666665
+York St,Astor Pl,35.77833333333333
+York St,Canal St,34.17833333333333
+York St,Bergen St,9.923333333333334
+York St,Freeman St,77.68
+York St,Junction Blvd,59.77166666666667
+York St,Chauncey St,37.66
+York St,Union St,14.389999999999999
+York St,Pelham Pkwy,92.22833333333332
+York St,Gun Hill Rd,100.17166666666667
+York St,Simpson St,74.11999999999999
+York St,Bronx Park East,85.13166666666666
+York St,Winthrop St,34.455000000000005
+York St,Kingsbridge Rd,93.11999999999999
+York St,Prospect Park,32.72
+York St,Broadway,48.255
+York St,Lorimer St,17.00166666666667
+York St,Halsey St,36.82666666666667
+York St,Park Pl,30.023333333333333
+York St,Middletown Rd,85.23166666666665
+York St,Court Sq,37.998333333333335
+York St,Houston St,36.27833333333333
+York St,Broad Channel,88.59833333333333
+York St,Ocean Pkwy,67.27666666666667
+York St,Rockaway Blvd,65.61333333333333
+York St,Beverly Rd,37.80333333333333
+York St,Grand Army Plaza,17.2
+York St,Fulton St,32.57833333333333
+York St,Borough Hall,6.85
+York St,Aqueduct Racetrack,72.14333333333335
+York St,Morris Park,89.98
+York St,Nevins St,8.76
+York St,Sterling St,29.334999999999997
+York St,Hewes St,16.85
+York St,Grand St,29.209999999999997
+York St,Parsons Blvd,84.09666666666666
+York St,Pelham Bay Park,91.20333333333333
+York St,Woodhaven Blvd,57.19166666666667
+York St,Cleveland St,48.925
+York St,Junius St,44.05166666666666
+York St,Broadway Junction,39.405
+York St,Crescent St,51.05333333333333
+York St,Cypress Hills,49.415
+York St,Northern Blvd,47.65
+York St,Sutphin Blvd,78.50666666666666
+York St,Astoria Blvd,50.330000000000005
+York St,Fordham Rd,90.21166666666666
+York St,Bedford Park Blvd,96.10666666666665
+York St,Mosholu Pkwy,99.46499999999999
+York St,Botanic Garden,23.973333333333336
+York St,Dyckman St,89.71166666666666
+York St,Steinway St,46.406666666666666
+York St,Kosciuszko St,25.95
+York St,Jefferson St,30.873333333333335
+York St,Kings Hwy,57.833333333333336
+York St,Brighton Beach,69.46166666666666
+York St,Sheepshead Bay,63.098333333333336
+York St,Neck Rd,57.84166666666667
+York St,Chambers St,37.1
+York St,East Broadway,27.245
+York St,Court St,5.141666666666667
+York St,Carroll St,12.766666666666667
+York St,Spring St,32.74333333333333
+York St,Prince St,32.08166666666667
+York St,Hoyt St,5.336666666666667
+York St,City Hall,31.398333333333333
+York St,South Ferry,74.14333333333335
+York St,Bowling Green,25.705
+York St,Wall St,25.883333333333333
+York St,Whitehall St,23.308333333333334
+York St,Rector St,31.086666666666666
+York St,Fresh Pond Rd,42.968333333333334
+York St,Broad St,33.875
+York St,Bowery,31.345000000000002
+York St,Clark St,6.716666666666667
+York St,High St,8.206666666666667
+York St,President St,26.028333333333332
+York St,Woodlawn,103.12666666666668
+York St,Bleecker St,32.59166666666667
+York St,Cortelyou Rd,35.901666666666664
+York St,Parkchester,76.39666666666668
+York St,Franklin St,32.43833333333333
+High St,Astor Pl,39.28333333333333
+High St,Canal St,37.68333333333333
+High St,Bergen St,14.911666666666667
+High St,Freeman St,85.36833333333334
+High St,Junction Blvd,66.62666666666667
+High St,Chauncey St,44.115
+High St,Union St,20.60666666666667
+High St,Pelham Pkwy,99.91666666666667
+High St,Gun Hill Rd,107.86
+High St,Simpson St,81.80833333333334
+High St,Bronx Park East,92.82
+High St,Winthrop St,40.67833333333333
+High St,Kingsbridge Rd,100.80833333333334
+High St,Prospect Park,38.93666666666666
+High St,Broadway,55.11
+High St,Lorimer St,23.85666666666667
+High St,Halsey St,43.281666666666666
+High St,Park Pl,33.528333333333336
+High St,Middletown Rd,92.92
+High St,Court Sq,44.85333333333333
+High St,Houston St,39.78333333333333
+High St,Broad Channel,92.10333333333332
+High St,Ocean Pkwy,73.5
+High St,Rockaway Blvd,71.83666666666666
+High St,Beverly Rd,44.026666666666664
+High St,Grand Army Plaza,23.416666666666668
+High St,Fulton St,36.083333333333336
+High St,Borough Hall,11.545
+High St,Aqueduct Racetrack,78.36666666666666
+High St,Morris Park,97.66833333333334
+High St,Nevins St,14.953333333333335
+High St,Sterling St,35.55833333333333
+High St,Hewes St,23.705
+High St,Grand St,32.715
+High St,Parsons Blvd,90.55166666666668
+High St,Pelham Bay Park,98.89166666666667
+High St,Woodhaven Blvd,63.64666666666667
+High St,Cleveland St,55.14833333333333
+High St,Junius St,50.275
+High St,Broadway Junction,45.62833333333333
+High St,Crescent St,57.50833333333333
+High St,Cypress Hills,55.87
+High St,Northern Blvd,54.505
+High St,Sutphin Blvd,84.96166666666666
+High St,Astoria Blvd,58.01833333333333
+High St,Fordham Rd,97.9
+High St,Bedford Park Blvd,103.795
+High St,Mosholu Pkwy,107.15333333333334
+High St,Botanic Garden,30.196666666666665
+High St,Dyckman St,91.92666666666668
+High St,Steinway St,53.26166666666666
+High St,Kosciuszko St,32.405
+High St,Jefferson St,37.32833333333333
+High St,Kings Hwy,61.33833333333334
+High St,Brighton Beach,75.685
+High St,Sheepshead Bay,69.315
+High St,Neck Rd,64.05833333333334
+High St,Chambers St,40.605000000000004
+High St,East Broadway,30.75
+High St,Court St,8.221666666666668
+High St,Carroll St,18.146666666666665
+High St,Spring St,36.248333333333335
+High St,Prince St,37.20166666666667
+High St,Hoyt St,11.791666666666666
+High St,City Hall,34.90333333333333
+High St,South Ferry,77.64833333333333
+High St,Bowling Green,29.209999999999997
+High St,Wall St,29.388333333333332
+High St,Whitehall St,26.813333333333333
+High St,Rector St,34.59166666666667
+High St,Fresh Pond Rd,49.42333333333333
+High St,Broad St,37.38
+High St,Bowery,34.85
+High St,Clark St,7.6066666666666665
+High St,York St,7.421666666666667
+High St,President St,32.251666666666665
+High St,Woodlawn,110.815
+High St,Bleecker St,37.711666666666666
+High St,Cortelyou Rd,42.11833333333333
+High St,Parkchester,84.08500000000001
+High St,Franklin St,35.943333333333335
+President St,Astor Pl,44.958333333333336
+President St,Canal St,44.975
+President St,Bergen St,21.305
+President St,Freeman St,92.095
+President St,Junction Blvd,59.76
+President St,Chauncey St,21.696666666666665
+President St,Union St,16.431666666666665
+President St,Pelham Pkwy,106.64333333333335
+President St,Gun Hill Rd,114.58666666666666
+President St,Simpson St,88.53500000000001
+President St,Bronx Park East,99.54666666666667
+President St,Winthrop St,11.221666666666666
+President St,Kingsbridge Rd,107.53500000000001
+President St,Prospect Park,14.931666666666667
+President St,Broadway,55.69166666666667
+President St,Lorimer St,20.685
+President St,Halsey St,27.283333333333335
+President St,Park Pl,48.87
+President St,Middletown Rd,99.64666666666668
+President St,Court Sq,45.776666666666664
+President St,Houston St,47.585
+President St,Broad Channel,72.735
+President St,Ocean Pkwy,50.74666666666667
+President St,Rockaway Blvd,44.005
+President St,Beverly Rd,14.845
+President St,Grand Army Plaza,10.545
+President St,Fulton St,49.56166666666666
+President St,Borough Hall,25.285
+President St,Aqueduct Racetrack,50.486666666666665
+President St,Morris Park,104.395
+President St,Nevins St,18.566666666666666
+President St,Sterling St,2.455
+President St,Hewes St,23.13
+President St,Grand St,40.135
+President St,Parsons Blvd,66.43666666666667
+President St,Pelham Bay Park,105.61833333333334
+President St,Woodhaven Blvd,45.99666666666667
+President St,Cleveland St,28.935
+President St,Junius St,20.45
+President St,Broadway Junction,22.983333333333334
+President St,Crescent St,34.531666666666666
+President St,Cypress Hills,38.225
+President St,Northern Blvd,53.434999999999995
+President St,Sutphin Blvd,65.13333333333334
+President St,Astoria Blvd,60.12
+President St,Fordham Rd,104.62666666666668
+President St,Bedford Park Blvd,110.52166666666668
+President St,Mosholu Pkwy,113.88000000000001
+President St,Botanic Garden,7.033333333333333
+President St,Dyckman St,104.12666666666668
+President St,Steinway St,53.05833333333333
+President St,Kosciuszko St,20.778333333333332
+President St,Jefferson St,28.6
+President St,Kings Hwy,41.401666666666664
+President St,Brighton Beach,50.06166666666666
+President St,Sheepshead Bay,45.36333333333334
+President St,Neck Rd,40.10666666666667
+President St,Chambers St,50.068333333333335
+President St,East Broadway,39.806666666666665
+President St,Court St,25.21833333333333
+President St,Carroll St,22.53666666666667
+President St,Spring St,43.07666666666667
+President St,Prince St,43.02833333333333
+President St,Hoyt St,23.476666666666667
+President St,City Hall,48.66833333333333
+President St,South Ferry,95.53500000000001
+President St,Bowling Green,47.15333333333333
+President St,Wall St,50.736666666666665
+President St,Whitehall St,44.75666666666667
+President St,Rector St,52.47833333333333
+President St,Fresh Pond Rd,35.30833333333333
+President St,Broad St,55.266666666666666
+President St,Bowery,42.269999999999996
+President St,Clark St,28.258333333333333
+President St,York St,26.28166666666667
+President St,High St,31.37
+President St,Woodlawn,117.54166666666667
+President St,Bleecker St,43.538333333333334
+President St,Cortelyou Rd,18.01833333333333
+President St,Parkchester,90.81166666666667
+President St,Franklin St,48.519999999999996
+Woodlawn,Astor Pl,96.82166666666667
+Woodlawn,Canal St,104.16833333333334
+Woodlawn,Bergen St,115.00500000000001
+Woodlawn,Freeman St,34.568333333333335
+Woodlawn,Junction Blvd,105.13666666666667
+Woodlawn,Chauncey St,130.36833333333334
+Woodlawn,Union St,115.42
+Woodlawn,Pelham Pkwy,23.990000000000002
+Woodlawn,Gun Hill Rd,20.283333333333335
+Woodlawn,Simpson St,38.27166666666667
+Woodlawn,Bronx Park East,24.186666666666667
+Woodlawn,Winthrop St,129.455
+Woodlawn,Kingsbridge Rd,13.473333333333333
+Woodlawn,Prospect Park,127.61833333333334
+Woodlawn,Broadway,82.70833333333333
+Woodlawn,Lorimer St,110.22666666666667
+Woodlawn,Halsey St,120.98333333333333
+Woodlawn,Park Pl,113.33666666666666
+Woodlawn,Middletown Rd,37.63
+Woodlawn,Court Sq,89.35666666666665
+Woodlawn,Houston St,102.82166666666667
+Woodlawn,Broad Channel,175.22833333333335
+Woodlawn,Ocean Pkwy,158.54500000000002
+Woodlawn,Rockaway Blvd,140.86833333333334
+Woodlawn,Beverly Rd,132.80333333333334
+Woodlawn,Grand Army Plaza,112.875
+Woodlawn,Fulton St,110.20666666666666
+Woodlawn,Borough Hall,113.59166666666667
+Woodlawn,Aqueduct Racetrack,151.00333333333336
+Woodlawn,Morris Park,24.228333333333335
+Woodlawn,Nevins St,111.73333333333333
+Woodlawn,Sterling St,124.33500000000001
+Woodlawn,Hewes St,110.16499999999999
+Woodlawn,Grand St,99.95666666666666
+Woodlawn,Parsons Blvd,144.58166666666665
+Woodlawn,Pelham Bay Park,43.50666666666667
+Woodlawn,Woodhaven Blvd,133.695
+Woodlawn,Cleveland St,136.85666666666665
+Woodlawn,Junius St,139.12
+Woodlawn,Broadway Junction,133.07333333333332
+Woodlawn,Crescent St,131.985
+Woodlawn,Cypress Hills,130.34666666666666
+Woodlawn,Northern Blvd,90.56166666666667
+Woodlawn,Sutphin Blvd,142.24833333333333
+Woodlawn,Astoria Blvd,82.68833333333333
+Woodlawn,Fordham Rd,16.396666666666665
+Woodlawn,Bedford Park Blvd,8.448333333333332
+Woodlawn,Mosholu Pkwy,6.086666666666667
+Woodlawn,Botanic Garden,118.97333333333333
+Woodlawn,Dyckman St,29.976666666666667
+Woodlawn,Steinway St,88.71666666666667
+Woodlawn,Kosciuszko St,119.50833333333334
+Woodlawn,Jefferson St,117.615
+Woodlawn,Kings Hwy,144.45666666666665
+Woodlawn,Brighton Beach,160.73
+Woodlawn,Sheepshead Bay,160.22166666666666
+Woodlawn,Neck Rd,154.64
+Woodlawn,Chambers St,109.78833333333334
+Woodlawn,East Broadway,104.125
+Woodlawn,Court St,112.85333333333332
+Woodlawn,Carroll St,118.15666666666667
+Woodlawn,Spring St,100.98833333333333
+Woodlawn,Prince St,99.65
+Woodlawn,Hoyt St,110.17833333333333
+Woodlawn,City Hall,107.88166666666666
+Woodlawn,South Ferry,144.79166666666666
+Woodlawn,Bowling Green,117.74499999999999
+Woodlawn,Wall St,112.39833333333333
+Woodlawn,Whitehall St,110.09333333333333
+Woodlawn,Rector St,115.34333333333333
+Woodlawn,Fresh Pond Rd,119.85333333333332
+Woodlawn,Broad St,118.13166666666666
+Woodlawn,Bowery,100.17666666666668
+Woodlawn,Clark St,109.44833333333332
+Woodlawn,York St,106.74166666666666
+Woodlawn,High St,114.83833333333334
+Woodlawn,President St,121.02833333333334
+Woodlawn,Bleecker St,99.14333333333335
+Woodlawn,Cortelyou Rd,130.8
+Woodlawn,Parkchester,37.19833333333334
+Woodlawn,Franklin St,110.38333333333334
+Bleecker St,Astor Pl,2.378333333333333
+Bleecker St,Canal St,6.595
+Bleecker St,Bergen St,39.78
+Bleecker St,Freeman St,74.03
+Bleecker St,Junction Blvd,62.376666666666665
+Bleecker St,Chauncey St,46.38
+Bleecker St,Union St,40.665
+Bleecker St,Pelham Pkwy,88.57833333333333
+Bleecker St,Gun Hill Rd,96.52166666666668
+Bleecker St,Simpson St,70.47
+Bleecker St,Bronx Park East,81.48166666666665
+Bleecker St,Winthrop St,51.85666666666667
+Bleecker St,Kingsbridge Rd,86.84166666666667
+Bleecker St,Prospect Park,51.85166666666667
+Bleecker St,Broadway,46.10166666666667
+Bleecker St,Lorimer St,24.973333333333336
+Bleecker St,Halsey St,42.71666666666667
+Bleecker St,Park Pl,11.941666666666666
+Bleecker St,Middletown Rd,81.58166666666666
+Bleecker St,Court Sq,36.03666666666666
+Bleecker St,Houston St,7.430000000000001
+Bleecker St,Broad Channel,100.01
+Bleecker St,Ocean Pkwy,83.325
+Bleecker St,Rockaway Blvd,72.43333333333334
+Bleecker St,Beverly Rd,55.205000000000005
+Bleecker St,Grand Army Plaza,37.49166666666667
+Bleecker St,Fulton St,12.633333333333333
+Bleecker St,Borough Hall,40.44166666666667
+Bleecker St,Aqueduct Racetrack,80.59166666666667
+Bleecker St,Morris Park,86.33
+Bleecker St,Nevins St,36.97833333333333
+Bleecker St,Sterling St,46.736666666666665
+Bleecker St,Hewes St,22.31833333333333
+Bleecker St,Grand St,5.178333333333333
+Bleecker St,Parsons Blvd,84.46833333333333
+Bleecker St,Pelham Bay Park,87.55333333333333
+Bleecker St,Woodhaven Blvd,63.781666666666666
+Bleecker St,Cleveland St,59.068333333333335
+Bleecker St,Junius St,59.06333333333334
+Bleecker St,Broadway Junction,50.598333333333336
+Bleecker St,Crescent St,57.64333333333333
+Bleecker St,Cypress Hills,56.005
+Bleecker St,Northern Blvd,50.255
+Bleecker St,Sutphin Blvd,78.87833333333333
+Bleecker St,Astoria Blvd,46.68
+Bleecker St,Fordham Rd,83.93333333333334
+Bleecker St,Bedford Park Blvd,89.82833333333333
+Bleecker St,Mosholu Pkwy,93.18666666666667
+Bleecker St,Botanic Garden,44.125
+Bleecker St,Dyckman St,79.64333333333335
+Bleecker St,Steinway St,49.735
+Bleecker St,Kosciuszko St,36.51833333333333
+Bleecker St,Jefferson St,33.626666666666665
+Bleecker St,Kings Hwy,69.23666666666666
+Bleecker St,Brighton Beach,85.51
+Bleecker St,Sheepshead Bay,84.36833333333334
+Bleecker St,Neck Rd,79.11166666666666
+Bleecker St,Chambers St,12.215
+Bleecker St,East Broadway,8.655
+Bleecker St,Court St,36.71666666666667
+Bleecker St,Carroll St,42.931666666666665
+Bleecker St,Spring St,3.415
+Bleecker St,Prince St,3.3666666666666667
+Bleecker St,Hoyt St,35.60666666666667
+Bleecker St,City Hall,10.308333333333334
+Bleecker St,South Ferry,69.96666666666667
+Bleecker St,Bowling Green,17.983333333333334
+Bleecker St,Wall St,14.555
+Bleecker St,Whitehall St,15.916666666666666
+Bleecker St,Rector St,15.581666666666667
+Bleecker St,Fresh Pond Rd,46.998333333333335
+Bleecker St,Broad St,18.37
+Bleecker St,Bowery,4.075
+Bleecker St,Clark St,33.31166666666667
+Bleecker St,York St,32.17
+Bleecker St,High St,38.70166666666667
+Bleecker St,President St,43.34166666666667
+Bleecker St,Woodlawn,96.84833333333333
+Bleecker St,Cortelyou Rd,57.02333333333333
+Bleecker St,Parkchester,72.74666666666667
+Bleecker St,Franklin St,10.139999999999999
+Cortelyou Rd,Astor Pl,57.715
+Cortelyou Rd,Canal St,57.73166666666667
+Cortelyou Rd,Bergen St,30.8
+Cortelyou Rd,Freeman St,102.19
+Cortelyou Rd,Junction Blvd,75.99166666666666
+Cortelyou Rd,Chauncey St,37.809999999999995
+Cortelyou Rd,Union St,23.678333333333335
+Cortelyou Rd,Pelham Pkwy,116.73833333333333
+Cortelyou Rd,Gun Hill Rd,124.68166666666666
+Cortelyou Rd,Simpson St,98.63000000000001
+Cortelyou Rd,Bronx Park East,109.64166666666667
+Cortelyou Rd,Winthrop St,14.715
+Cortelyou Rd,Kingsbridge Rd,117.63000000000001
+Cortelyou Rd,Prospect Park,20.691666666666666
+Cortelyou Rd,Broadway,70.64166666666667
+Cortelyou Rd,Lorimer St,37.01166666666666
+Cortelyou Rd,Halsey St,43.49
+Cortelyou Rd,Park Pl,61.51
+Cortelyou Rd,Middletown Rd,109.74166666666666
+Cortelyou Rd,Court Sq,61.70166666666667
+Cortelyou Rd,Houston St,60.34166666666667
+Cortelyou Rd,Broad Channel,79.02166666666668
+Cortelyou Rd,Ocean Pkwy,32.93666666666667
+Cortelyou Rd,Rockaway Blvd,55.315000000000005
+Cortelyou Rd,Beverly Rd,7.346666666666667
+Cortelyou Rd,Grand Army Plaza,19.378333333333334
+Cortelyou Rd,Fulton St,62.318333333333335
+Cortelyou Rd,Borough Hall,35.35166666666667
+Cortelyou Rd,Aqueduct Racetrack,60.17333333333333
+Cortelyou Rd,Morris Park,114.49
+Cortelyou Rd,Nevins St,28.57
+Cortelyou Rd,Sterling St,16.315
+Cortelyou Rd,Hewes St,37.43333333333333
+Cortelyou Rd,Grand St,52.891666666666666
+Cortelyou Rd,Parsons Blvd,77.74666666666667
+Cortelyou Rd,Pelham Bay Park,115.71333333333334
+Cortelyou Rd,Woodhaven Blvd,57.555
+Cortelyou Rd,Cleveland St,42.126666666666665
+Cortelyou Rd,Junius St,30.51833333333333
+Cortelyou Rd,Broadway Junction,37.473333333333336
+Cortelyou Rd,Crescent St,46.09
+Cortelyou Rd,Cypress Hills,49.78333333333333
+Cortelyou Rd,Northern Blvd,68.385
+Cortelyou Rd,Sutphin Blvd,76.44333333333334
+Cortelyou Rd,Astoria Blvd,74.83999999999999
+Cortelyou Rd,Fordham Rd,114.72166666666666
+Cortelyou Rd,Bedford Park Blvd,120.61666666666666
+Cortelyou Rd,Mosholu Pkwy,123.975
+Cortelyou Rd,Botanic Garden,21.509999999999998
+Cortelyou Rd,Dyckman St,114.22166666666666
+Cortelyou Rd,Steinway St,68.00833333333334
+Cortelyou Rd,Kosciuszko St,36.980000000000004
+Cortelyou Rd,Jefferson St,44.718333333333334
+Cortelyou Rd,Kings Hwy,23.591666666666665
+Cortelyou Rd,Brighton Beach,32.233333333333334
+Cortelyou Rd,Sheepshead Bay,29.37
+Cortelyou Rd,Neck Rd,24.113333333333333
+Cortelyou Rd,Chambers St,62.825
+Cortelyou Rd,East Broadway,52.56333333333334
+Cortelyou Rd,Court St,35.285
+Cortelyou Rd,Carroll St,29.783333333333335
+Cortelyou Rd,Spring St,55.833333333333336
+Cortelyou Rd,Prince St,55.785
+Cortelyou Rd,Hoyt St,33.48
+Cortelyou Rd,City Hall,62.885
+Cortelyou Rd,South Ferry,105.63000000000001
+Cortelyou Rd,Bowling Green,57.248333333333335
+Cortelyou Rd,Wall St,57.42666666666666
+Cortelyou Rd,Whitehall St,54.85166666666667
+Cortelyou Rd,Rector St,62.57333333333334
+Cortelyou Rd,Fresh Pond Rd,51.505
+Cortelyou Rd,Broad St,65.36166666666666
+Cortelyou Rd,Bowery,55.026666666666664
+Cortelyou Rd,Clark St,38.325
+Cortelyou Rd,York St,36.348333333333336
+Cortelyou Rd,High St,41.43666666666666
+Cortelyou Rd,President St,19.436666666666667
+Cortelyou Rd,Woodlawn,127.63666666666667
+Cortelyou Rd,Bleecker St,56.294999999999995
+Cortelyou Rd,Parkchester,100.90666666666667
+Cortelyou Rd,Franklin St,61.276666666666664
+Parkchester,Astor Pl,75.59166666666667
+Parkchester,Canal St,82.93833333333333
+Parkchester,Bergen St,87.63166666666666
+Parkchester,Freeman St,17.826666666666664
+Parkchester,Junction Blvd,77.845
+Parkchester,Chauncey St,102.99499999999999
+Parkchester,Union St,88.04666666666667
+Parkchester,Pelham Pkwy,20.368333333333332
+Parkchester,Gun Hill Rd,28.311666666666667
+Parkchester,Simpson St,17.64
+Parkchester,Bronx Park East,12.555
+Parkchester,Winthrop St,102.08166666666666
+Parkchester,Kingsbridge Rd,31.795
+Parkchester,Prospect Park,100.24499999999999
+Parkchester,Broadway,55.416666666666664
+Parkchester,Lorimer St,82.85333333333332
+Parkchester,Halsey St,93.69166666666666
+Parkchester,Park Pl,89.33
+Parkchester,Middletown Rd,11.016666666666667
+Parkchester,Court Sq,62.065000000000005
+Parkchester,Houston St,81.2
+Parkchester,Broad Channel,147.855
+Parkchester,Ocean Pkwy,131.17166666666668
+Parkchester,Rockaway Blvd,113.57666666666667
+Parkchester,Beverly Rd,105.43
+Parkchester,Grand Army Plaza,85.50166666666668
+Parkchester,Fulton St,88.97666666666667
+Parkchester,Borough Hall,86.21833333333333
+Parkchester,Aqueduct Racetrack,123.71166666666666
+Parkchester,Morris Park,18.12
+Parkchester,Nevins St,84.36
+Parkchester,Sterling St,96.96166666666666
+Parkchester,Hewes St,82.79166666666667
+Parkchester,Grand St,78.72666666666667
+Parkchester,Parsons Blvd,117.28999999999999
+Parkchester,Pelham Bay Park,16.988333333333333
+Parkchester,Woodhaven Blvd,106.40333333333334
+Parkchester,Cleveland St,109.565
+Parkchester,Junius St,111.74666666666667
+Parkchester,Broadway Junction,105.7
+Parkchester,Crescent St,104.69333333333334
+Parkchester,Cypress Hills,103.055
+Parkchester,Northern Blvd,63.269999999999996
+Parkchester,Sutphin Blvd,114.95666666666666
+Parkchester,Astoria Blvd,55.39666666666667
+Parkchester,Fordham Rd,28.368333333333332
+Parkchester,Bedford Park Blvd,29.773333333333333
+Parkchester,Mosholu Pkwy,31.168333333333333
+Parkchester,Botanic Garden,91.6
+Parkchester,Dyckman St,43.44166666666667
+Parkchester,Steinway St,61.425
+Parkchester,Kosciuszko St,92.135
+Parkchester,Jefferson St,90.24166666666666
+Parkchester,Kings Hwy,117.08333333333333
+Parkchester,Brighton Beach,133.35666666666665
+Parkchester,Sheepshead Bay,132.84833333333333
+Parkchester,Neck Rd,127.26666666666667
+Parkchester,Chambers St,88.55833333333334
+Parkchester,East Broadway,82.895
+Parkchester,Court St,85.48
+Parkchester,Carroll St,90.78333333333333
+Parkchester,Spring St,79.75833333333334
+Parkchester,Prince St,78.42
+Parkchester,Hoyt St,82.805
+Parkchester,City Hall,86.65166666666667
+Parkchester,South Ferry,133.45
+Parkchester,Bowling Green,85.11666666666666
+Parkchester,Wall St,85.295
+Parkchester,Whitehall St,82.72
+Parkchester,Rector St,90.39333333333335
+Parkchester,Fresh Pond Rd,92.56166666666667
+Parkchester,Broad St,93.18166666666666
+Parkchester,Bowery,78.94666666666667
+Parkchester,Clark St,82.075
+Parkchester,York St,79.36833333333334
+Parkchester,High St,87.46499999999999
+Parkchester,President St,93.655
+Parkchester,Woodlawn,34.916666666666664
+Parkchester,Bleecker St,77.91333333333334
+Parkchester,Cortelyou Rd,103.42666666666668
+Parkchester,Franklin St,86.06666666666666
+Franklin St,Astor Pl,10.983333333333333
+Franklin St,Canal St,5.364999999999999
+Franklin St,Bergen St,36.001666666666665
+Franklin St,Freeman St,82.46499999999999
+Franklin St,Junction Blvd,65.73
+Franklin St,Chauncey St,49.733333333333334
+Franklin St,Union St,43.483333333333334
+Franklin St,Pelham Pkwy,97.01333333333334
+Franklin St,Gun Hill Rd,104.95666666666666
+Franklin St,Simpson St,78.905
+Franklin St,Bronx Park East,89.91666666666667
+Franklin St,Winthrop St,55.21
+Franklin St,Kingsbridge Rd,98.25333333333333
+Franklin St,Prospect Park,55.205000000000005
+Franklin St,Broadway,54.53666666666666
+Franklin St,Lorimer St,28.326666666666664
+Franklin St,Halsey St,46.07
+Franklin St,Park Pl,3.9866666666666664
+Franklin St,Middletown Rd,90.01666666666667
+Franklin St,Court Sq,44.47166666666667
+Franklin St,Houston St,8.973333333333333
+Franklin St,Broad Channel,96.33500000000001
+Franklin St,Ocean Pkwy,79.61666666666666
+Franklin St,Rockaway Blvd,75.78666666666666
+Franklin St,Beverly Rd,58.55833333333333
+Franklin St,Grand Army Plaza,40.845
+Franklin St,Fulton St,6.541666666666667
+Franklin St,Borough Hall,37.32166666666667
+Franklin St,Aqueduct Racetrack,83.945
+Franklin St,Morris Park,94.765
+Franklin St,Nevins St,40.46
+Franklin St,Sterling St,50.09
+Franklin St,Hewes St,25.671666666666667
+Franklin St,Grand St,7.413333333333333
+Franklin St,Parsons Blvd,87.82166666666667
+Franklin St,Pelham Bay Park,95.98833333333333
+Franklin St,Woodhaven Blvd,67.135
+Franklin St,Cleveland St,62.42166666666667
+Franklin St,Junius St,62.416666666666664
+Franklin St,Broadway Junction,53.95166666666667
+Franklin St,Crescent St,60.99666666666667
+Franklin St,Cypress Hills,59.358333333333334
+Franklin St,Northern Blvd,53.608333333333334
+Franklin St,Sutphin Blvd,82.23166666666665
+Franklin St,Astoria Blvd,55.115
+Franklin St,Fordham Rd,95.47666666666667
+Franklin St,Bedford Park Blvd,98.26333333333334
+Franklin St,Mosholu Pkwy,101.62166666666667
+Franklin St,Botanic Garden,47.47833333333333
+Franklin St,Dyckman St,76.03999999999999
+Franklin St,Steinway St,53.08833333333334
+Franklin St,Kosciuszko St,39.87166666666667
+Franklin St,Jefferson St,36.980000000000004
+Franklin St,Kings Hwy,65.52833333333334
+Franklin St,Brighton Beach,81.80166666666668
+Franklin St,Sheepshead Bay,81.29333333333334
+Franklin St,Neck Rd,75.71166666666666
+Franklin St,Chambers St,7.801666666666667
+Franklin St,East Broadway,9.686666666666667
+Franklin St,Court St,33.596666666666664
+Franklin St,Carroll St,39.15333333333333
+Franklin St,Spring St,7.031666666666666
+Franklin St,Prince St,8.358333333333333
+Franklin St,Hoyt St,37.03666666666666
+Franklin St,City Hall,4.078333333333333
+Franklin St,South Ferry,61.4
+Franklin St,Bowling Green,9.416666666666666
+Franklin St,Wall St,10.456666666666667
+Franklin St,Whitehall St,10.815
+Franklin St,Rector St,7.015
+Franklin St,Fresh Pond Rd,50.35166666666667
+Franklin St,Broad St,9.803333333333335
+Franklin St,Bowery,8.393333333333334
+Franklin St,Clark St,30.191666666666666
+Franklin St,York St,31.733333333333334
+Franklin St,High St,35.58166666666667
+Franklin St,President St,46.695
+Franklin St,Woodlawn,105.28333333333333
+Franklin St,Bleecker St,8.596666666666666
+Franklin St,Cortelyou Rd,60.376666666666665
+Franklin St,Parkchester,81.18166666666666
