@@ -51,6 +51,25 @@ print(best_sample)
 qaoa_result = qubo.run_qaoa(qubo_form, node_dic)
 exact_result = qubo.run_exact(qubo_form, node_dic)
 
+# ---------------------------------------------------------------------------------------------
+# Running in IBMQ hardware
+# from qiskit.utils import QuantumInstance
+
+# start = time.time()
+# algorithm_globals.random_seed = 10598
+# qi = QuantumInstance(
+#                 backend=provider.get_backend('ibm_brisbane'),
+#                 seed_simulator=algorithm_globals.random_seed,
+#                 seed_transpiler=algorithm_globals.random_seed,
+#             )
+# qaoa_mes = QAOA(optimizer=COBYLA(), initial_point=[0.0, 0.0], quantum_instance=qi)
+# qaoa = MinimumEigenOptimizer(qaoa_mes)  # using QAOA
+# qaoa_result = qaoa.solve(qubo)
+# print(qaoa_result.prettyprint())
+
+# print("Q Time: ", time.time() - start)
+# ---------------------------------------------------------------------------------------------
+
 # Step 8: Print the results
 print("Printing QAOA result:")
 print(qaoa_result.pretty_print())
