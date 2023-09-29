@@ -1,7 +1,13 @@
 # Qommute
 
+
+## Technical challenge
+
+_Create a program that applies one or more quantum algorithms to address a sustainability challenge._
+
+
 ## Introduction
-Welcome to the Quantum Routing and Placement Project! This project aims to tackle the challenging task of optimizing bus station placements and routing using a combination of quantum computing and machine learning. By leveraging cutting-edge technologies, we aim to revolutionize public transportation systems for greater efficiency and reduced delays.
+Welcome to the *Qommute* - Quantum Routing and Placement Project! This project aims to tackle the challenging task of optimizing bus station placements and routing using a combination of quantum computing and machine learning. By leveraging cutting-edge technologies, we aim to revolutionize public transportation systems for greater efficiency and reduced delays.
 
 ## Table of Contents
 - [Qommute](#qommute)
@@ -14,6 +20,7 @@ Welcome to the Quantum Routing and Placement Project! This project aims to tackl
   - [Optimum Routing](#optimum-routing)
   - [Visualization](#visualization)
   - [Prerequisites](#prerequisites)
+  - [Acknowledgements](#acknowledgements)
 
 ## Getting Started
 To run this project locally, follow these steps:
@@ -33,13 +40,13 @@ To run this project locally, follow these steps:
 In the quantum placement component, we utilize quantum computing to search for the best locations for bus stations. We employ quantum algorithms and libraries like Qiskit to optimize the placement for minimal travel times and passenger convenience.
 
 ## Machine Learning Model
-Our machine learning model predicts delays in the transportation system. It is trained on a comprehensive dataset of historical transportation data, including traffic conditions, weather, and previous delays. The model architecture, dataset details, and training process can be found in the [Machine Learning Model](machine_learning_model.md) documentation.
+Our machine learning model predicts delays in the transportation system. It is trained on a comprehensive dataset of time of the year, category of transportation, previous delays, history of delays, category and subcategory of delays such as crew availability, infrastructure, police and medical, operating conditions, planned ROW works and so forth. The model architecture, dataset details, and training process can be found in the project's documentation.
 
 ## Optimum Routing
 The optimum routing component combines the results from quantum placement and the machine learning model. By factoring in both optimized placement and predicted delays, we calculate the most efficient routes for buses to minimize delays and enhance the overall transportation system.
 
 ## Visualization
-Our project offers an intuitive visualization tool to interactively explore the optimized placements and routing results. Check out the [Visualization Guide](visualization.md) for detailed information on how to use this feature.
+Our project offers an intuitive visualization tool to interactively explore the optimized placements and routing results. Check out the project's presentation for detailed information.
 
 ## Prerequisites
 The project has the following prerequisites:
@@ -48,3 +55,7 @@ The project has the following prerequisites:
 - Qiskit for quantum computing
 - PyTorch for machine learning
 
+
+## Acknowledgements
+
+This project was created at the [2023 Tandon hAQathon](https://wp.nyu.edu/haqathon/) to address a sustainability challenge to solve using quantum computation.  
