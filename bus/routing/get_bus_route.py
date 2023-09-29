@@ -36,3 +36,7 @@ visualize_solution(xcoor, ycoor, x, cost, n, K, "Quantum Solution")
 # Print the solution
 print("Quantum Solution: ", x)
 print("Quantum Solution Cost: ", cost)
+
+# save the visualization into a file
+import matplotlib.pyplot as plt
+plt.savefig('./bus_routing.png')
