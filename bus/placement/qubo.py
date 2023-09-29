@@ -9,9 +9,6 @@ from qiskit.algorithms.optimizers import COBYLA
 from qiskit.primitives import Sampler
 from qiskit_optimization.algorithms import (
     MinimumEigenOptimizer,
-    RecursiveMinimumEigenOptimizer,
-    SolutionSample,
-    OptimizationResultStatus,
 )
 from qiskit_optimization import QuadraticProgram
 from qiskit.visualization import plot_histogram
