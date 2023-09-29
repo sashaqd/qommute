@@ -105,6 +105,19 @@ def get_distance_from_nearest_site(selected_coordinates):
     
     return distance_from_site
 
+def get_delay_from_nearest_station(selected_coordinates):
+    delay_from_station = {}
+    with open("./data/metro_delay.csv", "r") as input_file:
+        next(input_file, None)
+        for line in input_file:
+            fields = line.strip().split(",")
+            station = fields[1]
+            delay = float(fields[3])
+            if station in selected_coordinates.keys():
+                delay_from_station[station] = delay
+    
+    return delay_from_station
+
 def normalize(dic):
     max_value = max(dic.values())
     min_value = min(dic.values())

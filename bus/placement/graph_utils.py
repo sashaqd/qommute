@@ -1,4 +1,4 @@
-from getter_functions import get_no_of_people_at_station, get_distance_from_nearest_site, normalize
+from getter_functions import get_no_of_people_at_station, get_distance_from_nearest_site, get_delay_from_nearest_station, normalize
 
 import rustworkx
 import matplotlib.pyplot as plt
@@ -28,21 +28,24 @@ def make_node_edge(selected_coordinates, stations_dic):
     node_dic = {}
     f_list = get_no_of_people_at_station(selected_coordinates)
     g_list = get_distance_from_nearest_site(selected_coordinates)
+    h_list = get_delay_from_nearest_station(selected_coordinates)
 
     f_list = normalize(f_list)
     g_list = normalize(g_list)
+    h_list = normalize(h_list)
 
     # print(f_list)
 
     for (key, _) in selected_coordinates.items():
         # print(key)
         if (key in f_list) and (key in g_list):
-            node_dic[key] = { 'name':key , 'f': f_list[key] , 'g': g_list[key]}
+            node_dic[key] = { 'name':key , 'f': f_list[key] , 'g': g_list[key], 'h': h_list[key]}
 
-    C = 2
-    D = 2
+    C = 5
+    D = 3
+    E = 0.3
 
-    temp = {node: {"name": attrs["name"], "c": C*attrs["f"] + D*attrs["g"]}
+    temp = {node: {"name": attrs["name"], "c": C*attrs["f"] + D*attrs["g"] + E*attrs["h"]}
                     for node, attrs in node_dic.items()}
     node_dic = temp
 
