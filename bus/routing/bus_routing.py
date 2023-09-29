@@ -134,6 +134,10 @@ def visualize_solution(xc, yc, x, C, n, K, title_str):
             )
 
     plt.title(title_str + " cost = " + str(int(C * 100) / 100.0))
+
+    # save the visualization into a file
+    plt.savefig('./bus_routing.png')
+
     plt.show()
 
 class BusRoutingInstance:
