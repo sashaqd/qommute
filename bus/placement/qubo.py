@@ -130,7 +130,7 @@ class QUBOPlacement:
         return qp
     
     def run_qaoa(self, qubo_dict, node_dic):
-        qubo = create_problem(qubo_dict[0], len(node_dic))
+        qubo = self.create_problem(qubo_dict[0], len(node_dic))
         print(qubo.prettyprint())
 
         op, offset = qubo.to_ising()
@@ -150,7 +150,7 @@ class QUBOPlacement:
         return qaoa_result
 
     def run_exact(self, qubo_dict, node_dic):
-        qubo = create_problem(qubo_dict[0], len(node_dic))
+        qubo = self.create_problem(qubo_dict[0], len(node_dic))
         print(qubo.prettyprint())
 
         op, offset = qubo.to_ising()
