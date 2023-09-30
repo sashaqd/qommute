@@ -1,103 +1,94 @@
-from getter_functions import get_no_of_people_at_station, get_distance_from_nearest_site, get_delay_from_nearest_station, normalize
-
 import rustworkx
 import matplotlib.pyplot as plt
 from rustworkx.visualization import mpl_draw
 
-def make_node_edge(selected_coordinates, stations_dic):
-    """
-    Make a list of nodes and edges from the selected coordinates and stations dictionary
-    
-    Parameters
-    ----------
-    selected_coordinates : dict
-        Dictionary of selected coordinates
-    stations_dic : dict
-        Dictionary of stations and their distances
+from getter_functions import get_no_of_people_at_station, get_distance_from_farthest_metro, get_delay_from_nearest_station, normalize
 
-    Returns
-    -------
-    node_dic : dict
-        Dictionary of nodes
-    index_dic : dict
-        Dictionary of node indices
-    edge_dic : dict
-        Dictionary of edges
-    """
-    #node dictionary
-    node_dic = {}
-    f_list = get_no_of_people_at_station(selected_coordinates)
-    g_list = get_distance_from_nearest_site(selected_coordinates)
-    h_list = get_delay_from_nearest_station(selected_coordinates)
+class Graph:
+    def __init__(self, coordinates, selected_coordinates, station_distances, f_list, g_list, h_list) -> None:
+        self.coordinates = coordinates
+        self.selected_coordinates = selected_coordinates
+        self.station_distances = station_distances
+        self.f_list = f_list
+        self.g_list = g_list
+        self.h_list = h_list
+        self.node_dict, self.edge_dict, self.index_dict = self.create_nodes_edges(self.selected_coordinates, self.station_distances)
+        self.graph = self.make_graph(self.node_dict, self.edge_dict, self.index_dict)
 
-    f_list = normalize(f_list)
-    g_list = normalize(g_list)
-    h_list = normalize(h_list)
 
-    # print(f_list)
+    def create_nodes_edges(self, selected_coordinates:dict, station_distances:dict):
+        """
+        Takes a dictionary of coordinates and a dictionary of distances between stations as input and returns a dictionary of nodes and edges
 
-    for (key, _) in selected_coordinates.items():
-        # print(key)
-        if (key in f_list) and (key in g_list):
-            node_dic[key] = { 'name':key , 'f': f_list[key] , 'g': g_list[key], 'h': h_list[key]}
+        Parameters
+        ----------
+        selected_coordinates : dict
+            A dictionary of coordinates with the name of the city as key and a tuple of latitude and longitude as value
+        station_distances : dict
+            A dictionary of distances between stations with the name of the city as key and a tuple of latitude and longitude as value
 
-    C = 5
-    D = 3
-    E = 0.3
+        Returns
+        -------
+        node_dict : dict
+            A dictionary of nodes with the name of the city as key and a tuple of latitude and longitude as value
+        edge_dict : dict
+            A dictionary of edges with the name of the city as key and a tuple of latitude and longitude as value
+        index_dict : dict
+            A dictionary of indices with the name of the city as key and a tuple of latitude and longitude as value
+        """
+        node_dict = {}
+        edge_dict = {}
+        index_dict = {}
 
-    temp = {node: {"name": attrs["name"], "c": C*attrs["f"] + D*attrs["g"] + E*attrs["h"]}
-                    for node, attrs in node_dic.items()}
-    node_dic = temp
+        for (key, _) in selected_coordinates.items():
+            if (key in self.f_list.keys()) and (key in self.g_list.keys()) and (key in self.h_list.keys()):
+                node_dict[key] = { 'name':key, 'f': self.f_list[key], 'g': self.g_list[key], 'h': self.h_list[key] }
 
-    #node index dictionary
-    index_dic = {}
+        #constants
+        C = 5
+        D = 3
+        E = 0.3
 
-    index = 0
-    for node in node_dic:
-        index_dic[node] = index
-    index+=1
+        temp = {node: {"name": attrs["name"], "c": C*attrs["f"] + D*attrs["g"] + E*attrs["h"]}
+                    for node, attrs in node_dict.items()}
+        node_dict = temp
 
-    # #edge dictionary
-    # edge_dic = {}
+        index = 0
+        for node in node_dict:
+            index_dict[node] = index
+            index += 1
+        
+        for item in station_distances.items():
+            if (item[0][0] in node_dict) and (item[0][1] in node_dict) and item[1] <= 25:
+                edge_dict[item[0]] = {'cost': item[1]}
+        
+        return node_dict, edge_dict, index_dict
 
-    # # edges only between nodes w 30 min distance
-    # for item in stations_dic.items():
-    #   dur = item[1]
-    #   if dur <= 30:
-    #     edge_dic[item[0]] = {'cost': dur}
+    def make_graph(self, node_dict: dict, edge_dict: dict, index_dict: dict):
+        """
+        Takes a dictionary of nodes and a dictionary of edges as input and returns a graph
 
-    # will add edges for all the nodes considered
-    edge_dic = {}
-    for item in stations_dic.items():
-        if (item[0][0] in node_dic) and (item[0][1] in node_dic) and item[1] <= 25:
-            edge_dic[item[0]] = {'cost': item[1]}
+        Parameters
+        ----------
+        node_dict : dict
+            A dictionary of nodes with the name of the city as key and a tuple of latitude and longitude as value
+        edge_dict : dict
+            A dictionary of edges with the name of the city as key and a tuple of latitude and longitude as value
+        index_dict : dict
+            A dictionary of indices with the name of the city as key and a tuple of latitude and longitude as value
 
-    return node_dic, index_dic, edge_dic
+        Returns
+        -------
+        graph : rustworkx.PyGraph
+            A graph
+        """
 
-def make_graph(node_dic, index_dic, edge_dic):
-    """
-    Make a graph from the node and edge dictionaries
-    
-    Parameters
-    ----------
-    node_dic : dict
-        Dictionary of nodes
-    index_dic : dict
-        Dictionary of node indices
-    edge_dic : dict
-        Dictionary of edges
+        graph = rustworkx.PyGraph()
 
-    Returns
-    -------
-    graph : rustworkx
-        Graph of nodes and edges
-    """
-    graph = rustworkx.Graph()
+        for node in node_dict.items():
+            graph.add_node(node[1])
 
-    for node in node_dic:
-        graph.add_node(index_dic[node], **node_dic[node])
+        for edge in edge_dict.items():
+            graph.add_edge( index_dict[edge[0][0]] , index_dict[edge[0][1]] , edge[1]["cost"])
 
-    for edge in edge_dic:
-        graph.add_edge(index_dic[edge[0]], index_dic[edge[1]], **edge_dic[edge])
-
-    return graph
+        return graph
