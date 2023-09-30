@@ -58,4 +58,7 @@ The project has the following prerequisites:
 
 ## Acknowledgements
 
+**Code Devs:** [Samyam Lamichhane](https://github.com/declansam), [Sarthak Malla](https://github.com/Sarthak-Malla), [Sasha](https://github.com/Sasha-Malik)   
+**Contributors**: Aibar Talip, Andy Lee, Erik Lee, Josh Handelman 
+
 This project was created at the [2023 Tandon hAQathon](https://wp.nyu.edu/haqathon/) to address a sustainability challenge to solve using quantum computation.  
