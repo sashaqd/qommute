@@ -1,4 +1,3 @@
-
 import rustworkx
 import matplotlib.pyplot as plt
 from rustworkx.visualization import mpl_draw
