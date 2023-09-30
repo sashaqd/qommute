@@ -8,7 +8,7 @@ setup(
     author= 'Samyam Lamichhane Sarthak Malla Sasha',
     url = 'https://github.com/Sasha-Malik/Qommute',
     long_description_content_type="text/markdown",
-    packages=setuptools.find_packages('src'),
+    packages=setuptools.find_packages(where='src'),
     keywords=['route optimization', 'quantum computing', 'machine learning', 'bus station placement'],
     classifiers=[
         "Programming Language :: Python :: 3",
