@@ -13,6 +13,8 @@ Welcome to the *Qommute* - Quantum Routing and Placement Project! This project a
 - [Qommute](#qommute)
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
+  - [Website](#website)
+  - [Presentation Slides](#presentation-slides)
   - [Getting Started](#getting-started)
   - [Features](#features)
   - [Quantum Placement](#quantum-placement)
@@ -21,6 +23,15 @@ Welcome to the *Qommute* - Quantum Routing and Placement Project! This project a
   - [Visualization](#visualization)
   - [Prerequisites](#prerequisites)
   - [Acknowledgements](#acknowledgements)
+
+
+## Website   
+[Qommute Website](https://qommute.vercel.app/) 
+
+
+## Presentation Slides   
+[Qommute Presentation](https://docs.google.com/presentation/d/1Hm73Q1I7k7pZA6_5wYnJi036zoQaWq5-wcrqgWZjruE/edit#slide=id.g1e836edcafb_1_614)
+
 
 ## Getting Started
 To run this project locally, follow these steps:
