@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"nepalitokenizers.models" = ["*.json"]
+
+[project]
+name = "nepalitokenizers"
+version = "0.0.2"
+authors = [
+  { name="Samyam", email="REDACTED_EMAIL" },
+]
+description = ""
+readme = "README.md"
+license = {text = "Apache-2.0"}
+requires-python = ">=3.5"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+keywords = ['route optimization', 'quantum computing', 'machine learning', 'bus station placement']
+dependencies = [
+    "torch>=2.0.1",
+]
